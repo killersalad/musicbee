@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ENV_OrigSetPath>C:\Users\henry\AppData\Roaming\MusicBee\</ENV_OrigSetPath>
+<ENV_LibPath>D:\MusicBee\Core\</ENV_LibPath>
+<ENV_PromptLib>false</ENV_PromptLib>
+<ENV_KnownLib>
+ <string>D:\MusicBee\Core\</string>
+ <string>C:\Users\henry\Music\MusicBee\</string>
+</ENV_KnownLib>
+<SystemCacheExpiryDateTime>0</SystemCacheExpiryDateTime>
+<ENV_TempFolder />
+<CustomSortTagUpgradeMapping>;</CustomSortTagUpgradeMapping>
+<SystemStartupDock>3</SystemStartupDock>
+<SystemReAssociateFileTypesOnStartup>false</SystemReAssociateFileTypesOnStartup>
+<SystemCheckForUpdates>true</SystemCheckForUpdates>
+<SystemLastCheckedVersion>3.5.8698.34385</SystemLastCheckedVersion>
+<ENV_MusicianCreditsWarning>3</ENV_MusicianCreditsWarning>
+<ENV_SubGenre>0</ENV_SubGenre>
+<ENV_PodcastCount>142</ENV_PodcastCount>
+<ENV_PodcastNotifyState>2</ENV_PodcastNotifyState>
+<ENV_InboxNotifyState>2</ENV_InboxNotifyState>
+<SystemAssociatedFileTypes>
+</SystemAssociatedFileTypes>
+<SystemInvalidCharMapping>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+ <char>32</char>
+</SystemInvalidCharMapping>
+<SystemEncodingThreadCount>6</SystemEncodingThreadCount>
+<SystemEncodingPriority>2</SystemEncodingPriority>
+<ENV_InstallPlugins>false</ENV_InstallPlugins>
+<SystemPlugin>
+ <State>
+  <Id>C:\Program Files (x86)\MusicBee\Plugins\mb_TheaterModePlugin.dll</Id>
+  <Name>Theater Mode</Name>
+  <Description>Display a customisable theater mode view</Description>
+  <Enabled>true</Enabled>
+ </State>
+ <State>
+  <Id>C:\Users\henry\AppData\Roaming\MusicBee\Plugins\mb_MediaControl.dll</Id>
+  <Name>Media Control</Name>
+  <Description>Enables MusicBee to interact with the Windows 10/11 Media Control overlay.</Description>
+  <Enabled>true</Enabled>
+ </State>
+</SystemPlugin>
+<NavigatorArtworkScale>0.96</NavigatorArtworkScale>
+<SystemArtworkSmallSize>274</SystemArtworkSmallSize>
+<ENV_CardScale>0.6</ENV_CardScale>
+<NavigatorInitialFileOpenPath />
+<SystemClipboardTrackInfoLine1>
+ <NamingRule>
+  <Field>32</Field>
+  <Text> - </Text>
+ </NamingRule>
+ <NamingRule>
+  <Field>65</Field>
+  <Text />
+ </NamingRule>
+</SystemClipboardTrackInfoLine1>
+<ENV_EqWriteable>true</ENV_EqWriteable>
+<ENV_VerifyFileMove>false</ENV_VerifyFileMove>
+<ENV_LastSendToPlaylist>D:\MusicBee\Core\Playlists\Cold Steel.mbp</ENV_LastSendToPlaylist>
+<ENV_ExportPlaylistsOnRestart>false</ENV_ExportPlaylistsOnRestart>
+<Tool_PicViewerEnabled>false</Tool_PicViewerEnabled>
+<NetworkUseProxy>false</NetworkUseProxy>
+<NetworkUsername />
+<NetworkPassword />
+<WebMaxSimultaneousDownloads>3</WebMaxSimultaneousDownloads>
+<WebDownloadsMusicFilenameRules>
+ <NamingRule>
+  <Field>32</Field>
+  <Text> - </Text>
+ </NamingRule>
+ <NamingRule>
+  <Field>65</Field>
+  <Text />
+ </NamingRule>
+</WebDownloadsMusicFilenameRules>
+<WebFreeDbServer2>gnudb.gnudb.org</WebFreeDbServer2>
+<NavigatorDefaultDownloadCategory>2</NavigatorDefaultDownloadCategory>
+<NavigatorLastDownloadMoveToDirectory>C:\Users\henry\Music\</NavigatorLastDownloadMoveToDirectory>
+<SystemLockMode>10</SystemLockMode>
+<SystemLockOnRestart>false</SystemLockOnRestart>
+<SystemShutdownMode>0</SystemShutdownMode>
+<SystemShutdownTrigger>0</SystemShutdownTrigger>
+<SystemShutdownPeriod>0</SystemShutdownPeriod>
+<SystemShutdownFadeStart>0</SystemShutdownFadeStart>
+<GUI_Skin>Dark-Fine Tuned\Rosewood.xml</GUI_Skin>
+<GUI_Borders>false</GUI_Borders>
+<GUI_UseLightDark>false</GUI_UseLightDark>
+<GUI_Skin_0>Dark-Fine Tuned\Rosewood.xml</GUI_Skin_0>
+<GUI_StartTime_0>1440</GUI_StartTime_0>
+<GUI_CustomBackgroundEnabled_0>true</GUI_CustomBackgroundEnabled_0>
+<GUI_CustomBackground_0>C:\Users\henry\OneDrive\Pictures\Visualvault\3 - Resources\Outbox\Wallpapers\devil_may_cry_trish_wallpaper_darker_edit.jpg</GUI_CustomBackground_0>
+<GUI_StartTime_1>420</GUI_StartTime_1>
+<GUI_CustomBackgroundEnabled_1>false</GUI_CustomBackgroundEnabled_1>
+<GUI_StartTime_2>1140</GUI_StartTime_2>
+<GUI_CustomBackgroundEnabled_2>false</GUI_CustomBackgroundEnabled_2>
+<GUI_Font>
+ <FontFamily>Verdana</FontFamily>
+ <Size>9</Size>
+ <Style>Regular</Style>
+</GUI_Font>
+<SystemLanguage />
+<SystemShowSplashScreen>true</SystemShowSplashScreen>
+<SystemStartMinimised>false</SystemStartMinimised>
+<SystemMinimiseTo>0</SystemMinimiseTo>
+<SystemAlwaysShowTrayIcon>true</SystemAlwaysShowTrayIcon>
+<SystemTrayDoubleClickAction>GeneralShowMainPanel</SystemTrayDoubleClickAction>
+<SystemTraySingleClickAction>GeneralShowTrackInfo</SystemTraySingleClickAction>
+<GUI_MouseSpeedAdjust>0</GUI_MouseSpeedAdjust>
+<NavigatorDisableInPlaceEditing>false</NavigatorDisableInPlaceEditing>
+<GUI_RetagOnDrop>false</GUI_RetagOnDrop>
+<GUI_LyricsFloating>false</GUI_LyricsFloating>
+<GUI_LockArtistPicRotation>false</GUI_LockArtistPicRotation>
+<SystemLockCoverArt>false</SystemLockCoverArt>
+<FormAutoMinimise>false</FormAutoMinimise>
+<FormNowPlayingTitleBarEnabled>true</FormNowPlayingTitleBarEnabled>
+<GUI_ShowOvrAsTab>true</GUI_ShowOvrAsTab>
+<SystemAutoFitColumns>true</SystemAutoFitColumns>
+<GUI_RowPadding>1</GUI_RowPadding>
+<GUI_NarrowScrB>true</GUI_NarrowScrB>
+<GUI_LockLayout>false</GUI_LockLayout>
+<GUI_ArtistPicCircle>false</GUI_ArtistPicCircle>
+<GUI_SyncPlaySelect>false</GUI_SyncPlaySelect>
+<FormPlayerShowRemaining>true</FormPlayerShowRemaining>
+<GUI_DisableRowAutoSelect>false</GUI_DisableRowAutoSelect>
+<GUI_DisableGradientColors>false</GUI_DisableGradientColors>
+<HotKeys>
+ <KeyCommandPair>
+  <Key>113</Key>
+  <Command>EditClickedColumn</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>116</Key>
+  <Command>GeneralReload</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131156</Key>
+  <Command>FileNewTab</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131159</Key>
+  <Command>FileCloseTab</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>45</Key>
+  <Command>FileScanNewMedia</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131137</Key>
+  <Command>EditSelectAll</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131160</Key>
+  <Command>EditCut</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131139</Key>
+  <Command>EditCopy</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131158</Key>
+  <Command>EditPaste</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>65549</Key>
+  <Command>EditProperties</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131142</Key>
+  <Command>EditCustomSearch</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131151</Key>
+  <Command>EditPreferences</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262253</Key>
+  <Command>RatingSelectedFilesTickDown</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262251</Key>
+  <Command>RatingSelectedFilesTickUp</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262192</Key>
+  <Command>RatingSelectedFiles0</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262193</Key>
+  <Command>RatingSelectedFiles1</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262194</Key>
+  <Command>RatingSelectedFiles2</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262195</Key>
+  <Command>RatingSelectedFiles3</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262196</Key>
+  <Command>RatingSelectedFiles4</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262197</Key>
+  <Command>RatingSelectedFiles5</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262333</Key>
+  <Command>RatingSelectedFilesNone</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393325</Key>
+  <Command>RatingNowPlayingTickDown</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393323</Key>
+  <Command>RatingNowPlayingTickUp</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393264</Key>
+  <Command>RatingNowPlaying0</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393265</Key>
+  <Command>RatingNowPlaying1</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393266</Key>
+  <Command>RatingNowPlaying2</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393267</Key>
+  <Command>RatingNowPlaying3</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393268</Key>
+  <Command>RatingNowPlaying4</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393269</Key>
+  <Command>RatingNowPlaying5</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393405</Key>
+  <Command>RatingNowPlayingNone</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131140</Key>
+  <Command>NowPlayingBookmark</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>176</Key>
+  <Command>MultiMediaNext</Command>
+  <IsGlobal>true</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>179</Key>
+  <Command>MultiMediaPlayPause</Command>
+  <IsGlobal>true</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>177</Key>
+  <Command>MultiMediaPrevious</Command>
+  <IsGlobal>true</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>178</Key>
+  <Command>MultiMediaStop</Command>
+  <IsGlobal>true</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262157</Key>
+  <Command>PlaybackPlayNow</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131150</Key>
+  <Command>PlaybackNextTrack</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393302</Key>
+  <Command>PlaybackVolumeMute</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393254</Key>
+  <Command>PlaybackVolumeUp</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>393256</Key>
+  <Command>PlaybackVolumeDown</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131085</Key>
+  <Command>PlaybackPlayLast</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>196621</Key>
+  <Command>PlaybackPlayNext</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131152</Key>
+  <Command>PlaybackPlayPause</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131138</Key>
+  <Command>PlaybackPreviousTrack</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131155</Key>
+  <Command>PlaybackStop</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131154</Key>
+  <Command>ToolsAutoOrganise</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262226</Key>
+  <Command>ToolsRipCd</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>196692</Key>
+  <Command>ToolsAutoTagAlbum</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131148</Key>
+  <Command>ToolsAutoTagAll</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>196694</Key>
+  <Command>ToolsAnalyseVolume</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262218</Key>
+  <Command>ViewJumpList</Command>
+  <IsGlobal>true</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262213</Key>
+  <Command>ViewFilesToEdit</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>262214</Key>
+  <Command>ViewNowPlayingTrackFinder</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>122</Key>
+  <Command>ViewVisualiserToggleFullScreen</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131149</Key>
+  <Command>ViewToggleMiniPlayer</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131141</Key>
+  <Command>GeneralGotoSearch</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>196647</Key>
+  <Command>ViewToggleRightMainPanel</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+ <KeyCommandPair>
+  <Key>131260</Key>
+  <Command>ViewToggleMicroPlayer</Command>
+  <IsGlobal>false</IsGlobal>
+ </KeyCommandPair>
+</HotKeys>
+<HotkeysMouseX1>PlaybackPreviousTrack</HotkeysMouseX1>
+<HotkeysMouseX2>PlaybackNextTrack</HotkeysMouseX2>
+<ConfirmationPermanentDelete>true</ConfirmationPermanentDelete>
+<ConfirmationPromptDeleteFromPlaylist>true</ConfirmationPromptDeleteFromPlaylist>
+<ConfirmationDisablePermDeleteFromPlaylist>false</ConfirmationDisablePermDeleteFromPlaylist>
+<ConfirmationPromptNoPasteTags>false</ConfirmationPromptNoPasteTags>
+<ConfirmationCheckDuplicatesInPlaylist>true</ConfirmationCheckDuplicatesInPlaylist>
+<ConfirmationCheckDuplicatesInPlayingTracks>true</ConfirmationCheckDuplicatesInPlayingTracks>
+<ConfirmationPromptForPictureSaveOptions>true</ConfirmationPromptForPictureSaveOptions>
+<ConfirmationDefaultFileDeleteOption>1</ConfirmationDefaultFileDeleteOption>
+<DefaultPlaylistFileDelete>0</DefaultPlaylistFileDelete>
+<ConfirmationPromptMoveFiles>true</ConfirmationPromptMoveFiles>
+<ConfirmationPromptWarnMisssingTags>true</ConfirmationPromptWarnMisssingTags>
+<ConfirmationPromptRemoveDeadLinks2>true</ConfirmationPromptRemoveDeadLinks2>
+<ConfirmationPromptShutdown>false</ConfirmationPromptShutdown>
+<NavigatorSearchSpecific>false</NavigatorSearchSpecific>
+<NavigatorSearchUrl>false</NavigatorSearchUrl>
+<NavigatorSearchShowAlbum>false</NavigatorSearchShowAlbum>
+<NavigatorSearchShowArtworkAlbum>true</NavigatorSearchShowArtworkAlbum>
+<CustSearchAutoClose>true</CustSearchAutoClose>
+<SearchFilterResults>true</SearchFilterResults>
+<ArtistSortMapping>Marty RobbinsRobbins, MartyMasami Ueda &amp; Masakazu SugimoriUeda, Masami &amp; Sugimori, MasakazuMasami Ueda, Masakazu Sugimori &amp; Sayaka MoritaUeda, Masami, Sugimori, Masakazu &amp; Morita, SayakaMasami UedaUeda, MasamiMasakazu SugimoriSugimori, MasakazuMasami Ueda &amp; Sayaka MoritaUeda, Masami &amp; Morita, SayakaSayaka MoritaMorita, SayakaSyun NishigakiNishigaki, ShunMasami Ueda, Shusaku Uchiyama &amp; Syun NishigakiUeda, Masami, Uchiyama, Shusaku &amp; Nishigaki, ShunShusaku UchiyamaUchiyama, ShusakuHideaki Utsumi &amp; Wataru HamaUtsumi, Hideaki &amp; Hama, Wataru浜渦正志Hamauzu, MasashiMasashi Hamauzu; 浜渦正志Hamauzu, Masashi高中正義Takanaka, MasayoshiMasayoshi TakanakaTakanaka, MasayoshiMichael HoenigHoenig, MichaelMichael Hoenig &amp; Sam HulickHoenig, Michael &amp; Hulick, SamSam HulickHulick, SamInon ZurZur, InonHoward DrossinDrossin, HowardMick Gordon &amp; Chad MossholderGordon, Mick &amp; Mossholder, ChadMick GordonGordon, MickYasunori Mitsuda &amp; Millennial FairMitsuda, Yasunori＆Millennial FairMillennial FairMitsuda, Yasunori &amp; Millennial FairNamco Consumer Software Sound TeamNamco Sound TeamNaoki SatoSatō, NaokiTaichi MasterMaster, TaichiRiow AraiArai, RiowSusumu YokotaYokota, SusumuFumiya TanakaTanaka, FumiyaNobuo UematsuUematsu, NobuoNujabes / Fat JonNujabes / Fat Jon the Ample Soul PhysicianFat JonFat Jon the Ample Soul Physicianthe Disney Studio ChorusDisney Studio ChorusOliver WallaceWallace, OliverDonald Novis and the Disney Studio ChorusNovis, Donald and Disney Studio ChorusPeggy LeeLee, PeggyPeggy Lee and Peggy LeeLee, Peggy and Lee, PeggyGeorge Givot and the Disney Studio ChorusGivot, George and Disney Studio ChorusThe MelomenMellomen, ThePeggy Lee and The MelomenLee, Peggy and Mellomen, TheOl’ Dirty Bastard feat. Chris RockOl’ Dirty Bastard feat. Rock, ChrisBlake PerduePerdue, BlakeRussell CoxCox, RussellReuben Kee &amp; pixietricksKee, Reuben &amp; pixietricksThe Koopa TroopKoopa Troop, TheConSoul Big BandConSoulDarby Cupit feat. Ian Martyn &amp; Andrew SternCupit, Darby feat. Martyn, Ian &amp; Stern, AndrewJosh Barron feat. The TravelersBarron, Josh feat. Travelers VGM, ThePatti Rudisill feat. Kristin NaigusRudisill, Patti feat. Naigus, KristinCierra HillHill, CierraJames C. HoffmanHoffman, James C.Sean SchafianskiSchafianski, SeanYounes ElbayadElbayad, YounesJoel EverettEverett, JoelFredrik Häthén feat. The ETHEReal String OrchestraHäthén, Fredrik feat. ETHEReal String OrchestraIan MartynMartyn, IanEmmanuel LagumbayLagumbay, EmmanuelTim YarbroughYarbrough, TimJosh CorteseCortese, JoshuaLeslie-Anne SnipesSnipes, Leslie-AnneChris PorterPorter, ChrisMasha LepireLepire, MashaHatHatVGMFelipe SalinasSalinas, FelipeZero NimbusNimbus, ZeroDaniel RombergerRomberger, DanielLink VS The Bwak ChoirLink VS Bwak Choir, TheCharles RitzRitz, CharlesTim RoskoRosko, TimNathaniel ChambersChambers, NathanielDaniel BrakkeBrakke, DanielDarby &amp; IanCupit, Darby &amp; Martyn, IanJordan Chin feat. Ian HarshmanChin, Jordan feat. Harshman, IanCarboHydroM &amp; Matheus ManenteCarboHydroM &amp; Manente, MatheusThe Runaway FourRunaway Four, TheCory JohnsonJohnson, CoryThe Blast ProcessorsBlast Processors, TheTiago RodriguesRodrigues, TiagoMichael Zucker &amp; Geoff BaroneZucker, Michael &amp; Barone, GeoffThe KoopasKoopas, TheLame Genie feat. Josh HerzerLame Genie feat. Herzer, JoshAndrew Filipski feat. Joshua TaipaleFilipski, Andrew feat. Taipale, JoshuaJustin TaylorTaylor, JustinMatheus Manente &amp; Gryzor87Manente, Matheus &amp; Gryzor87Paul McCartneyMcCartney, PaulPaul McCartney &amp; WingsWingsPerturbator feat. Memory Ghost’s Isabella GoloversicPerturbator feat. Goloversic, IsabellaPerturbator feat. Greta LinkPerturbator feat. Link, GretaPerturbator feat. Hayley StewartPerturbator feat. Stewart, HayleyPhil CollinsCollins, Philcomposer:Phil CollinsCollins, PhilRamin DjawadiDjawadi, RaminThe NationalNational, TheThe Hold SteadyHold Steady, TheRamin Djawadi &amp; Serj TankianDjawadi, Ramin &amp; Tankian, SerjRamin Djawadi; City of Prague Philharmonic OrchestraDjawadi, Ramin; City of Prague Philharmonic OrchestraRandy NewmanNewman, RandyLyle Lovett &amp; Randy NewmanLovett, Lyle &amp; Newman, RandyRandy Newman &amp; John LasseterNewman, Randy &amp; Lasseter, JohnReturn to Forever featuring Chick CoreaReturn to Forever featuring Corea, ChickReturn To ForeverReturn to Forever feat. Corea, ChickRich DouglasDouglas, RichRichard M. Sherman, Robert B. Sherman &amp; Irwin KostalSherman, Richard M., Sherman, Robert B. &amp; Kostal, IrwinGlynis Johns, Hermione Baddeley &amp; Reta ShawJohns, Glynis, Baddeley, Hermione &amp; Shaw, RetaDavid TomlinsonTomlinson, DavidKaren Dotrice &amp; Matthew GarberDotrice, Karen &amp; Garber, MatthewJulie AndrewsAndrews, JulieDick Van DykeVan Dyke, DickJulie Andrews &amp; Dick Van Dyke; Additional vocals: Bill Lee, Ginny Tyler, Paul Frees, Marc Breaux, Marni Nixon &amp; Thurl RavenscroftAndrews, Julie &amp; Van Dyke, Dick; Additional vocals: Lee, Bill, Tyler, Ginny, Frees, Paul, Breaux, Marc, Nixon, Marni &amp; Ravenscroft, ThurlJulie Andrews &amp; Dick Van Dyke; Penguin waiters: Daws Butler, Peter Ellenshaw, Dal McKennon, J. Pat O&apos;Malley, Richard M. Sherman &amp; David Tomlinson Kazoo: Richard M. ShermanAndrews, Julie &amp; Van Dyke, Dick; Penguin waiters: Butler, Daws, Ellenshaw, Peter, McKennon, Dal, O&apos;Malley, J. Pat, Sherman, Richard M. &amp; Tomlinson, David Kazoo: Sherman, Richard M.Irwin Kostal (Belly Slap Soft Shoe); Richard M. Sherman (Kazoo)Kostal, Irwin (Belly Slap Soft Shoe); Sherman, Richard M. (Kazoo)Julie Andrews &amp; Dick Van Dyke; Pearly Chorus: Richard M. Sherman, Julie Andrews &amp; J. Pat O&apos;MalleyAndrews, Julie &amp; Van Dyke, Dick; Pearly Chorus: Sherman, Richard M., Andrews, Julie &amp; O&apos;Malley, J. PatEd Wynn, Julie Andrews &amp; Dick Van DykeWynn, Ed, Andrews, Julie &amp; Van Dyke, DickDavid Tomlinson &amp; Julie AndrewsTomlinson, David &amp; Andrews, JulieDavid Tomlinson &amp; “Navckid Keyd”; Banker Chorus: Arthur Malet, Bill Lee, Thurl Ravenscroft, Allan Davies &amp; William R. ColeTomlinson, David &amp; Van Dyke, Dick; Banker Chorus: Malet, Arthur, Lee, Bill, Ravenscroft, Thurl, Davies, Allan &amp; Cole, William R.Dick Van Dyke, Julie Andrews, Karen Dotrice &amp; Matthew GarberVan Dyke, Dick, Andrews, Julie, Dotrice, Karen &amp; Garber, MatthewDick Van Dyke, the Chimney Sweep Chorus and CastVan Dyke, Dick, the Chimney Sweep Chorus and CastDavid Tomlinson &amp; Dick Van DykeTomlinson, David &amp; Van Dyke, DickDavid Tomlinson, Dick Van Dyke &amp; the LondonersTomlinson, David, Van Dyke, Dick &amp; the LondonersRichard M. Sherman &amp; Robert B. ShermanSherman, Richard M. &amp; Sherman, Robert B.Richard M. ShermanSherman, Richard M.Kate HigginsHiggins, KateRandy Crenshaw, Jeff Gunn &amp; Dennis KyleCrenshaw, Randy, Gunn, Jeff &amp; Kyle, DennisJuliana HansenHansen, JulianaBob Joyce, Jeff Gunn, Randy Crenshaw &amp; Dennis KyleJoyce, Bob, Gunn, Jeff, Crenshaw, Randy &amp; Kyle, DennisKate Higgins, Juliana Hansen, Jeff Gunn &amp; Bob JoyceHiggins, Kate, Hansen, Juliana, Gunn, Jeff &amp; Joyce, BobJeff Gunn, Bob Joyce, Richard M. Sherman, Kate Higgins &amp; Dennis KyleGunn, Jeff, Joyce, Bob, Sherman, Richard M., Higgins, Kate &amp; Kyle, DennisRichard M. Sherman, Robert B. Sherman, Don DaGradi &amp; P.L. TraversSherman, Richard M., Sherman, Robert B., DaGradi, Don &amp; Travers, P.L.Richard M. Sherman, Robert B. Sherman, Julie Andrews, Dick Van Dyke &amp; Dick TufeldSherman, Richard M., Sherman, Robert B., Andrews, Julie, Van Dyke, Dick &amp; Tufeld, DickRobin Carolan &amp; Sebastian GainsboroughCarolan, Robin &amp; Gainsborough, SebastianシートベルツSeatbelts, TheSeatbeltsSeatbelts, TheShusaku Uchiyama, Masami Ueda, Zhenlan Kang, Kentaro Nakashima &amp; Tadayoshi MakinoUchiyama, Shusaku, Ueda, Masami, Kang, Zhenlan, Nakashima, Kentaro &amp; Makino, TadayoshiZhenlan KangKang, ZhenlanKentaro NakashimaNakashima, KentaroTadayoshi MakinoMakino, TadayoshiSimonetti Morante PignatelliSimonetti, Claudio Morante, Massimo Pignatelli, FabioSimonetti - Pignatelli - MoranteSimonetti, Claudio - Pignatelli, Fabio - Morante, MassimoSpongeBob SquarePantsSquarePants, SpongeBobDavid Eisley &amp; Bob KulickEisley, David Glen &amp; Kulick, BobAvril LavigneLavigne, AvrilThe Flaming LipsFlaming Lips, TheMike Simpson with SpongeBob, Patrick &amp; Goofy GooberSimpson, Mike with SquarePants, SpongeBob, Star, Patrick &amp; Goofy GooberThe Waikikis, Prince Paul &amp; WordsworthWaikikis, The, Prince Paul &amp; WordsworthSpongeBobSquarePants, SpongeBobThe ShinsShins, ThePatrickStar, PatrickSpongeBob, Patrick &amp; The MonstersSquarePants, SpongeBob, Star, Patrick &amp; Monsters, TheTom Rothrock with Jim WiseRothrock, Tom with Wise, JimPlus-Tech Squeezebox featuring SpongeBobPlus-Tech Squeeze Box featuring SquarePants, SpongeBobThe PiratesPirates, TheChristian GulinoGulino, Christian関口シンゴSekiguchi, ShingoタカラダミチノブTakarada, Michinobu森なみこMori, Namiko没 a.k.a NGSBotsu a.k.a NGSLonely BoyHeath, Joshua山下拓也Yamashita, TakuyaShingo SuzukiSuzuki, ShingoDJ SynthesizerKakegawa, YoskeStephen RippyRippy, StephenStephen Rippy &amp; Kevin McMullanRippy, Stephen &amp; McMullan, KevinKevin McMullanMcMullan, Kevin石元丈晴Ishimoto, TakeharuTakeharu Ishimoto; 石元丈晴Ishimoto, Takeharu外山和彦Toyama, Kazuhiko絢香ayakaPyotr Ilyich TchaikovskyTchaikovsky, Pyotr IlyichTchaikovsky; Ida Haendel, London Symphony Orchestra, André PrevinTchaikovsky, Pyotr Ilyich; Haendel, Ida, London Symphony Orchestra, Previn, AndréTchaikovsky; London Symphony Orchestra, André PrevinTchaikovsky, Pyotr Ilyich; London Symphony Orchestra, Previn, AndréThe Allman Brothers BandAllman Brothers Band, TheBill GrahamAllman Brothers Band, TheThe AvalanchesAvalanches, TheThe BeatlesBeatles, TheGeorge Martin and His OrchestraMartin, George and Martin, George, OrchestraThe CranberriesCranberries, TheThe Cranberries feat. PavarottiCranberries, The feat. Pavarotti, LucianoThe Depreciation GuildDepreciation Guild, TheThe DublinersDubliners, TheThe Fall of TroyFall of Troy, TheThe FlashbulbFlashbulb, TheThe Mars VoltaMars Volta, TheThe Notorious B.I.G.Notorious B.I.G., TheThe Notorious B.I.G. feat. R. KellyNotorious B.I.G., The feat. Kelly, R.The Notorious B.I.G. feat. The LoxNotorious B.I.G., The feat. LOX, TheThe Notorious B.I.G. feat. Jay‐Z &amp; Angela WinbushNotorious B.I.G., The feat. JAY‐Z &amp; Winbush, AngelaThe Notorious B.I.G. feat. Mase &amp; Puff DaddyNotorious B.I.G., The feat. Mase &amp; DiddyThe Notorious B.I.G. feat. Lil’ KimNotorious B.I.G., The feat. Lil’ KimThe Notorious B.I.G. feat. 112Notorious B.I.G., The feat. 112The Notorious B.I.G. feat. Too $hort &amp; Puff DaddyNotorious B.I.G., The feat. Too Short &amp; DiddyThe Notorious B.I.G. feat. DMCNotorious B.I.G., The feat. DMCThe Peter Brötzmann OctetBrötzmann, Peter Octet, TheThe Red KrayolaRed Krayola, TheThe Smashing PumpkinsSmashing Pumpkins, TheThe ZombiesZombies, TheTobias GustavssonGustavsson, TobiasTomáš DvořákDvořák, TomášTomas Dvorak; Tomáš DvořákDvořák, TomášVojtěch ŽelinskýŽelinský, VojtěchKoji Kondo &amp; Toru MinegishiKondo, Koji &amp; Minegishi, ToruToru Minegishi, Asuka Ohta, Koji Kondo &amp; Mahito YokotaMinegishi, Toru, Ohta, Asuka, Kondo, Koji &amp; Yokota, MahitoKoji Kondo &amp; Mahito YokotaKondo, Koji &amp; Yokota, MahitoToru MinegishiMinegishi, ToruKoji Kondo &amp; Asuka OhtaKondo, Koji &amp; Ohta, AsukaTrevor MorrisMorris, TrevorTsuneo ImahoriImahori, TsuneoTsuneo Imahori; 今堀恒雄Imahori, Tsuneo今堀恒雄Imahori, TsuneoAKIMA &amp; NEOSAKIMA&amp;NEOS秋間経夫Akima, TsuneoTyler, the Creator featuring Casey VeggiesTyler, the Creator featuring Veggies, CaseyTyler, the Creator featuring Hodgy BeatsTyler, the Creator featuring HodgyTyler, the Creator featuring EarlTyler, the Creator featuring Earl SweatshirtTyler, the Creator featuring Hodgy Beats and BranDun DeshayTyler, the Creator featuring Hodgy and DeShay, brandUnTyler, the Creator featuring Jasper and TacoTyler, the Creator featuring Dolphin, Jasper and Bennett, TacoVAUematsu, NobuoMartin O’Donnell &amp; Michael SalvatoriO’Donnell, Martin &amp; Salvatori, MichaelVA; Martin O’Donnell; Michael SalvatoriUematsu, Nobuo; Salvatori, MichaelMasashi HamauzuHamauzu, MasashiVA; Masashi Hamauzu, Naoshi Mizuta &amp; Mitsuto SuzukiUematsu, NobuoNaoshi MizutaMizuta, NaoshiMitsuto SuzukiSuzuki, MitsutoMitsuto Suzuki &amp; Naoshi MizutaSuzuki, Mitsuto &amp; Mizuta, NaoshiMitsuto Suzuki &amp; Masashi HamauzuSuzuki, Mitsuto &amp; Hamauzu, MasashiNaoshi Mizuta &amp; Masashi HamauzuMizuta, Naoshi &amp; Hamauzu, MasashiVA; Namco Consumer Software Sound TeamUematsu, Nobuo植松伸夫Uematsu, NobuoVA; Various ArtistsUematsu, Nobuo植松伸夫 &amp; 白鳥英美子Uematsu, Nobuo &amp; Shiratori, Emiko仲野順也Nakano, Junya水田直志Mizuta, Naoshi谷岡久美Tanioka, Kumi小林未郁Kobayashi, Mika崎元仁Sakimoto, HitoshiFrances MayaMaya, FrancesSusan CallowayCalloway, Susan祖堅正慶Soken, MasayoshiMichael-Christopher Koji FoxKoji Fox, Michael-Christopher下村陽子Shimomura, Yōko柴田徹也Shibata, Tetsuya安藤まさひろAndō, Masahiro足立賢明Adachi, KemmeiMaki MannamiMannami, MakiYuto TakeiTakei, Yuto井上日徳Inoue, NittokuRyo SonodaSonoda, RyoYuki OikeOike, Yuki坂東慧Bandō, Satoshi佐藤雄大Satō, Yūdai嘉生大樹Kasho, DaikiTaku YabukiYabuki, TakuNorihito SumitomoSumitomo, NorihitoSeigen TokuzawaTokuzawa, SeigenTaroma KoshidaKoshida, TaromaKeiji InaiInai, KeijiDaisuke KawaiKawai, Daisuke山口彰久Yamaguchi, AkihisaVA; 植松伸夫Uematsu, NobuoBill MuirMuir, Bill松枝賀子 &amp; 江口貴勅Matsueda, Noriko &amp; Eguchi, TakahitoユウナAoki, Mayuko江口貴勅 &amp; 松枝賀子Eguchi, Takahito &amp; Matsueda, NorikoThe Friends of DistinctionFriends Of DistinctionThe Isley BrothersIsley BrothersHall &amp; OatesHall, Daryl &amp; Oates, JohnWill FerrellFerrell, WillRon BurgundyBurgundy, RonChristopher CrossCross, ChristopherJohn WaiteWaite, JohnRon Burgundy &amp; Brian FantanaBurgundy, Ron &amp; Fantana, BrianNeil DiamondDiamond, NeilRon Burgundy &amp; Walter BurgundyBurgundy, Ron &amp; Burgundy, WalterKenny LogginsLoggins, KennyJay FergusonFerguson, JayChamp KindKind, ChampEngland Dan &amp; John Ford ColeyEngland Dan &amp; Coley, John FordRon Burgundy &amp; Brick TamlandBurgundy, Ron &amp; Tamland, BrickPeter Tevis &amp; Ennio MorriconeTevis, Peter &amp; Morricone, EnnioRobin Thicke &amp; Ron BurgundyThicke, Robin &amp; Burgundy, RonRyan AmonAmon, Ryan齋藤司Saitoh, TsukasaCris VelascoVelasco, Cris北村友香Kitamura, YukaMichael WandmacherWandmacher, MichaelNobuyoshi SuzukiSuzuki, Nobuyoshi鈴木伸嘉Suzuki, NobuyoshiBrendon SmallSmall, BrendonReg TilsleyTilsley, RegSonny SharrockSharrock, SonnyEddie HorstHorst, Eddie戸越まごめTogoshi, Magome折戸伸治Orito, Shinji麻枝准Maeda, JunMai YamaneYamane, MaiSteve ConteConte, SteveThe SeatbeltsSeatbelts, TheSYDNEY with sister RSYDNEY &amp; Sister REmily BindigerBindiger, EmilyJerzy KnetigKnetig, JerzyAoi TadaTada, AoiAndreas WaldetoftWaldetoft, AndreasNina Åkerblom NielsenWaldetoft, AndreasM.C. Pea Pod &amp; Paul GordonM.C. Pea Pod &amp; Gordon, PaulPaul GordonGordon, PaulThe Mighty Mighty BosstonesMighty Mighty Bosstones, TheJames RussoRusso, JamesLuis Bacalov &amp; Rocky RobertsBacalov, Luis &amp; Roberts, RockyEnnio MorriconeMorricone, EnnioChristoph WaltzWaltz, ChristophLuis Bacalov &amp; Edda Dell’OrsoBacalov, Luis &amp; Dell’Orso, EddaAnthony Hamilton &amp; Elayna BoyntonHamilton, Anthony &amp; Boynton, ElaynaDon JohnsonJohnson, DonLuis BacalovBacalov, LuisDon StraudStraud, DonJim CroceCroce, JimRiz OrtolaniOrtolani, RizRick RossRoss, RickJerry Goldsmith feat. Pat MethenyGoldsmith, Jerry feat. Metheny, PatSamuel L. JacksonJackson, Samuel L.Ennio Morricone &amp; Elisa ToffoliMorricone, Ennio &amp; ElisaJames Brown &amp; 2PacBrown, James &amp; 2PacJohn LegendLegend, JohnAnnibale e I cantori moderniAnnibale e cantori moderni di Alessandroni, I戸室仁人Tomuro, Yoshito辻横由佳 &amp; 春日沙樹Tsujiyoko, Yuka &amp; Kasuga, Saki寺前香菜子Teramae, Kanako吉田淳志Yoshida, Atsushi春山沙樹Haruyama, Saki吉田淳志 &amp; 春山沙樹Yoshida, Atsushi &amp; Haruyama, Saki辻横由佳Tsujiyoko, Yuka春山沙樹 &amp; 辻横由佳Haruyama, Saki &amp; Tsujiyoko, Yuka三留尚子Mitome, Naoko寺前香菜子 &amp; 春山沙樹Teramae, Kanako &amp; Haruyama, Saki辻横由佳 &amp; 戸室仁人Tsujiyoko, Yuka &amp; Tomuro, YoshitoMiho FukuharaFukuhara, MihoShoko NakagawaNakagawa, ShokoGo IchinoseIchinose, GoJunichi Masuda &amp; Go IchinoseMasuda, Jun&apos;ichi &amp; Ichinose, GoMorikazu AokiAoki, MorikazuJunichi MasudaMasuda, Jun&apos;ichiJunichi Masuda &amp; Morikazu AokiMasuda, Jun&apos;ichi &amp; Aoki, MorikazuHitomi Sato &amp; Go IchinoseSato, Hitomi &amp; Ichinose, GoKenji Matsushima &amp; Go IchinoseMatsushima, Kenji &amp; Ichinose, GoTony BennettBennett, TonyThe MoonglowsMoonglows, TheThe CadillacsCadillacs, TheBilly Ward and His DominoesWard, Billy and His DominoesThe ChantelsChantels, TheThe HarptonesHarptones, TheThe Shangri‐LasShangri‐Las, TheAretha FranklinFranklin, ArethaBobby DarinDarin, BobbyMichael HunterHunter, Michael2 Pac2PacJames BrownBrown, JamesEddie MoneyMoney, EddieThe MaytalsToots &amp; The MaytalsRick JamesJames, RickLyn CollinsCollins, LynMax Romeo &amp; The UpsettersRomeo, Max &amp; Upsetters, TheWillie NelsonNelson, WillieThe RaspberriesRaspberriesNorman GreenbaumGreenbaum, NormanDavid BowieBowie, DavidElvin BishopBishop, ElvinThe Jackson 5Jacksons, TheThe RunawaysRunaways, TheRupert HolmesHolmes, RupertThe Five StairstepsFive StairstepsMarvin Gaye &amp; Tammi TerrellGaye, Marvin &amp; Terrell, TammiSweetSweet, TheSam CookeCooke, SamGlen CampbellCampbell, GlenGeorge HarrisonHarrison, GeorgeCat StevensStevens, CatThe Sneepers ft. David HasselhoffSneepers, The ft. Hasselhoff, DavidM|O|O|NM.O.O.N.Jasper ByrneByrne, JasperElliott BerlinBerlin, ElliottEirik SuhrkeSuhrke, EirikEl Huervo feat. Shelby CincaHuervo, El feat. Cinca, ShelbyEl HuervoHuervo, ElNancy SinatraSinatra, NancyCharlie FeathersFeathers, CharlieBernard HerrmannHerrmann, BernardThe RZARZAIsaac HayesHayes, IsaacAl HirtHirt, AlTomoyasu HoteiHotei, TomoyasuThe 5.6.7.8’s5.6.7.8’s, TheThe RZA / Charles BernsteinRZA / Bernstein, CharlesMeiko KajiKaji, MeikoZamfirZamfir, GheorgheQuincy JonesJones, QuincyAlan Reeves, Phil Steele and Philip BrighamReeves, Alan, Trainer, Phil and Brigham, PhilipJohnny CashCash, JohnnyMalcolm McLarenMcLaren, MalcolmMeiko Kaji / The Wu‐Tang ClanKaji, Meiko / Wu‐Tang ClanHippo Dreams feat. Julia HendersonHippo Dreams feat. Henderson, JuliaHarry Gregson‐WilliamsGregson‐Williams, Harry日比野則彦Hibino, Norihiko村中りかMuranaka, RikaCarla WhiteWhite, CarlaShota Kageyama &amp; Junichi MasudaKageyama, Shōta &amp; Masuda, Jun&apos;ichiShota KageyamaKageyama, ShōtaHitomi SatoSato, HitomiMinako AdachiAdachi, MinakoShota Kageyama &amp; Morikazu AokiKageyama, Shōta &amp; Aoki, MorikazuMinako Adachi &amp; Junichi MasudaAdachi, Minako &amp; Masuda, Jun&apos;ichiSatoshi Nohara &amp; Minako AdachiNohara, Satoshi &amp; Adachi, MinakoShota Kageyama &amp; Hitomi SatoKageyama, Shōta &amp; Sato, HitomiMinako Adachi &amp; Go IchinoseAdachi, Minako &amp; Ichinose, GoMinako Adachi、Hitomi Sato、Go IchinoseAdachi, Minako、Sato, Hitomi、Ichinose, GoXII AlfonsoXII AlphonsoSergey EybogEybog, SergeyDmitry V. SilantievSilantiev, Dmitry V.Alexander FomichevFomichev, AlexanderMikhail KotovKotov, MikhailMichail KotovKotov, MichailPaweł PerepelicaPerepelica, PawełTamara Loeffler and John SieglerLoeffler, Tamara and Siegler, JohnJohn Loeffler and John SieglerLoeffler, John and Siegler, JohnTamara Loeffler and Russell VelázquezLoeffler, Tamara and Velázquez, RussellTamara Loeffler and Ken CummingsLoeffler, Tamara and Cummings, KenTamara Loeffler and Louis Cortelezzi and Bob MayoLoeffler, Tamara, Cortelezzi, Louis and Mayo, BobDavid Rolfe and John SieglerRolfe, David and Siegler, JohnJohn Loeffler and David WolfertLoeffler, John and Wolfert, DavidNini Camps and Gary PhilipsCamps, Nini and Philips, GaryAtsushi “TOYA” TokuyaTokuya, Atsushi “TOYA”Roy Head &amp; The TraitsHead, Roy &amp; Traits, TheThe Bob Seger SystemSeger, Bob, The, SystemThe Village CallersVillage Callers, TheBuchanan BrothersBuchanan Brothers, ThePaul Revere &amp; the RaidersRevere, Paul and the RaidersThe Box TopsBox Tops, TheMitch Ryder &amp; The Detroit WheelsRyder, Mitch &amp; Detroit Wheels, TheBuffy Sainte‐MarieSainte‐Marie, BuffyLos BravosBravos, LosHarold E. Weed / Dana Classic FragrancesWeed, Harold E.Syd DaleDale, SydDee ClarkClark, DeeRobert CorffCorff, RobertPaul Revere &amp; the Raiders feat. Mark LindsayRevere, Paul and the Raiders feat. Lindsay, MarkJosé FelicianoFeliciano, JoséI cantori moderni di Alessandronicantori moderni di Alessandroni, IMaurice JarreJarre, MauriceThe Philharmonia Orchestra and Pinewood SingersPhilharmonia Orchestra and Pinewood Singers, TheOrchestrate[unknown]The Philharmonia OrchestraPhilharmonia OrchestraThe Slovak National Symphony OrchestraSlovak National Symphony OrchestraJames HanniganHannigan, JamesThe Pinewood SingersPinewood Singers, ThePaul EngemannEngemann, PaulDeborah HarryHarry, DeborahAmy HollandHolland, AmyGiorgio MoroderMoroder, GiorgioE.G. DailyDaily, E.G.Beth AndersenAndersen, BethThe Living EndLiving EndThe AtarisAtarisThe BarfeedersBarfeedersThe Mr. T ExperienceMr. T ExperienceThe DickiesDickiesThe OffspringOffspringThe CriminalsCriminalsThe DamnedDamnedThe VandalsVandalsThe QueersQueersThe Real McKenziesReal McKenziesThe Bouncing SoulsBouncing SoulsThe Almighty Trigger HappyAlmighty Trigger HappyThe MuffsMuffsMonty Norman OrchestraNorman, Monty, OrchestraMatt MonroMonro, MattShirley BasseyBassey, ShirleyTom JonesJones, TomJohn BarryBarry, JohnCarly SimonSimon, CarlySheena EastonEaston, SheenaRita CoolidgeCoolidge, RitaGladys KnightKnight, GladysAnthony NewleyNewley, AnthonyDionne WarwickWarwick, DionneLouis ArmstrongArmstrong, LouisWalt DisneyDisney, WaltJack WagnerWagner, JackMichael GiacchinoGiacchino, MichaelBuddy Baker &amp; James AlgarBaker, Buddy &amp; Algar, JamesJames Lee MacDonald and Stuart Darlington LudlumMacDonald, James Lee and Ludlum, Stuart DarlingtonRichard M. Sherman and Robert B. ShermanSherman, Richard M. and Sherman, Robert B.John WilliamsWilliams, JohnBuddy Baker and Bob JackmanBaker, Buddy and Jackman, BobGeorge Bruns and Xavier AtencioBruns, George and Atencio, XavierXavier Atencio and Buddy BakerAtencio, Xavier and Baker, BuddyRobert MacGimsey / Allie Wrubel and Ray GilbertMacGimsey, Robert / Wrubel, Allie and Gilbert, RayGeorge E. WilkinsWilkins, GeorgeTom Adair and Charles LavereAdair, Tom and LaVere, CharlesTraditional[traditional]Sammy Fain and Jack LawrenceFain, Sammy and Lawrence, JackNed Washington and Leigh Harline / Leigh Harline and Paul J. Smith / Ned Washington and Leigh Harline / Leigh Harline / Oliver Wallace / Sammy Cahn and Sammy Fain / Ed Penner and Oliver Wallace / Jack Lawrence and Frank Churchill / Frank Churchill and ChaWashington, Ned and Harline, Leigh / Harline, Leigh and Smith, Paul J. / Washington, Ned and Harline, Leigh / Harline, Leigh / Wallace, Oliver / Cahn, Sammy and Fain, Sammy / Penner, Ed and Wallace, Oliver / Lawrence, Jack and Churchill, Frank / ChurchillLewis BertramLewis, BertGeorge BrunsBruns, GeorgeAarin RichardRichard, AarinEd Kalnins &amp; Thomas NewmanKalnins, Ed &amp; Newman, ThomasBruce BroughtonBroughton, BruceBruce HealeyHealey, BruceFrank Churchill &amp; Ann RonellChurchill, Frank &amp; Ronell, AnnMarius Constant / Richard BellisConstant, Marius / Bellis, RichardJerry GoldsmithGoldsmith, JerryDan FoliartFoliart, DanAlan Menken &amp; Howard AshmanMenken, Alan &amp; Ashman, HowardGeorge E. Wilkins &amp; Kevin RaffertyWilkins, George &amp; Rafferty, KevinPaul Woodrow Chrisman, Joey Miskulin, Douglas B. Green &amp; Fred LaBourChrisman, Paul Woodrow, Miskulin, Joey, Green, Douglas B. &amp; LaBour, FredGary Hoey &amp; George E. WilkinsHoey, Gary &amp; Wilkins, GeorgeBruno CoonCoon, BrunoAlex Levy, Amy Wells, Andrea Datzman, Chris Hardin, Craig Copeland &amp; David MartinaLevy, Alex, Amy Wells, Datzman, Andrea, Hardin, Chris, Copeland, Craig &amp; David MartinaRandy Newman, Brad Paisley &amp; Frank RogersNewman, Randy, Paisley, Brad &amp; Rogers, FrankJimmie DoddDodd, JimmieJohann Sebastian BachBach, Johann SebastianPeter Ilich TchaikovskyTchaikovsky, Pyotr IlyichPaul DukasDukas, PaulIgor StravinskyStravinsky, Igor FyodorovitchLudwig van BeethovenBeethoven, Ludwig vanAmilcare PonchielliPonchielli, AmilcareModest MussorgskyMussorgsky, Modest PetrovichFranz SchubertSchubert, FranzClaude DebussyDebussy, ClaudeSergei ProkofievProkofiev, Sergei SergeyevichRoger MillerMiller, RogerGeorge Bruns &amp; Roger MillerBruns, George &amp; Miller, RogerGeorge Bruns &amp; Floyd HuddlestonBruns, George &amp; Huddleston, FloydGlenn Grant, Milo A. Sweet, Carl Beck &amp; W.T. PurdyGrant, Glenn, Sweet, Milo A., Beck, Carl &amp; Purdy, W.T.Nancy AdamsAdams, NancyPhil Harris &amp; Andy DevineHarris, Phil &amp; Devine, AndyNancy Adams &amp; Disney Studio ChorusAdams, Nancy &amp; Disney Studio ChorusPeter UstinovUstinov, PeterPete RenoudetRenoudet, PetePhil Harris, Andy Devine &amp; Disney Studio ChorusHarris, Phil, Devine, Andy &amp; Disney Studio ChorusLouis PrimaPrima, LouisLouis Prima &amp; Disney Children&apos;s ChorusPrima, Louis &amp; Disney Children&apos;s ChorusMary CostaCosta, MaryMary Costa &amp; Bill ShirleyCosta, Mary &amp; Shirley, BillBill Thompson &amp; Taylor HolmesThompson, Bill &amp; Holmes, TaylorHans Conried &amp; Bill ThompsonConried, Hans &amp; Thompson, BillRandy Crenshaw &amp; Dennis KyleCrenshaw, Randy &amp; Kyle, DennisVerna Felton, Barbara Jo Allen &amp; Coleen CollinsFelton, Verna, Allen, Barbara Jo &amp; Collins, ColeenCindy Robinson &amp; Linda KernsRobinson, Cindy &amp; Kerns, LindaTutti Camarata OrchestraCamarata, Toots and Orchestra, HisMary Costa &amp; Bill LeeCosta, Mary &amp; Lee, BillMaurice ChevalierChevalier, MauriceGeorges BizetBizet, GeorgesLiz English, Robie Lester, Dean Clark and Gary DubinEnglish, Liz, Lester, Robie, Clark, Dean and Dubin, GaryPhil HarrisHarris, PhilScatman Crothers, Phil Harris, Thurl Ravenscroft, Robie Lester and Liz EnglishScatman Crothers, Harris, Phil, Ravenscroft, Thurl, Lester, Robie and English, LizScatman Crothers, Phil Harris, Ruth Buzzi and ChorusScatman Crothers, Harris, Phil, Buzzi, Ruth and ChorusCorey Burton and Kate HigginsBurton, Corey and Higgins, KateRandy CrenshawCrenshaw, RandyTy TaylorTaylor, TyThe Mike Sammes SingersSammes, Mike Singers, TheSusan Novack, Gregory Novack, Victor Sweler and The Mike Sammes SingersNovack, Susan, Novack, Gegory, Sweler, Victor and Sammes, Mike Singers, TheRobie LesterLester, RobiePhil Harris and The Mike Sammes SingersHarris, Phil and Sammes, Mike Singers, TheRob DDougan, RobProdigyProdigy, TheRob ZombieZombie, RobRob DouganDougan, RobOakenfoldOakenfold, PaulDave Matthews BandMatthews, Dave, BandDon DavisDavis, DonJuno Reactor &amp; Don DavisJuno Reactor &amp; Davis, DonJeff SilvermanSilverman, JeffWoody JacksonJackson, WoodyMario BatkovicBatkovic, MarioMichael LeonhartLeonhart, MichaelColin StetsonStetson, ColinA Tribe Called QuestTribe Called Quest, AAlex LaheyLahey, AlexChick NorrisNorris, ChickThe High &amp; Mighty feat. Mos Def &amp; Mad SkillzHigh &amp; Mighty, The feat. Mos Def &amp; SkillzPapaSean feat. Alley LifeBlack Planet feat. Alley LifeDJ Cheapshot feat. Ryu, Leon Rockmore &amp; Styles of BeyondCheapshot, DJ feat. Ryu, Leon Rockmore &amp; Styles of BeyondThe ErniesErnies, TheThe Suicide MachinesSuicide Machines, TheCliff Edwards &amp; Disney Studio ChorusEdwards, Cliff &amp; Disney Studio ChorusLeigh Harline &amp; Ned WashingtonHarline, Leigh &amp; Washington, NedLeigh Harline &amp; ReesHarline, Leigh &amp; ReesLeigh HarlineHarline, LeighLeigh Harline &amp; Paul J. SmithHarline, Leigh &amp; Smith, Paul J.Cliff Edwards &amp; Dickie JonesEdwards, Cliff &amp; Jones, DickieWalter CatlettCatlett, WalterDickie JonesJones, DickieLeigh Harline, Paul J. Smith &amp; Ned WashingtonHarline, Leigh, Smith, Paul J. &amp; Washington, NedKate Higgins, Cindy Robinson, Randy Crenshaw &amp; Jeff GunnHiggins, Kate, Robinson, Cindy, Crenshaw, Randy &amp; Gunn, JeffCliff Edwards, The Mouseketeers &amp; Disney Studio ChorusEdwards, Cliff, Mouseketeers, The &amp; Disney Studio ChorusCliff EdwardsEdwards, CliffDavid Ogden Stiers, Tony Jay, Paul Kandel &amp; Chorus - The Hunchback Of Notre DameStiers, David Ogden, Jay, Tony, Kandel, Paul &amp; [Disney]Alan MenkenMenken, AlanTony Jay &amp; Tom HulceJay, Tony &amp; Hulce, TomPaul Kandel &amp; Chorus - The Hunchback Of Notre DameKandel, Paul &amp; [Disney]Heidi Mollenhauer &amp; Chorus - The Hunchback Of Notre DameMollenhauer, Heidi &amp; [Disney]Tom Hulce, Tony Jay &amp; Chorus - The Hunchback Of Notre DameHulce, Tom, Jay, Tony &amp; [Disney]Jason Alexander, Charles Kimbrough, Mary Wickes &amp; Mary StoutAlexander, Jason, Kimbrough, Charles, Wickes, Mary &amp; Stout, MaryAll‐4-OneAll‐4‐OneBette MidlerMidler, BetteAlan Menken &amp; Stephen SchwartzMenken, Alan &amp; Schwartz, StephenJens Janke, Norbert Lamla, Carlo Lauber &amp; Chorus - The Hunchback Of Notre DameJanke, Jens, Lamla, Norbert, Lauber, Carlo &amp; [Disney]Stephen Schwartz &amp; Alan MenkenSchwartz, Stephen &amp; Menken, AlanDrew SarichSarich, DrewHeidi MollenhauerMollenhauer, HeidiAlan Menken, Heidi Mollenhauer &amp; Stephen SchwartzMenken, Alan, Mollenhauer, Heidi &amp; Schwartz, StephenDerek DukeDuke, DerekTracy W. BushBush, Tracy WardGlenn StaffordStafford, GlennJason HayesHayes, JasonTracy W. Bush &amp; Glenn StaffordBush, Tracy Ward &amp; Stafford, Glenn桜庭統 &amp; 光田康典Sakuraba, Motoi &amp; Mitsuda, Yasunori桜庭統Sakuraba, Motoi光田康典Mitsuda, Yasunori古代祐三Koshiro, Yūzō桜庭統 &amp; 高田雅史Sakuraba, Motoi &amp; Takada, Masafumi高田雅史Takada, Masafumi岩垂徳行Iwadare, Noriyuki西隆宏Nishi, Takahiro田中宏和Tanaka, Hirokazu古代祐三 &amp; 西隆宏Koshiro, Yūzō &amp; Nishi, Takahiro桜庭統 &amp; 古代祐三Sakuraba, Motoi &amp; Koshiro, Yūzō桜庭統, 古代祐三 &amp; 岩垂徳行Sakuraba, Motoi, Koshiro, Yūzō &amp; Iwadare, Noriyuki桜庭統 &amp; 岩垂徳行Sakuraba, Motoi &amp; Iwadare, NoriyukiVarious; Phil Collins &amp; Mark MancinaCollins, Phil &amp; Mancina, MarkPhil Collins and &apos;N SyncCollins, Phil and NSYNCMark MancinaMancina, MarkMark Mancina and Phil CollinsMancina, Mark and Collins, PhilVarious; Various ArtistsCollins, Phil &amp; Mancina, MarkWalter GibbonsGibbons, WalterBettye LaVetteLaVette, BettyeArts &amp; CraftsArts &amp; CraftArthur RussellRussell, ArthurYasuko AgawaAgawa, YasukoYasunori NishikiNishiki, YasunoriYoko KannoKanno, YōkoYuuka NanriNanri, YuukaAoi TeshimaTeshima, AoiTakashi MatsunagaMatsunaga, TakashiYoko Shimomura; 下村陽子Shimomura, Yōko宇多田ヒカルUtada, Hikarucomposer:下村陽子Shimomura, YōkoRichard M. Sherman, Robert B. ShermanSherman, Richard M., Sherman, Robert B.Danny ElfmanElfman, DannyМодест Петрович МусоргскийMussorgsky, Modest Petrovichcomposer:宇多田ヒカルUtada, HikaruYou &amp; Explosion BandYou &amp; The Explosion BandYou &amp; Explosion Band feat. 佐々木詩織You &amp; The Explosion Band feat. Sasaki, ShioriYou &amp; Explosion Band feat. TigerYou &amp; The Explosion Band feat. TIGERきだしゅんすけKida, Shunsukeコナミ矩形波倶楽部Konami Kukeiha Clubcomposer:今堀恒雄Imahori, Tsuneo今堀恒雄, 茂木英興Imahori, Tsuneo, Mogi, Hideoki佐藤直紀Satō, NaokiTakkyu IshinoIshino, TakkyuKo KimuraKimura, KoみとせのりこMitose, Noriko大野雄二Ohno, YujiAkira YamaokaYamaoka, Akira山岡晃Yamaoka, Akira山根ミチルYamane, MichiruRika Muranaka, Tony Haynes &amp; Jeff LorberMuranaka, Rika, Haynes, Tony &amp; Lorber, JeffKisho YamanakaYamanaka, Norimasa平澤創 &amp; 山中紀昌Hirasawa, Hajime &amp; Yamanaka, NorimasaHajime HirasawaHirasawa, Hajime影山ヒロノブ &amp; 菊池俊輔Kageyama, Hironobu &amp; Kikuchi, Shunsuke植松伸夫; Máire BhreatnachUematsu, Nobuo渋さ知らズShibusashirazu目黒将司Meguro, Shōji喜多條敦志Kitajoh, Atsushi小塚良太Kozuka, Ryota平田志穂子Hirata, Shihoko釘宮理恵Kugimiya, Rie土屋憲一Tsuchiya, Kenichi福居良Fukui, Ryo菊池ひみこKikuchi, Himiko西浦智仁Nishiura, TomohitoKoji KondoKondo, Koji近藤浩治 &amp; 若井淑Kondo, Koji &amp; Wakai, HajimeHajime WakaiWakai, Hajime近藤浩治; Koji KondoKondo, Koji近藤浩治, 峰岸透, 近藤浩治, 峰岸透Kondo, Koji, Minegishi, Toru, Kondo, Koji, Minegishi, Toru近藤浩治Kondo, Koji金﨑猛Kanazaki, Takeru金﨑猛, 森下弘生 &amp; 近藤嶺Kanazaki, Takeru, Morishita, Hiroki &amp; Kondoh, Rei森下弘生Morishita, Hiroki近藤嶺Kondoh, Rei森下弘生 &amp; 近藤嶺Morishita, Hiroki &amp; Kondoh, Rei金﨑猛 &amp; 近藤嶺Kanazaki, Takeru &amp; Kondoh, Rei金﨑猛 &amp; 森下弘生Kanazaki, Takeru &amp; Morishita, Hiroki長沼英樹Naganuma, HidekiRichard JacquesJacques, Richard山本健誌Yamamoto, Kenji大谷幸Otani, Kow大石ルミOhishi, Rumi緑川光Midorikawa, Hikaru関俊彦Seki, Toshihiko中原茂Nakahara, Shigeru折笠愛Orikasa, AiRyuzou IshinoIshino, Ryuuzou矢島晶子Yajima, Akiko紗ゆりSayuri松井菜桜子Matsui, Naoko三枝成章Saegusa, Shigeaki森口博子Moriguchi, HirokoAaron WatersWaters, AaronGraeme RevellRevell, GraemeThe Power Rangers OrchestraPower Rangers Orchestra, TheSnapSnap!Fun Tomas featuring Carl DouglasFun-Tomas featuring Douglas, CarlDan HartmanHartman, DanAaron Waters (The Mighty RAW)Waters, AaronBorislav SlavovSlavov, BorislavThe 8‐Bit Big Band8‐Bit Big Band, The石川淳Ishikawa, JunJonathan CoultonCoulton, JonathanDan HessHess, Dan久保直人Kubo, NaotoAli Bavarian; Paper SoundPaper SoundThe Allman Betts BandAllman Betts Band, TheAustin WintoryWintory, AustinAustin Wintory &amp; TripodWintory, Austin &amp; TripodThe Beach BoysBeach Boys, TheDmitri ShostakovichShostakovich, Dmitri DmitrievichDmitri Shostakovich / Rudolf BarshaiShostakovich, Dmitri Dmitrievich / Barshai, Rudolf BorisovichThe FlightFlight, TheThe Flight feat. Mike GeorgiadesFlight, The feat. Georgiades, MichaelThe Flight feat. Mike Georgiades &amp; Fanny Perrier-RochasFlight, The feat. Georgiades, Michael &amp; Perrier-Rochas, FannyThe Flight feat. Emma RohanFlight, The feat. Rohan, EmmaShostakovichShostakovich, Dmitri DmitrievichGautier Capucon; Shostakovich; Mariinsky Orchestra, Valery Gergiev, Gautier CapuçonShostakovich, Dmitri Dmitrievich; Orchestra of the Mariinsky Theatre, Gergiev, Valery Abisalovich, Capuçon, GautierGustav HolstHolst, GustavGustav Holst; BBC Philharmonic, Yan Pascal TortelierHolst, Gustav; BBC Philharmonic, Tortelier, Yan PascalCynthia HarrellHarrell, CynthiaHarry Gregson‐Williams &amp; 日比野則彦Gregson‐Williams, Harry &amp; Hibino, Norihiko戸田信子 &amp; 日比野則彦Toda, Nobuko &amp; Hibino, NorihikoHarry Gregson‐Williams &amp; Shuichi KoboriGregson‐Williams, Harry &amp; Kobori, ShuichiElisa FiorilloFiorillo, ElisaChunk RaspberryRaspberry, ChunkSergei MantisMantis, SergeiHolst; Simon Rattle, Berliner PhilharmonikerHolst, Gustav; Rattle, Simon, Berliner PhilharmonikerKaija SaariahoSaariaho, KaijaColin MatthewsMatthews, ColinMatthias PintscherPintscher, MatthiasMark-Anthony TurnageTurnage, Mark-AnthonyBrett DeanDean, BrettAlexander ScriabinScriabin, Alexander NikolayevichIgor Stravinsky, Alexander Scriabin; Mariinsky Theatre Orchestra, Valery Gergiev; Stravinsky, Scriabin; Kirov Orchestra, Valery GergievStravinsky, Igor Fyodorovitch, Scriabin, Alexander Nikolayevich; Orchestra of the Mariinsky Theatre, Gergiev, Valery AbisalovichАлександр Николаевич СкрябинScriabin, Alexander NikolayevichThe Jimi Hendrix ExperienceHendrix, Jimi, Experience, TheJoe HisaishiHisaishi, JoeYumi AraiMatsutôya, Yumi福井健一郎Fukui, KenichiroKenchiro Fukui; 福井健一郎Fukui, KenichiroAoife Ní FhearraighNí Fhearraigh, AoifeKenji KawaiKawai, KenjiThe Last Electro‐Acoustic Space Jazz &amp; Percussion EnsembleLast Electro‐Acoustic Space Jazz &amp; Percussion Ensemble, TheLeo Kaliski, Ted Reedy &amp; Derek DukeKaliski, Leo, Reedy, Ted &amp; Duke, DerekLeo Kaliski &amp; Ted ReedyKaliski, Leo &amp; Reedy, TedLeo KaliskiKaliski, LeoTed ReedyReedy, TedNeal Acree &amp; Ryan AmonAcree, Neal &amp; Amon, RyanMark MorganMorgan, MarkMark MothersbaughMothersbaugh, MarkNile Rodgers &amp; NatarajRodgers, Nile &amp; NatarajMartin O’Donnell &amp; Michael Salvatori / Martin O’Donnell, Michael Salvatori &amp; C Paul Johnson / Martin O’Donnell &amp; Michael SalvatoriO’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin, Salvatori, Michael &amp; Johnson, C Paul / O’Donnell, Martin &amp; Salvatori, MichaelMartin O’Donnell, Michael Salvatori &amp; C Paul Johnson / Martin O’Donnell &amp; Michael Salvatori / Martin O’Donnell &amp; Michael Salvatori / Martin O’Donnell &amp; Michael SalvatoriO’Donnell, Martin, Salvatori, Michael &amp; Johnson, C Paul / O’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin &amp; Salvatori, MichaelMartin O’Donnell &amp; Michael Salvatori / Martin O’Donnell &amp; Michael Salvatori / Martin O’Donnell, Michael Salvatori &amp; C Paul JohnsonO’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin, Salvatori, Michael &amp; Johnson, C PaulMartin O’Donnell &amp; Michael Salvatori / Martin O’Donnell, Michael Salvatori &amp; C Paul JohnsonO’Donnell, Martin &amp; Salvatori, Michael / O’Donnell, Martin, Salvatori, Michael &amp; Johnson, C PaulMartin O’Donnell and Michael SalvatoriO’Donnell, Martin and Salvatori, MichaelMartin O’Donnell, Michael Salvatori, C Paul Johnson and Stan LePardO’Donnell, Martin, Salvatori, Michael, Johnson, C Paul and LePard, StanMartin O’Donnell, Michael Salvatori and C Paul JohnsonO’Donnell, Martin, Salvatori, Michael and Johnson, C PaulMartin O’Donnell, Michael Salvatori and Stan LePardO’Donnell, Martin, Salvatori, Michael and LePard, StanMartin O’Donnell, Michael Salvatori, C Paul Johnson and Nik KleverovO’Donnell, Martin, Salvatori, Michael, Johnson, C Paul and Kleverov, NikMasahiko Kimura, Norikazu Miura, Michiru YamaneKimura, Masahiko, Miura, Norikazu, Yamane, MichiruMatt UelmenUelmen, MattMelan-ryu, Kimpu-ryu, Tozan-ryu, Ikuta-ryu and Kikusue-ryu[unknown]Michael Jackson with Paul McCartneyJackson, Michael with McCartney, PaulMichael JacksonJackson, MichaelMichael McCannMcCann, MichaelSascha DikiciyanDikiciyan, SaschaMichael McCann, Sascha Dikiciyan &amp; Ed HarrisonMcCann, Michael, Dikiciyan, Sascha &amp; Harrison, EdEd HarrisonHarrison, EdMichiru Yamane, Keiko Fukami, Masahiko Kimura, Konami Kukeiha Club &amp; Miki HigashinoYamane, Michiru, Fukami, Keiko, Kimura, Masahiko, Konami Kukeiha Club &amp; Higashino, MikiMick Gordon &amp; Chris HiteGordon, Mick &amp; Hite, ChrisMussorgsky; Chicago Symphony Orchestra, Fritz ReinerMussorgsky, Modest Petrovich; Chicago Symphony Orchestra, Reiner, FritzAlexander BorodinBorodin, Alexander PorfyrevichDmitri KabalevskyKabalevsky, DmitriMikhail GlinkaGlinka, Mikhail IvanovichNintendo; Koji KondoKondo, Koji松枝賀子Matsueda, NorikoNoriko Matsueda; 松枝賀子Matsueda, NorikoThe OC Jazz CollectiveFratto, Wiesty &amp; OC Jazz Collective, TheOsamu KitajimaKitajima, OsamuPaul HertzogHertzog, PaulMichael BishopBishop, MichaelStan BushBush, StanPlatina Jazz feat. Emily McEwanPlatina Jazz feat. McEwan, EmilyPlatina Jazz feat. Josefine WasslerPlatina Jazz feat. JosefinePlatina Jazz feat. Niklas GabrielssonPlatina Jazz feat. Gabrielsson, NiklasPlatina Jazz feat. Thomas EbyPlatina Jazz feat. Eby, ThomasRichard BeddowBeddow, RichardRichard Beddow, Jamie Christopherson &amp; Tim WynnBeddow, Richard, Christopherson, Jamie &amp; Wynn, TimTim WynnWynn, TimJamie ChristophersonChristopherson, JamieFrancesca SartoriSartori, FrancescaRussell BrowerBrower, RussellClint BajakianBajakian, ClintNeal AcreeAcree, NealRussell Brower, Neal AcreeBrower, Russell &amp; Guidotti, EdoEimear NooneNoone, EímearClint Bajakian, Edo GuidottiBajakian, Clint &amp; Guidotti, EdoRussell Brower, Neal Acree, Clint Bajakian, Sam Cardon, Craig Stuart Garfinkle, Edo Guidotti, Eímear NooneBrower, Russell, Acree, Neal, Bajakian, Clint, Cardon, Sam, Garfinkle, Craig Stuart, Guidotti, Edo, Noone, Eímear &amp; Hayes, JasonClint Bajakian, Eimear NooneBajakian, Clint &amp; Noone, EímearSeatbelts feat. A‐Sha Mai YamaneSeatbelts, The feat. Yamane, MaiRussell Brower, Eimear NooneBrower, Russell &amp; Noone, EímearSeatbelts feat. Elena SatineSeatbelts, The feat. Satine, ElenaSeatbelts feat. Leo ImaiSeatbelts, The feat. Imai, LeoYoko TakahashiTakahashi, YokoShiro SagisuSagisu, ShirōClaireLittley, ClaireDmitry ShostakovichShostakovich, Dmitri DmitrievichShostakovich; Russian State Symphony Orchestra, Dmitry YablonskyShostakovich, Dmitri Dmitrievich; State Symphony Orchestra &quot;Novaya Rossiya&quot;, Yablonsky, DmitrySophus Alf Agerbæk-LarsenAgerbæk-Larsen, Sophus AlfTroels Rohde JørgensenJørgensen, Troels RohdeHans ZimmerZimmer, HansStephen Schwartz &amp; Hans ZimmerSchwartz, Stephen &amp; Zimmer, HansMariah Carey and Whitney HoustonCarey, Mariah and Houston, WhitneyAmick Byram and Linda Dee ShayneByram, Amick and Shayne, Linda DeeBrian Stokes MitchellMitchell, Brian StokesOfra HazaHaza, OfraOfra Haza and Eden RiegelHaza, Ofra and Riegel, EdenSteve Martin and Martin ShortMartin, Steve and Short, MartinRalph Fiennes and Amick ByramFiennes, Ralph and Byram, AmickMichelle Pfeiffer and Sally DworskyPfeiffer, Michelle and Dworsky, SallyAmy GrantGrant, AmyJessica Andrews, Clint Black, Boyz II Men, Shirley Caesar, Jesse Campbell, Carman, Beth Nielsen Chapman, Christian, Charlie Daniels, Linda Davis, dc Talk, Danny Glover, Jeff Goldblum, Amy Grant, The Rickey Grundy Chorale, Fred Hammond &amp; Radical for ChristAndrews, Jessica, Black, Clint, Boyz II Men, Caesar, Shirley, Jesse, Carman, Chapman, Beth Nielsen, Christian, Daniels, Charlie, Davis, Linda, dc Talk, Glover, Danny, Goldblum, Jeff, Grant, Amy, Rickey Grundy Chorale, The, Hammond, Fred &amp; Radical for ChriStravinsky, Scriabin; Kirov Orchestra, Valery GergievStravinsky, Igor Fyodorovitch, Scriabin, Alexander Nikolayevich; Orchestra of the Mariinsky Theatre, Gergiev, Valery AbisalovichSun Ra and his Myth Science ArkestraSun Ra Arkestra, TheTee LopesLopes, TeeHunter BridgesBridges, HunterFalk Au YeongFalkHyper Potions feat. Jun SenoueHyper Potions feat. Senoue, JunVan MorrisonMorrison, VanKalia LyrakiLyraki, KaliaBrian TylerTyler, BrianSeán Dagher, Nils Brown &amp; Michiel SchreyDagher, Seán, Brown, Nils &amp; Schrey, MichielNils Brown, Michiel Schrey &amp; Seán DagherBrown, Nils, Schrey, Michiel &amp; Dagher, SeánMichiel Schrey, Seán Dagher &amp; Nils BrownSchrey, Michiel, Dagher, Seán &amp; Brown, NilsCharlotte Cumberbirch, Seán Dagher, Nelson Carter, Richard Irwin &amp; David GossageCumberbirch, Charlotte, Dagher, Seán, Carter, Nelson, Irwin, Richard &amp; Gossage, DaveMichiel Schrey, Seán Dagher, Richard Irwin &amp; David GossageSchrey, Michiel, Dagher, Seán, Irwin, Richard &amp; Gossage, DaveSeán Dagher, Nils Brown, Michiel Schrey, Charlotte Cumberbirch, Nelson Carter, Richard Irwin &amp; David GossageDagher, Seán, Brown, Nils, Schrey, Michiel, Cumberbirch, Charlotte, Carter, Nelson, Irwin, Richard &amp; Gossage, DaveLinda Morrison, Seán Dagher, Nelson Carter, Patrick Graham &amp; David GossageMorrison, Linda, Dagher, Seán, Carter, Nelson, Graham, Patrick &amp; Gossage, DaveMichiel Schrey, Seán Dagher, Nils Brown, Nelson Carter, Richard Irwin &amp; David GossageSchrey, Michiel, Dagher, Seán, Brown, Nils, Carter, Nelson, Irwin, Richard &amp; Gossage, DaveMarco Marin, Dominic Soulard &amp; Eric BretonMarin, Marco, Soulard, Dominic &amp; Breton, ÉricJoe Henson &amp; Alexis SmithHenson, Joe &amp; Smith, AlexisAlexis SmithSmith, AlexisJoe Henson, Alexis Smith &amp; Christian HensonHenson, Joe, Smith, Alexis &amp; Henson, ChristianKinuko OomoriOomori, KinukoYuiko TsubokuraTsubokura, YuikoAkiko HiramatsuHiramatsu, AkikoMaiko HashimotoHashimoto, MaikoMichie TomizawaTomizawa, MichieYoshiko SakakibaraSakakibara, YoshikoAlexander BrandonBrandon, AlexanderMichiel van den BosBos, van den, MichielDan GardopéeGardopée, Dan長谷川憲人Hasegawa, KentoShawn McphersonMcpherson, Shawn上田雅美Ueda, Masami千本木操Senbongi, Misao甲田雅人Kouda, Masato千本木操 &amp; 上田雅美Senbongi, Misao &amp; Ueda, Masami柴田徹也 &amp; 甲田雅人 &amp; 伊勢聡Shibata, Tetsuya &amp; Kouda, Masato &amp; Ise, Satoshi内山修作Uchiyama, Shusaku石川チャミィIshikawa, Chamy近藤 嶺Kondoh, Rei成田暁彦Narita, Akihiko鈴木幸太Suzuki, KōtaRussell Brower &amp; Matt UelmenBrower, Russell &amp; Uelmen, MattNeal Acree &amp; Matt UelmenAcree, Neal &amp; Uelmen, MattRussell Brower, Laurence Juber &amp; Matt UelmenBrower, Russell, Juber, Laurence &amp; Uelmen, MattRussell Brower &amp; Glenn StaffordBrower, Russell &amp; Stafford, GlennDerek Duke &amp; Neal AcreeDuke, Derek &amp; Acree, NealJoseph LawrenceLawrence, JosephJoseph Lawrence &amp; Neal AcreeLawrence, Joseph &amp; Acree, NealDerek Duke, Neal Acree &amp; Glenn StaffordDuke, Derek, Acree, Neal &amp; Stafford, GlennDerek Duke &amp; Joseph LawrenceDuke, Derek &amp; Lawrence, JosephDerek Duke, Glenn Stafford &amp; Russell BrowerDuke, Derek, Stafford, Glenn &amp; Brower, RussellYōko TakahashiTakahashi, YokoMegumi HayashibaraHayashibara, MegumiTomoyasu Hotei feat. Ray CooperHotei, Tomoyasu feat. Cooper, RayThe YardbirdsYardbirds, TheThe YoungbloodsYoungbloods, ThePerry ComoComo, PerryDebbie ReynoldsReynolds, DebbieBob DylanDylan, Bob佐宗綾子Saso, Ayako大越香里Ohkoshi, KaoriNobuo Uematsu &amp; Shotaro ShimaUematsu, Nobuo &amp; Shima, ShotaroYoshinori NakamuraNakamura, YoshinoriMitsuto Suzuki &amp; Nobuo UematsuSuzuki, Mitsuto &amp; Uematsu, NobuoYoshinori Nakamura &amp; Nobuo UematsuNakamura, Yoshinori &amp; Uematsu, NobuoShotaro ShimaShima, ShotaroShotaro Shima &amp; Nobuo UematsuShima, Shotaro &amp; Uematsu, NobuoNobuo Uematsu &amp; Tadayoshi MakinoUematsu, Nobuo &amp; Makino, TadayoshiNobuo Uematsu &amp; Yoshitaka SuzukiUematsu, Nobuo &amp; Suzuki, YoshitakaDaiki Ishikawa &amp; Nobuo UematsuIshikawa, Daiki &amp; Uematsu, NobuoMitsuto Suzuki &amp; Ayumu MuraiSuzuki, Mitsuto &amp; Murai, AyumuTsuyoshi SekitoSekito, TsuyoshiMitsuto Suzuki &amp; Nozomi TokiSuzuki, Mitsuto &amp; Toki, NozomiYoshitaka Suzuki &amp; Nobuo UematsuSuzuki, Yoshitaka &amp; Uematsu, NobuoYoshitaka SuzukiSuzuki, YoshitakaNobuo Uematsu &amp; Masashi HamauzuUematsu, Nobuo &amp; Hamauzu, MasashiMasashi Hamauzu &amp; Nobuo UematsuHamauzu, Masashi &amp; Uematsu, NobuoTakafumi ImamuraImamura, TakafumiTsuyoshi Sekito, Mitsuto Suzuki &amp; Nozomi TokiSekito, Tsuyoshi, Suzuki, Mitsuto &amp; Toki, NozomiKeiki KobayashiKobayashi, KeikiYasunori Nishiki &amp; Nobuo UematsuNishiki, Yasunori &amp; Uematsu, Nobuo葉山宏治Hayama, KojiYoshMorita, Yosh松尾早人Matsuo, HayatoNobuo Uematsu, Masashi Hamauzu &amp; Yasunori NishikiUematsu, Nobuo, Hamauzu, Masashi &amp; Nishiki, YasunoriDJ LazlowLazlow, DJRockstar’s LovefistLove FistOzzy OsbourneOsbourne, OzzyDavid Lee RothRoth, David LeeCraig Conner, Robert De Negro, Colin Anderson, Grant Middleton, Brian BaglowConner, Craig, Negro, Robert De, Anderson, Colin, Middleton, Grant, Baglow, BrianDJ Adam FirstFirst, Adam, DJKim WildeWilde, KimThe Human LeagueHuman League, TheA Flock of SeagullsFlock of Seagulls, AThe Psychedelic FursPsychedelic Furs, TheThomas DolbyDolby, ThomasFernando MartinezMartinez, FernandoCorey HartHart, CoreyJan HammerHammer, JanLuther VandrossVandross, LutherDJ ToniToni, DJKate BushBush, KateThe OutfieldOutfield, TheBryan AdamsAdams, BryanGlenn FreyFrey, GlennLaura BraniganBranigan, LauraLionel RichieRichie, LionelMr. MagicMagic, Mr.Herbie HancockHancock, HerbieZapp &amp; RogerZapp &amp; Troutman, RogerMan ParrishParrish, ManAfrika Bambaataa &amp; Soulsonic ForceBambaataa, Afrika &amp; Soulsonic ForceDJ Oliver &quot;Ladykiller&quot; BiscuitBiscuit, Oliver &quot;Ladykiller&quot;Teena MarieMarie, TeenaThe Pointer SistersPointer Sisters, TheOliver CheathamCheatham, OliverEvelyn “Champagne” KingKing, Evelyn &quot;Champagne&quot;The WhispersWhispers, TheMachito y Su OrquestaMachito and His OrchestraXavier CugatCugat, XavierIsrael “Cachao” LópezLópez, Israel “Cachao”Mongo SantamaríaSantamaría, MongoEumir DeodatoDeodato, EumirBenny MoréMoré, BennyLonnie Liston SmithSmith, Lonnie ListonTito PuentePuente, TitoTroy &amp; Gabriella MontezEfron, Zac &amp; Hudgens, VanessaRyan &amp; Sharpay EvansEvans, Ryan &amp; Evans, SharpayTroyEfron, ZacRyan, Sharpay Evans &amp; High School Musical CastEvans, Ryan, Evans, Sharpay &amp; High School Musical CastVanessa HudgensHudgens, VanessaHigh School Musical CastCast of “High School Musical”, TheTroy, Ryan, Sharpay Evans &amp; Gabriella MontezEfron, Zac, Evans, Ryan, Evans, Sharpay &amp; Hudgens, VanessaDonna SummerSummer, DonnaAngela VíaVía, AngelaLaura PausiniPausini, Laura“Weird Al” YankovicYankovic, Weird AlThe B‐52’sB‐52s, TheJohn Lissauer, Manny Corallo and John LoefflerLissauer, John, Corallo, Manny and Loeffler, JohnDenisse LaraLara, DenisseRalph Schuckett and John LoefflerSchuckett, Ralph and Loeffler, JohnBilly CrawfordCrawford, BillyAshley Ballard feat. So PlushBallard, Ashley feat. So PlushChristina AguileraAguilera, ChristinaBritney SpearsSpears, Britney*NSYNCNSYNCBaby SpiceBunton, EmmaBilliePiper, BillieJun Senoue &amp; SEGASenoue, Jun &amp; SEGAAaron CarterCarter, AaronTed Poley &amp; Tony HarnellPoley, Ted &amp; Harnell, TonyTony HarnellHarnell, TonyRichard BirdsallBirdsall, Richard PhilipSimon RavnRavn, SimonYoko ShimomuraShimomura, YōkoMitsuhiro KitadaniKitadani, MitsuhiroYuzo KoshiroKoshiro, YūzōGareth CokerCoker, GarethHiroki HashimotoHashimoto, HirokiMotoi SakurabaSakuraba, MotoiShauny JangJangDaniel Rosenfeld; Lena RaineRosenfeld, Daniel; Raine, LenaYoshie ArakawaArakawa, YoshieYusuke KudoKudo, YusukeKeiichi OkabeOkabe, KeiichiHiroto SasakiSasaki, HirotoNobuyoshi SanoSano, NobuyoshiAkitaka TohyamaTohyama, AkitakaYu MiyakeMiyake, YuSatoru KosakiKōsaki, SatoruSatoru KousakiKōsaki, SatoruHiroshi OkuboOkubo, HiroshiYoshihito YanoYano, YoshihitoNobuko TodaToda, NobukoAyako SasoSaso, AyakoGo ShiinaShiina, GoACE (Tomori Kudo / CHICO)ACETaku InoueInoue, TakuRio HamamotoHamamoto, RioYu SugimotoSugimoto, YuEric GalesGales, EricEric Gales feat. Matt Tutor &amp; Derek TrucksGales, Eric feat. Tutor, Matt &amp; Trucks, DerekAlvin Youngblood HartHart, Alvin YoungbloodMagic Slim feat. Billy Branch &amp; James CottonMagic Slim feat. Branch, Billy &amp; Cotton, JamesOtis Rush feat. Eric GalesRush, Otis feat. Gales, EricMagic Slim feat. James CottonMagic Slim feat. Cotton, JamesChris Thomas KingKing, Chris ThomasJoe Louis Walker feat. James CottonWalker, Joe Louis feat. Cotton, JamesClarence “Gatemouth” BrownBrown, Clarence GatemouthRobert Lockwood Jr.Lockwood, Robert, Jr.Otis ClayClay, OtisCarl WeathersbyWeathersby, CarlNeal Acree &amp; Jason HayesAcree, Neal &amp; Hayes, JasonSam Cardon &amp; David ArkenstoneCardon, Sam &amp; Arkenstone, DavidDavid Arkenstone, Glenn Stafford &amp; Leo KaliskiArkenstone, David, Stafford, Glenn &amp; Kaliski, LeoGlenn Stafford, Neal Acree, Sam Cardon, David Arkenstone, Clint Bajakian &amp; Jason HayesStafford, Glenn, Acree, Neal, Cardon, Sam, Arkenstone, David, Bajakian, Clint &amp; Hayes, JasonDavid Arkenstone &amp; Sam CardonArkenstone, David &amp; Cardon, SamDavid Arkenstone, Sam Cardon, Neal Acree &amp; Clint BajakianArkenstone, David, Cardon, Sam, Acree, Neal &amp; Bajakian, ClintSam Cardon &amp; Neal AcreeCardon, Sam &amp; Acree, NealSam CardonCardon, SamGlenn Stafford &amp; Clint BajakianStafford, Glenn &amp; Bajakian, ClintGlenn Stafford &amp; Jason HayesStafford, Glenn &amp; Hayes, JasonNeal Acree &amp; Clint BajakianAcree, Neal &amp; Bajakian, ClintDavid Arkenstone, Derek DukeDuke, Derek &amp; Arkenstone, DavidRussell Brower, Neal Acree, Derek Duke, Jason HayesBrower, Russell, Duke, Derek, Stafford, Glenn &amp; Hayes, JasonRussell Brower, David ArkenstoneBrower, Russell, Arkenstone, David &amp; Hayes, JasonDavid ArkenstoneArkenstone, DavidNeal Acree, Glenn StaffordAcree, Neal, Stafford, Glenn &amp; Hayes, JasonRussell Brower &amp; Neal AcreeBrower, Russell &amp; Acree, NealRussell Brower &amp; Sam CardonBrower, Russell &amp; Cardon, SamRussell Brower, Neal Acree, Sam Cardon, Glenn Stafford, Edo Guidotti &amp; Jason HayesBrower, Russell, Acree, Neal, Cardon, Sam, Stafford, Glenn, Guidotti, Edo &amp; Hayes, JasonEdo GuidottiGuidotti, EdoNeal Acree &amp; Sam CardonAcree, Neal &amp; Cardon, SamRussell Brower &amp; Derek DukeBrower, Russell &amp; Duke, DerekNeal Acree, Russell BrowerBrower, RussellNeal Acree, Russell Brower, Sam Cardon, Derek Duke, Edo Guidotti, Jeremy SouleAcree, Neal, Brower, Russell, Cardon, Sam, Guidotti, Edo, Hayes, Jason &amp; Soule, JeremyRussell Brower, Derek Duke, Jeremy SouleBrower, Russell &amp; Soule, JeremyRussell Brower, Sam CardonBrower, Russell &amp; Cardon, SamNeal Acree, Russell Brower, Jeremy SouleAcree, Neal, Brower, Russell &amp; Soule, JeremySam Cardon, Jeremy SouleCardon, Sam &amp; Soule, JeremyNeal Acree, Russell Brower, Edo GuidottiAcree, Neal &amp; Guidotti, EdoRussell Brower, Jeremy SouleBrower, Russell &amp; Soule, JeremyEdo Guidotti, Jeremy SouleGuidotti, Edo &amp; Soule, JeremyNeal Acree, Sam CardonAcree, Neal &amp; Cardon, SamJeremy SouleSoule, JeremyRussell Brower, Sam Cardon, Jeremy SouleAcree, Neal, Brower, Russell, Cardon, Sam &amp; Soule, JeremyRussell Brower, Jason HayesBrower, Russell &amp; Hayes, JasonRussell Brower, Brian DavidBrower, Russell &amp; Farr, Brian DavidRussell Brower, Derek DukeBrower, Russell &amp; Duke, DerekJason Hayes, Matt UelmenHayes, Jason &amp; Uelmen, MattRussell Brower, Matt UelmenBrower, Russell &amp; Uelmen, MattDavid Arkenstone, Jason HayesArkenstone, David &amp; Hayes, JasonRussell Brower, Jason Hayes, Glenn Stafford &amp; Derek DukeBrower, Russell, Hayes, Jason, Stafford, Glenn &amp; Duke, DerekRussell Brower, Glenn StaffordBrower, Russell &amp; Stafford, GlennGlenn Stafford, Glenn StaffordStafford, GlennJohn CaffertyCafferty, JohnKenny Loggins &amp; Gladys KnightLoggins, Kenny &amp; Knight, GladysVince DiColaDiCola, VinceRobert TepperTepper, RobertGiuseppe VerdiVerdi, GiuseppeVerdi; Price, Elias, Björling, Tozzi, Wiener Philharmoniker, Fritz ReinerVerdi, Giuseppe; Price, Leontyne, Elias, Rosalind, Björling, Jussi, Tozzi, Giorgio, Wiener Philharmoniker, Reiner, Fritzcomposer:Giuseppe VerdiVerdi, GiuseppeVince GuaraldiGuaraldi, VinceVince Guaraldi Trio; Vince GuaraldiGuaraldi, VinceYasunori MitsudaMitsuda, YasunoriNoriko MatsuedaMatsueda, NorikoYuji OhnoYou &amp; The Explosion BandYuji Ohno; 大野雄二Ohno, YujiSandi A. HohnYou &amp; The Explosion Band &amp; SandiiTommy SnyderYou &amp; The Explosion Band &amp; Snyder, TommyPete Mac, Jr.Columbia Orchestra &amp; Mac Jr., PeteIchiro MizukiColumbia Orchestra &amp; Mizuki, IchirouNoboru KimuraYou &amp; The Explosion Band &amp; Kimura, NoboruBobbyYou &amp; The Explosion Band &amp; BOBBYNaoko KawaiYou &amp; The Explosion Band &amp; Kawai, NaokoAdam Skorupa &amp; Krzysztof WierzynkiewiczSkorupa, Adam &amp; Wierzynkiewicz, KrzysztofCharlie KoseiYou &amp; The Explosion Band &amp; Kosei, CharlieKrzysztof WierzynkiewiczWierzynkiewicz, KrzysztofAdam SkorupaSkorupa, AdamYuki Kajiura (梶浦 由記); 梶浦由記Kajiura, Yuki梶浦由記Kajiura, Yuki上野洋子, 吉野裕司, 浅井裕子 &amp; 河越重義Ueno, Yoko, Yoshino, Yuuji, Asai, Yuko &amp; Kawagoe, Shigeyoshi下村陽子 &amp; 松枝賀子Shimomura, Yōko &amp; Matsueda, Noriko久石譲Hisaishi, Joe加藤登紀子Kato, Tokiko仲井戸麗市Nakaido, ReichiJoanne HoggHogg, Joanne中村裕介Nakamura, Yuusuke慶田朱美Keida, Akemiソニア・ローザRosa, Sonia木原美智子Kihara, Michiko奥河英樹Okugawa, Hideki宮崎慎二Miyazaki, Shinji寺田創一Terada, SoichiSoichi TeradaTerada, Soichi山本健誌 &amp; 久馬浩一Yamamoto, Kenji &amp; Kyuma, Kouichi植松伸夫 / 崎元仁Uematsu, Nobuo / Sakimoto, Hitoshi岩田匡治Iwata, Masaharu川井憲次Kawai, Kenji葉加瀬太郎Hakase, Taroアンジェラ・アキAki, AngelaSusumu HirasawaHirasawa, Susumu平沢進Hirasawa, Susumu溝口肇Mizoguchi, Hajimecomposer:溝口肇Mizoguchi, Hajime濱野美奈子 &amp; 藤原玲Hamano, Minako &amp; Fujiwara, Akira中山英二Nakayama, Eiji福居良, 坂元輝, 片山光明, 中山英二, 中村新太郎, 本田竹曠, 松風鉱一, 今田勝 &amp; 板橋文夫Fukui, Ryo, Sakamoto, Teru, Katayama, Mitsuaki, Nakayama, Eiji, Nakamura, Shintaro, Honda, Takehiro, Matsukaze, Koichi, Imada, Masaru &amp; Itabashi, Fumio片山光明Katayama, Mitsuaki坂元輝トリオSakamoto, Teru, Trio本田竹曠Honda, Takehiro竹本晃Takemoto, Akira中村新太郎クインテットNakamura, Shintaro, Quintet松風鉱一Matsukaze, Koichi今田勝Imada, Masaru板橋文夫Itabashi, Fumio芸能山城組Geinoh Yamashirogumi菊地成孔Kikuchi, NaruyoshidCprGDATE COURSE PENTAGON ROYAL GARDEN菊地成孔 feat. 市川愛Kikuchi, Naruyoshi feat. Ichikawa, Ai菊地成孔 feat. オーニソロジーKikuchi, Naruyoshi feat. Ornithology菊地成孔 feat. The Yellow TricycleKikuchi, Naruyoshi feat. Yellow Tricycle, The菊地成孔 feat. 坂本愛江Kikuchi, Naruyoshi feat. Sakamoto, Yoshie菊地成孔 feat. 小田朋美Kikuchi, Naruyoshi feat. Oda, Tomomi菊地成孔 feat. 吉田沙良Kikuchi, Naruyoshi feat. Yoshida, Sara2 Mello ft. Anton Corazza2 Mello ft. Corazza, AntonErich Wolfgang KorngoldKorngold, Erich WolfgangSashko NaganumaNaganuma, SashkoSashko Naganuma feat. luceNaganuma, Sashko feat. luceSashko Naganuma feat. ComrakoffNaganuma, Sashko feat. ComrakoffMark Mothersbaugh &amp; Josh MancellMothersbaugh, Mark &amp; Mancell, JoshRémi GallegoGallego, RémiSean GillespieGillespie, Seanfeeding | earfeeding earRyan BurgeBurge, RyanChris Larkin &amp; Matt TrobbianiLarkin, Christopher &amp; Trobbiani, MattTim StoneyStoney, TimWayne Strange &amp; Tim StoneyStrange, Wayne &amp; Stoney, TimWayne StrangeStrange, WayneWayne Strange feat. Elizabeth ZharoffStrange, Wayne feat. Zharoff, ElizabethBrendon Williams feat. Brandon MorrisWilliams, Brendon feat. Morris, BrandonTim Stoney feat. Ro PanugantiStoney, Tim feat. Panuganti, RoWayne Strange feat. Kristin Naigus &amp; Laura IntraviaStrange, Wayne feat. Naigus, Kristin &amp; Intravia, LauraTim Stoney feat. Laura IntraviaStoney, Tim feat. Intravia, LauraTim Stoney feat. Patti Rudisill &amp; Kristin NaigusStoney, Tim feat. Rudisill, Patti &amp; Naigus, KristinWayne Strange feat. Ari FisherStrange, Wayne feat. Fisher, AriKenji Yamamoto, Minako Hamano &amp; Masaru TajimaYamamoto, Kenji, Hamano, Minako &amp; Tajima, MasaruEric BrosiusBrosius, EricGregory Alper &amp; Jeehun HwangAlper, Gregory &amp; Hwang, JeehunJeehun HwangAlper, Gregory &amp; Hwang, JeehunGrant KirkhopeKirkhope, GrantGrant Kirkhope, Graeme Norgate &amp; David ClynickKirkhope, Grant, Norgate, Graeme &amp; Clynick, Davidcomposer:Grant KirkhopeKirkhope, Grant衛藤英幸Eto, Hideyuki星野康太Hoshino, KotaJeehun Hwang &amp; Gregory AlperHwang, Jeehun &amp; Alper, Gregorycomposer:Jeremy SouleSoule, JeremyCasey EdwardsEdwards, CaseyCapcom Sound TeamCapcom Sound Team Alph LylaBuddy RichRich, BuddyJanko Nilović &amp; The Soul SurfersNilović, Janko &amp; Soul Surfers, TheDavid MatthewsMatthews, DavidBADBADNOTGOOD feat. Colin StetsonBADBADNOTGOOD feat. Stetson, Colin鷺巣詩郎Sagisu, ShirōChris DevoeDevoe, ChrisJoe Boyd VigilVigil, Joe BoydP Brothers &amp; Chris DevoeP Brothers &amp; Devoe, ChrisJason Hayes, Tracy W. Bush, Derek Duke, Glenn StaffordHayes, JasonJason Hayes, Tracy W. Bush, Derek Duke &amp; Glenn StaffordHayes, Jason, Bush, Tracy Ward, Duke, Derek &amp; Stafford, GlennHideki SakamotoSakamoto, HidekiHideki Sakamoto, Abby Trott &amp; Xander MobusSakamoto, Hideki, Abby Trott &amp; Mobus, XanderHideki Sakamoto, Erina Koga &amp; Xander MobusSakamoto, Hideki, Koga, Erina &amp; Mobus, XanderHideki Sakamoto &amp; Abby TrottSakamoto, Hideki &amp; Abby TrottHideki Sakamoto &amp; Erina KogaSakamoto, Hideki &amp; Koga, ErinaJunichi NakatsuruNakatsuru, JunichiYusuke YamauchiYamauchi, YusukeTakafumi SatoSatō, TakafumiLindaAI-CUELindaAI‐CUEYoshinori HiraiHirai, KatsuakiKeisuke ItoIto, KeisukeKatsuro TajimaTajima, KatsuroYoshinori KawamotoKawamoto, YoshinoriHirokazu AndoAndo, HirokazuHirokazu Ando &amp; Jeff ManningAndo, Hirokazu &amp; Manning, JeffShogo SakaiSakai, ShogoShogo Sakai &amp; Dean HarringtonSakai, Shogo &amp; Harrington, DeanKentaro IshizakaIshizaka, KentaroJunichi Nakatsuru &amp; Xander MobusNakatsuru, Junichi &amp; Mobus, XanderTakahiro Nishi, Shogo Sakai &amp; Masaaki IwasakiNishi, Takahiro, Sakai, Shogo &amp; Iwasaki, MasaakiHiroyuki KawadaKawada, HiroyukiJun Ishikawa &amp; Hirokazu AndoIshikawa, Jun &amp; Ando, HirokazuHirokazu Ando, Shogo Sakai &amp; Tadashi IkegamiAndo, Hirokazu, Sakai, Shogo &amp; Ikegami, TadashiYusuke TakahamaTakahama, YusukeRyo NagamatsuNagamatsu, RyōNobuo Uematsu, Hirokazu Ando, Shogo SakaiUematsu, Nobuo, Ando, Hirokazu &amp; Sakai, ShogoHirokazu Ando, Shogo Sakai &amp; Nobuo UematsuAndo, Hirokazu, Sakai, Shogo &amp; Uematsu, NobuoKoji Kondo &amp; Shiho FujiiKondo, Koji &amp; Fujii, ShihoMasaaki IwasakiIwasaki, MasaakiNaoto Kubo &amp; Koji KondoKubo, Naoto &amp; Kondo, KojiTetsuya ShibataShibata, TetsuyaMasafumi TakadaTakada, MasafumiAkihiro HondaHonda, AkihiroKoji HayamaHayama, KojiNoriyuki IwadareIwadare, NoriyukiMahito YokotaYokota, MahitoNobuko Toda &amp; Yoshitaka SuzukiToda, Nobuko &amp; Suzuki, YoshitakaManami KiyotaKiyota, ManamiKenta NagataNagata, KentaShiho FujiiFujii, ShihoSaki KasugaKasuga, SakiNaoto KuboKubo, NaotoNaoto Kubo, Kate HigginsKubo, Naoto &amp; Higgins, KateTakeru KanazakiKanazaki, TakeruToshiki Aida &amp; Ryosuke AsamiAida, Toshiki &amp; Asami, RyosukeRei Kondoh, Sara Sakurai &amp; Satoshi OkuboKondoh, Rei, Sakurai, Sara &amp; Okubo, SatoshiMaasa MiyoshiMiyoshi, MaasaChad York, Darren Radtke &amp; Mike PeacockYork, Chad, Radtke, Darren &amp; Peacock, MikeHirokazu Tanaka. exTanaka, HirokazuNaoto Kubo &amp; Mahito YokotaKubo, Naoto &amp; Yokota, MahitoJames PhillipsenPhillipsen, JamesYasufumi FukudaFukuda, YasufumiAsuka Ohta &amp; Ryo NagamatsuOhta, Asuka &amp; Nagamatsu, RyōKenta Nagata &amp; Satomi TeruiNagata, Kenta &amp; Terui, SatomiRyo WatanabeWatanabe, RyōYasuaki IwataIwata, YasuakiAtsuko AsahiAsahi, AtsukoAkito NakatsukaNakatsuka, AkitoYukio KaneokaKaneoka, YukioKenji YamamotoYamamoto, KenjiHiroshi YamaguchiYamaguchi, HiroshiEveline Fischer &amp; David WiseFischer, Eveline &amp; Wise, DavidDavid WiseWise, DavidEveline FischerFischer, EvelineRobin BeanlandBeanland, RobinKumi TaniokaTanioka, KumiMichiko NarukeNaruke, MichikoSoshi AbeAbe, SōshiTakashi KougaKouga, TakashiYuichi Kanno, Yoshikata Hirota &amp; Takashi KougaKanno, Yuichi, Hirota, Yoshitaka &amp; Kouga, TakashiMinako Hamano, Masaru Tajima &amp; Shinji UshirodaHamano, Minako, Tajima, Masaru &amp; Ushiroda, ShinjiTakuto KitsutaKitsuta, TakutoArata IiyoshiIiyoshi, ArataYutaka IrahaIraha, YutakaMichiru YamaneYamane, MichiruTsukasa MasukoMasuko, TsukasaHajime Wakai, Toru Minegishi &amp; Koji KondoWakai, Hajime, Minegishi, Tōru &amp; Kondo, KojiHideaki KobayashiKobayashi, HideakiRyo NagamastuNagamastu, RyoYoshino AokiAoki, YoshinoManaka KataokaKataoka, ManakaKohta TakahashiTakahashi, KohtaYasushi AsadaAsada, YasushiAkari KaidaKaida, AkariMasato KoudaKouda, MasatoMinako HamanoHamano, MinakoKenji Yamamoto &amp; Kouichi KyuumaYamamoto, Kenji &amp; Kyuma, KouichiLawrence Schwedler &amp; James PhillipsenSchwedler, Lawrence &amp; Phillipsen, JamesKuniaki HaishimaHaishima, KuniakiRyoji YoshitomiYoshitomi, RyojiAsuka HayazakiHayazaki, AsukaMasayoshi IshiIshikawa, ChamyKazumi TotakaTotaka, KazumiJun IshikawaIshikawa, JunHideki Ishigaki &amp; Hideki Onoue (HIDE+HIDE)Ishigaki, Hideki &amp; Onoue, HidekiJun FukudaFukuda, JunTadashi IkegamiIkegami, TadashiJun Ishikawa, Hirokazu Ando, Shogo Sakai &amp; Tadashi IkegamiIshikawa, Jun, Ando, Hirokazu, Sakai, Shogo &amp; Ikegami, TadashiAtsuyoshi Isemura &amp; Hironobu IngakiIsemura, Atsuyoshi &amp; Inagaki, HironobuMegumi Ohara &amp; Shogo SakaiOhara, Megumi &amp; Sakai, ShogoSeiji MomoiMomoi, SeijiKenji ItoItō, KenjiYoshie Arakawa &amp; Yoshinori KawamotoArakawa, Yoshie &amp; Kawamoto, YoshinoriHitomi KurokawaKurokawa, HitomiYukari SuitaSuita, YukariRei KondohKondoh, ReiKenichi OkumaŌkuma, Ken&apos;ichiYuka TsujiyokoTsujiyoko, YukaTakahiro NishiNishi, TakahiroYumiko KankiKanki, YumikoTakeshi KuramochiKuramochi, TakeshiNaoto IshidaIshida, NaotoHitokazu Tanaka. exTanaka, HirokazuTakenobu MitsuyoshiMitsuyoshi, TakenobuTaro BandoBando, TaroHidenori ShojiShoji, HidenoriKeigo OzakiOzaki, KeigoYoshito HiranoHirano, YoshitoAtsushi YoshidaYoshida, AtsushiTestuya ShibataShibata, TetsuyaHiroki MorishitaMorishita, HirokiYasuhisha BabaBaba, YasuhisaTakeru Kanazaki, Hiroki Morishita &amp; Rei KondohKanazaki, Takeru, Morishita, Hiroki &amp; Kondoh, ReiHirokazu TanakaTanaka, HirokazuTomoko SasakiSasaki, TomokoTomoya Tomita &amp; Minako HamanoTomita, Tomoya &amp; Hamano, MinakoRyohji Yoshitomi &amp; Kyoko MiyamotoYoshitomi, Ryoji &amp; Miyamoto, KyokoMasanobu Matsunaga &amp; Yasuhisa BabaMatsunaga, Masanobu &amp; Baba, YasuhisaAsuka Hayazaki, Atsuko Asahi &amp; Hajime WakaiHayazaki, Asuka, Asahi, Atsuko &amp; Wakai, HajimeMasato Kouda &amp; Kento HasegawaKouda, Masato &amp; Hasegawa, KentoMaki KiriokaKirioka, MakiShohei Tsuchiya (ZUNTATA)Tsuchiya, ShoheiToru Minegishi, Manaka Tominaga &amp; Shiho FujiiMinegishi, Tōru, Tominaga, Manaka &amp; Fujii, ShihoAsuka OhtaOhta, AsukaTakayuki KobaraKobara, TakayukiYukio Kaneoka, Akito Nakatsuka &amp; Kenji YamamotoKaneoka, Yukio, Nakatsuka, Akito &amp; Yamamoto, KenjiMike Peacock, Darren Radtke &amp; Chad YorkPeacock, Mike, Radtke, Darren &amp; York, ChadKenji HiramatsuHiramatsu, KenjiShohei TsuchiyaTsuchiya, ShoheiTomoya OhtaniOhtani, TomoyaMasahiro IkarikoIkariko, MasahiroNorihiko HibinoHibino, NorihikoMasato NakamuraNakamura, MasatoSpencer Nilsen, David YoungNilsen, Spencer, Pastiche, Vega, Bobby, Kaiser, Brad &amp; Frykman, ErikJun SenoueSenoue, JunJun Senoue, Kenichi TokoiCrush 40 &amp; Tokoi, Ken&apos;ichiHideki NaganumaNaganuma, HidekiKenichi TokoiTokoi, Ken&apos;ichi &amp; Conte, Steve高橋優海Takahashi, YumiRyo KawakamiKawakami, RyoYu ShimodaShimoda, YuManami MatsumaeMatsumae, ManamiTakashi TateishiTateishi, TakashiYasuaki Fujita &amp; Harumi FujitaFujita, Yasuaki &amp; Fujita, HarumiMinae Fujii, Mari Yamaguchi &amp; 竹原裕子Fujii, Minae, Yamaguchi, Mari &amp; Takehara, YukoNaoto Tanaka, Naoya Kamisaka &amp; Takuya MiyawakiTanaka, Naoto, Kamisaka, Naoya &amp; Miyawaki, TakuyaSetsuo YamamotoYamamoto, SetsuoYuji MasubuchiMasubuchi, YujiNobuyuki OhnogiOhnogi, NobuyukiJunko OzawaOzawa, JunkoJunichi Nakatsuru, Keiki Kobayashi, Hiroki Hashimoto, Hiroyuki Kawada, Eriko Sakurai, Akihiko Ishikawa &amp; Yoshinori HiraiNakatsuru, Junichi, Kobayashi, Keiki, Hashimoto, Hiroki, Kawada, Hiroyuki, trine, LindaAI‐CUE &amp; Hirai, KatsuakiNorio NakagataNakagata, NorioNobuyuki Ohnogi, Yuriko Keino &amp; Junko OzawaOhnogi, Nobuyuki, Keino, Yuriko &amp; Ozawa, JunkoJunko Ozawa, Shinji Hosoe, Kimio Yudate &amp; Hiroyuki KawadaOzawa, Junko, Hosoe, Shinji, Yudate, Kumio &amp; Kawada, HiroyukiIsao AbeAbe, IsaoHiroshi KawaguchiHiroShinji UshirodaUshiroda, ShinjiSatoe TerashimaTerashima, SatoeKinuyo YamashitaYamashita, KinuyoKenichi MatsubaraMatsubara, KenichiHidenori Maezawa, Jun Funahashi, Yukie Morimoto &amp; Yoshinori SasakiMaezawa, Hidenori, Funahashi, Jun, Morimoto, Yukie &amp; Sasaki, YoshinoriYoshito SekigawaSekigawa YoshitoMasanori Adachi &amp; Taro KudoAdachi, Masanori &amp; Kudou, TaroAkira Souji, Keizo Nakamura, Tomoko Sano &amp; Mikio SaitoSouji, Akira, Nakamura, Keizo, Sano, Tomoko &amp; Saito, MikioTomoko SanoSano, TomokoMasahiko KimuraKimura, MasahikoYasuhiro IchihashiIchihashi, YasuhiroHidenori MaezawaMaezawa, HidenoriManabu NamikiNamiki, ManabuToshiyuki SudoSudo, ToshiyukiKoji Kondo, Hirokazu Tanaka, Akito Nakatsuka, Yukio Kaneoka, Hideaki Shimizu &amp; Kenji YamamotoKondo, Koji, Tanaka, Hirokazu, Nakatsuka, Akito, Kaneoka, Yukio, Shimizu, Hideaki &amp; Yamamoto, KenjiKoji Kondo, Akito Nakatsuka, Hirokazu Tanaka, Yukio Kaneoka &amp; Kenji YamamotoKondo, Koji, Nakatsuka, Akito, Tanaka, Hirokazu, Kaneoka, Yukio &amp; Yamamoto, KenjiSoyo OkaOka, SoyoMasato Coda with RiRiKAKouda, Masato with RiRiKAAsuka ItoIto, AsukaKoichi Kyuma &amp; Yuichi OzakiKyuma, Kouichi &amp; Ozaki, YuichiMinako Hamano &amp; Akito NakatsukaHamano, Minako &amp; Nakatsuka, AkitoHirokazu Koshio (ZUNTATA)Koshio, HirokazuRyo Nagamatsu &amp; Shinobu TanakaNagamatsu, Ryō &amp; Tanaka, ShinobuKenji Yamamoto &amp; Masaru TajimaYamamoto, Kenji &amp; Tajima, MasaruMasami YoneYone, MasamiMasami Yone, Shinji Ushiroda &amp; Asuka ItoYone, Masami, Ushiroda, Shinji &amp; Ito, AsukaShinji Ushiroda, Asuka Ito, Yumi Takahashi &amp; Megumi InoueUshiroda, Shinji, Ito, Asuka, Takahashi, Yumi &amp; Inoue, MegumiHirofumi TaniguchiTaniguchi, HirofumiDaisuke MatsuokaMatsuoka, DaisukeAtsuko Asahi &amp; Toru MinegishiAsahi, Atsuko &amp; Minegishi, TōruKiyoshi HazemotoHazemoto, KiyoshiAsuka Ito, Toshiyuki Sudo &amp; Daisuke ShiibaIto, Asuka, Sudo, Toshiyuki &amp; Shiiba, DaisukeKazuaki YamashitaYamashita, KazuakiIchiro Shimakura, Toshiki Aida &amp; Ryosuke AsamiShimakura, Ichirō, Aida, Toshiki &amp; Asami, RyosukeKatsumi YokokawaYokokawa, KatsumiMasato Onishi &amp; Daisuke MatsuokaOnishi, Masato &amp; Matsuoka, DaisukeYasuhisa Baba &amp; Takeru KanazakiBaba, Yasuhisa &amp; Kanazaki, TakeruToshiyuki Sudo, Shinji Ushiroda, Yumi Takahashi &amp; Megumi InoueSudo, Toshiyuki, Ushiroda, Shinji, Takahashi, Yumi &amp; Inoue, MegumiSebastian SchwartzSchwartz, SebastianToby FoxFox, TobyKristofer MaddiganMaddigan, KristoferShoji Meguro &amp; Lyn InaizumiMeguro, Shōji &amp; Inaizumi, LynACE (TOMOri Kudo / CHICO) &amp; Lyn InaizumiACE &amp; Inaizumi, LynShoji MeguroMeguro, ShōjiShoji Meguro &amp; Shihoko HirataMeguro, Shōji &amp; Hirata, ShihokoYusuke YamuchiYamauchi, YusukeShoji Meguro, Lotus Juice &amp; Yumi KawamuraMeguro, Shōji, Lotus Juice &amp; Kawamura, YumiShoji Meguro &amp; Tomoko KomiyaMeguro, Shōji &amp; Komiya, TomokoMitsuhiro Kitadani &amp; Tomoko KomiyaKitadani, Mitsuhiro &amp; Komiya, TomokoKoichi SugiyamaSugiyama, KoichiHiroshi Matsumoto, Kazuhiro Nishida &amp; Toshikazu TanakaHiroshi, Nishida, Kazuhiro &amp; Tanaka, ToshikazuMasahiko Hataya, Toshio Shimizu &amp; Yoshihiko KitamuraHataya, Masahiko, Shimizu, Toshio &amp; Kitamura, Yoshihikoa.k.a. DUGIA♪, Naoki Kita, Rio &quot;88&quot; Hashikawa, Minori Sasaki &amp; Mayuko HinoDUGIA♪, Kita, Naoki, Hashikawa, Rio, Sasaki, Minori &amp; Hino, MayukoToshio Shimizu, Yasumasa Yamada &amp; Yoshihiko KitamuraShimizu, Toshio, Yamada, Yasumasa &amp; Kitamura, YoshihikoToshio Shimizu, Yoshihiko Kitamura &amp; Yukifumi MakinoShimizu, Toshio, Kitamura, Yoshihiko &amp; Makino, YukifumiMasahiko HatayaHataya, MasahikoTetsuhiro Ogawa, Iku Mizutani, Toshihiko Hiraguchi, Tomonao Niiya, Makoto Suehiro &amp; Tasuku MizutaniTetsuhiro Ogawa, Mizutani, Iku, Toshihiko Hiraguchi, Tomonao Niiya, Suehiro, Makoto &amp; Tasuku MizutaniMasahiko Hataya, Toshio Shimizu &amp; Yasumasa YamadaHataya, Masahiko, Shimizu, Toshio &amp; Yamada, YasumasaMasahiko Hataya &amp; Yasuo YamateHataya, Masahiko &amp; Yamate, YasuoTakushi Hiyamuta, Yoshihiko Wada, Masato Horiuchi, Q_Jirou, Maitaro, Toshikazu Tanaka, Manabu Namiki &amp; Mitsuhiro KanedaHiyamuta, Takushi, Bero-ou, Hori_Hori, Q_JIROU, maitaro, Tanaka, Toshikazu, Namiki, Manabu &amp; Kaneda, MitsuhiroTakushi HiyamutaHiyamuta, TakushiTakushi Hiyamuta, Yoshihiko Wada, Masato Horiuchi, Q_Jirou &amp; MaitaroHiyamuta, Takushi, Bero-ou, Hori_Hori, Q_JIROU &amp; maitaroAtsuko Asahi &amp; Yasuaki IwataAsahi, Atsuko &amp; Iwata, YasuakiKeiki Kobayashi, Junichi Nakatsuru, Hiroki Hashimoto, Hiroyuki Kawada &amp; TorineKobayashi, Keiki, Nakatsuru, Junichi, Hashimoto, Hiroki, Kawada, Hiroyuki &amp; TorineTakeru Kanazaki, Hiroki Morishita &amp; 近藤 嶺Kanazaki, Takeru, Morishita, Hiroki &amp; Kondoh, ReiHideaki Kobayashi, Tomoya Ohtani &amp; Mariko NanbaKobayashi, Hideaki, Ohtani, Tomoya &amp; Nanba, Mariko佐橋俊彦Watanabe, TakeoLondon Symphony Orchestra &amp; 佐橋俊彦London Symphony Orchestra &amp; Sahashi, Toshihiko井上大介Inoue, DaisukeNeil SedakaSedaka, Neil川添智久Kawazoe, TomohisaLudwig GöranssonGöransson, LudwigLuke Vibert; PlugPlugLUPIN THE THIRD JAM CREWCREW, LUPIN THE THIRD JAMLUPIN THE THIRD JAM CREW feat. TIGERCREW, LUPIN THE THIRD JAM feat. TIGERLUPIN THE THIRD JAM CREW feat. Sayuri IshikawaCREW, LUPIN THE THIRD JAM feat. Ishikawa, SayuriCinderella ChorusDisney Studio ChorusMack David, Jerry Livingston &amp; Al HoffmanDavid, Mack, Livingston, Jerry &amp; Hoffman, AlIlene Woods and Mice ChorusWoods, Ilene and Mice ChorusPaul J. SmithSmith, Paul J.Ilene Woods &amp; Rhoda WilliamsWoods, Ilene &amp; Williams, RhodaOliver Wallace &amp; Paul J. SmithWallace, Oliver &amp; Smith, Paul J.Verna FeltonFelton, VernaIlene Woods &amp; Mike DouglasWoods, Ilene &amp; Douglas, MikeMack David, Al Hoffman &amp; Jerry LivingstonDavid, Mack, Hoffman, Al &amp; Livingston, JerryCharles Wolcott &amp; Larry MoreyWolcott, Charles &amp; Morey, LarryJennifer PazPaz, JenniferJeff Gunn &amp; Rob PaulsenGunn, Jeff &amp; Paulsen, RobKate Higgins &amp; Jeff GunnHiggins, Kate &amp; Gunn, JeffJeff Gunn &amp; Jennifer PazGunn, Jeff &amp; Paz, JenniferMadvillain feat. Lord QuasMadvillain feat. QuasimotoMadvillain feat. Viktor VaughnMadvillain feat. Vaughn, ViktorMadvillain feat. Stacy EppsMadvillain feat. Epps, StacyMagnus PålssonPålsson, MagnusManaka Kataoka, Yasuaki Iwata &amp; Hajime WakaiKataoka, Manaka, Iwata, Yasuaki &amp; Wakai, HajimeManaka Kataoka &amp; Hajime WakaiKataoka, Manaka &amp; Wakai, HajimeManaka Kataoka &amp; Yasuaki IwataKataoka, Manaka &amp; Iwata, YasuakiTakurō YasudaYasuda, TakurōRiyu TamuraTamura, RiyuSōshi AbeAbe, SōshiYasuaki Iwata &amp; Manaka KataokaIwata, Yasuaki &amp; Kataoka, ManakaKousuke YamashitaYamashita, KousukeManuel GöttschingGöttsching, ManuelMark BragaBraga, MarkMark Braga, Will Musser &amp; Kalen SmithBraga, Mark, Musser, William Theodore &amp; Smith, KalenWill MusserMusser, William TheodoreKalen SmithSmith, KalenLeonard BernsteinBernstein, LeonardLeonard Bernstein; Tchaikovsky; New York Philharmonic, Leonard BernsteinBernstein, Leonard; New York Philharmonic, Bernstein, LeonardLil Uzi Vert feat. Travis ScottLil Uzi Vert feat. Scott, TravisLil Uzi Vert feat. Nicki MinajLil Uzi Vert feat. Minaj, NickiJerry Garcia BandGarcia, Jerry BandWidespread Panic featuring The Dirty Dozen Brass BandWidespread Panic featuring Dirty Dozen Brass Band, TheThe Chorus of Pocahontas &amp; Mel GibsonDisney Studio Chorus &amp; Gibson, MelThe Chorus of PocahontasDisney Studio ChorusJim CummingsCummings, JimJudy KuhnKuhn, JudyLinda Hunt &amp; Bobbi PageHunt, Linda &amp; Page, BobbiDavid Ogden Stiers, Mel Gibson &amp; The Chorus of PocahontasStiers, David Ogden, Gibson, Mel &amp; Disney Studio ChorusMel Gibson &amp; Judy KuhnGibson, Mel &amp; Kuhn, JudyDavid Ogden Stiers, Jim Cummings, Judy Kuhn &amp; The Chorus of PocahontasStiers, David Ogden, Cummings, Jim, Kuhn, Judy &amp; Disney Studio ChorusJon Secada &amp; ShaniceSecada, Jon &amp; ShaniceVanessa WilliamsWilliams, Vanessacomposer:Alan MenkenMenken, AlanMerwin Foard as Pilot; Sailors - The Little Mermaid Broadway; Sean Palmer as Prince Eric; Jonathan Freeman as GrimsbyMenken, AlanEddie Korbich as Scuttle; Gulls - The Little Mermaid Original Broadway CastMenken, AlanSherie Rene Scott as Ursula; Tyler Maynard as Flotsam; Derrick Baskin as Jetsam; Eels - The Little Mermaid Original Broadway CastMenken, AlanMersisters - The Little Mermaid Original Broadway Cast; B. D&apos;Addario as FlounderMenken, AlanSea Creatures - The Little Mermaid Original Broadway Cast; Tituss Burgess as SebastianMenken, AlanTyler Maynard as Flotsam; Derrick Baskin as JetsamMenken, AlanSierra Boggess as Ariel; Sherie Rene Scott as UrsulaMenken, AlanJohn Treacy Egan as Chef Louis; Chefs - The Little Mermaid Original Broadway CastMenken, AlanSherie Rene Scott as Ursula; Tyler Maynard as Flotsam; Derrick Baskin as JetsamMenken, AlanTituss Burgess as Sebastian; Animals - The Little Mermaid Original Broadway CastMenken, AlanSierra Boggess as Ariel; Norm Lewis as King Triton; Tituss Burgess as Sebastian; Sean Palmer as Prince EricMenken, AlanPrincesses - The Little Mermaid Original Broadway Cast; Jonathan Freeman as GrimsbyMenken, AlanSierra Boggess as Ariel; Norm Lewis as King TritonMenken, AlanSierra Boggess as Ariel; Ensemble - The Little Mermaid Original Broadway Cast; Sean Palmer as Prince EricMenken, AlanBruce Adler &amp; DisneyAdler, BruceRobin WilliamsWilliams, RobinAlan Menken &amp; DisneyMenken, AlanBrad Kane &amp; DisneyKane, BradBrad Kane &amp; Lea Salonga &amp; DisneyKane, Brad &amp; Salonga, LeaJonathan Freeman &amp; DisneyFreeman, JonathanPeabo Bryson &amp; Regina BelleBryson, Peabo &amp; Belle, ReginaPaige O’HaraO’Hara, PaigeJesse CortiCorti, JesseAngela LansburyLansbury, AngelaRichard WhiteWhite, RichardCéline DionDion, CélineHoward Ashman And Alan MenkenAshman, Howard And Menken, AlanAlan Menken &amp; David ZippelMenken, Alan &amp; Zippel, DavidMichael BoltonBolton, MichaelJocelyn BrownBrown, JocelynBelinda CarlisleCarlisle, BelindaRicky MartinMartin, RickyShip’s Chorus[Disney]Daughters of Triton[Disney]Jodi BensonBenson, JodiSamuel E. WrightWright, Samuel E.Pat CarrollCarroll, PatRené AuberjonoisAuberjonois, RenéDisney Chorus[Disney]Howard Ashman &amp; Alan MenkenAshman, Howard &amp; Menken, AlanAlbert KingKing, AlbertAlexander Brandon &amp; Michiel van den BosBrandon, Alexander &amp; Bos, van den, Michiel佐藤英敏Satou, Hidetoshi大森俊之Ōmori, ToshiyukiたかはしごうTakahashi, GōBart HowardHoward, BartAndrew Lloyd WebberLloyd Webber, AndrewAndrew W.K.W.K., AndrewAperture Science Psychoacoustic LaboratoriesAperture Science Psychoacoustics LaboratoryShoji Meguro, LynAtlus Sound TeamToshiki KonishiAtlus Sound TeamKenichi TsuchiyaAtlus Sound TeamRyota KodukaAtlus Sound TeamShoji Meguro &amp; LynAtlus Sound Teamcomposer:Austin WintoryWintory, AustinBADBADNOTGOOD feat. Sam HerringBADBADNOTGOOD feat. Herring, Samuel T.BADBADNOTGOOD feat. Mick JenkinsBADBADNOTGOOD feat. Jenkins, MickBADBADNOTGOOD feat. Charlotte Day WilsonBADBADNOTGOOD feat. Wilson, Charlotte DayBasil PoledourisPoledouris, Basilcomposer:Basil PoledourisPoledouris, BasilLooner featuring Angel Roché, Jr. &amp; Zoë PoledourisLooner featuring Roché, Angel, Jr. &amp; Poledouris, ZoëZoë PoledourisPoledouris, ZoëBill Elm and Woody JacksonElm, Bill and Jackson, WoodyJosé GonzálezGonzález, JoséJamie LidellLidell, JamieWilliam Elliott WhitmoreWhitmore, William ElliottBruce FaulconerFaulconer, Bruce鈴木幸太 &amp; John R. GrahamSuzuki, Kōta &amp; Graham, John R.寺山善也Terayama, Yoshiya寺山善也 &amp; Casey EdwardsTerayama, Yoshiya &amp; Edwards, Casey前馬宏充Maeba, Hiromitsu前馬宏充 &amp; Casey EdwardsMaeba, Hiromitsu &amp; Edwards, CaseySteven McNairMcNair, StevenJeff RonaRona, JeffCody Matthew JohnsonJohnson, Cody Matthew鈴木幸太 &amp; Cody Matthew JohnsonSuzuki, Kōta &amp; Johnson, Cody Matthew鈴木幸太 &amp; Jeff RonaSuzuki, Kōta &amp; Rona, Jeff鈴木幸太 &amp; Casey EdwardsSuzuki, Kōta &amp; Edwards, Casey成田暁彦, Casey Edwards &amp; 鈴木幸太Narita, Akihiko, Edwards, Casey &amp; Suzuki, Kōta成田暁彦 &amp; Casey EdwardsNarita, Akihiko &amp; Edwards, CaseyMiwako ChinoneChinone, MiwakoChick Corea and Return to ForeverCorea, Chick and Return to ForeverChick Corea, Return to ForeverCorea, Chick, Return to ForeverChristopher LennertzLennertz, ChristopherMonty NormanNorman, MontyPaul &amp; Linda McCartneyMcCartney, Paul &amp; McCartney, LindaMarvin HamlischHamlisch, MarvinBill ContiConti, BillMichael KamenKamen, MichaelÉric SerraSerra, ÉricDavid ArnoldArnold, DavidClaude‐Michel SchönbergSchönberg, Claude‐MichelCliff MartinezMartinez, CliffRiz Ortolani feat. Katyna RanieriOrtolani, Riz feat. Ranieri, KatynaClint Mansell &amp; Sam HulickMansell, Clint &amp; Hulick, SamClint MansellMansell, ClintCris Velasco &amp; Sascha DikiciyanVelasco, Cris &amp; Dikiciyan, SaschaCreedence Clearwater Revival with Booker T. &amp; the MGsCreedence Clearwater Revival with Booker T. &amp; the MG’sCreedence Clearwater Revival jam with Booker T.Creedence Clearwater Revival jam with Jones, Booker T.Daft Punk feat. Julian CasablancasDaft Punk feat. Casablancas, JulianDaft Punk feat. Pharrell WilliamsDaft Punk feat. Williams, PharrellDaft Punk feat. Paul WilliamsDaft Punk feat. Williams, PaulDaft Punk feat. Pharrell Williams &amp; Nile RodgersDaft Punk feat. Williams, Pharrell &amp; Rodgers, NileDaft Punk feat. Todd EdwardsDaft Punk feat. Edwards, ToddThe Dave Brubeck QuartetBrubeck, Dave, Quartet, TheDave Brubeck; The Dave Brubeck QuartetBrubeck, Dave, Quartet, Thecomposer:David BowieBowie, DavidDimitri TiomkinTiomkin, DimitriThe Arnold CornsArnold Corns, TheDavid WesterlundWesterlund, DavidDJ FoodFood, DJJuno Reactor and Don DavisJuno Reactor and Davis, DonJuno Reactor vs. Don DavisJuno Reactor vs. Davis, DonDuane DeckerDecker, DuaneDuke EllingtonEllington, DukeCarmen Twillie &amp; Lebo MTwillie, Carmen &amp; Lebo MElton John, Tim Rice &amp; Hans ZimmerJohn, Elton, Rice, Tim &amp; Zimmer, HansJason Weaver, Rowan Atkinson &amp; Laura WilliamsWeaver, Jason, Atkinson, Rowan &amp; Williams, LauraJeremy Irons, Whoopi Goldberg, Cheech Marin &amp; Jim CummingsIrons, Jeremy, Goldberg, Whoopi, Marin, Cheech &amp; Cummings, JimNathan Lane, Ernie Sabella, Jason Weaver &amp; Joseph WilliamsLane, Nathan, Sabella, Ernie, Weaver, Jason &amp; Williams, JosephJoseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella &amp; Kristle EdwardsWilliams, Joseph, Dworsky, Sally, Lane, Nathan, Sabella, Ernie &amp; Edwards, KristleJeff Bennett, James Earl Jones &amp; Evan SaucedoBennett, Jeff, Jones, James Earl &amp; Saucedo, EvanNathan Lane &amp; Ernie SabellaLane, Nathan &amp; Sabella, ErnieElton JohnJohn, EltonElvis PresleyPresley, ElvisElvis Presley with The JordanairesPresley, Elvis with Jordanaires, TheEric BuchholzBuchholz, EricKristin Naigus feat. Patti RudisillNaigus, Kristin feat. Rudisill, PattiDavid Peacock feat. Augustine Mayuga GonzalesPeacock, David feat. Gonzales, Augustine MayugaEric Buchholz feat. Jake McCoyBuchholz, Eric feat. McCoy, JakeWayne Strange feat. Patti RudisillStrange, Wayne feat. Rudisill, Patti瀬川圭一郎Segawa, Keiichiro南亜矢子Minami, Ayako高田征典Takada, Yukinori松本大輔Matsumoto, Daisuke一木裕樹Ichiki, YukiFromSoftware &amp; 高山義和FromSoftware &amp; Takayama, Yoshikazu星野康太 &amp; 南亜矢子Hoshino, Kota &amp; Minami, Ayako末永浩一Suenaga, Kohichi高山義和Takayama, YoshikazuFromSoftware &amp; 星野康太FromSoftware &amp; Hoshino, Kota星野康太,北村友香Hoshino, Kota,Kitamura, Yuka星野康太 &amp; FromSoftwareHoshino, Kota &amp; FromSoftware齋藤司 &amp; 星野康太Saitoh, Tsukasa &amp; Hoshino, Kota一木裕樹, 星野康太Ichiki, Yuki, Hoshino, Kota星野康太, 北村友香Hoshino, Kota, Kitamura, YukaFromSoftwareSegawa, KeiichiroFromSoftware &amp; 齋藤司FromSoftware &amp; Saitoh, Tsukasa星野康太 &amp; Shoi MiyazawaHoshino, Kota &amp; Miyazawa, Shoi星野康太, Shoi MiyazawaHoshino, Kota, Miyazawa, ShoiTakashi OnoderaOnodera, TakashiMijk van DijkDijk, van, MijkIkuya IchinoheIchinohe, Ikuya瀬川圭一郎 &amp; 齋藤司Segawa, Keiichiro &amp; Saitoh, Tsukasa神田有士Kanda, Yuji柳川剛Yanagawa, Takeshi神田有士 &amp; 土屋昇平Kanda, Yuji &amp; Tsuchiya, ShoheiFromSoftware &amp; 末永浩一FromSoftware &amp; Suenaga, Kohichi星野康太 &amp; 星野康太Hoshino, Kota &amp; Hoshino, Kota瀬川圭一郎 &amp; 高田征典Segawa, Keiichiro &amp; Takada, Yukinori瀬川圭一郎 &amp; 星野康太Segawa, Keiichiro &amp; Hoshino, KotaFromSoftware &amp; 高田征典FromSoftware &amp; Takada, Yukinori齋藤司 &amp; 末永浩一Saitoh, Tsukasa &amp; Suenaga, KohichiTsukasa SaitohSaitoh, TsukasaShoi MiyazawaMiyazawa, ShoiYoshimi KudoKudō, YoshimiYuka KitamuraKitamura, YukaTai TomisawaTomisawa, TaiTsukasa Saitoh, Shoi MiyazawaSaitoh, Tsukasa, Miyazawa, ShoiGabriel YaredYared, GabrielGAME FREAK &amp; Shota KageyamaGAME FREAK &amp; Kageyama, ShōtaGAME FREAK, Jun&apos;ichi Masuda &amp; Shota KageyamaGAME FREAK, Masuda, Jun&apos;ichi &amp; Kageyama, ShōtaGAME FREAK &amp; Jun&apos;ichi MasudaGAME FREAK &amp; Masuda, Jun&apos;ichiGAME FREAK, Jun&apos;ichi Masuda, Go Ichinose &amp; Shota KageyamaGAME FREAK, Masuda, Jun&apos;ichi, Ichinose, Go &amp; Kageyama, ShōtaGAME FREAK, Shota Kageyama &amp; Jun&apos;ichi MasudaGAME FREAK, Kageyama, Shōta &amp; Masuda, Jun&apos;ichiGAME FREAK, Hitomi Sato &amp; Shota KageyamaGAME FREAK, Sato, Hitomi &amp; Kageyama, ShōtaJun&apos;ichi Masuda, Shota Kageyama &amp; GAME FREAKMasuda, Jun&apos;ichi, Kageyama, Shōta &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose &amp; GAME FREAKMasuda, Jun&apos;ichi, Ichinose, Go &amp; GAME FREAKGAME FREAK &amp; Hitomi SatoGAME FREAK &amp; Sato, HitomiGo Ichinose, Hitomi Sato, Shota Kageyama &amp; GAME FREAKIchinose, Go, Sato, Hitomi, Kageyama, Shōta &amp; GAME FREAKHitomi Sato, Go Ichinose &amp; GAME FREAKSato, Hitomi, Ichinose, Go &amp; GAME FREAKMorikazu Aoki, Shota Kageyama &amp; GAME FREAKAoki, Morikazu, Kageyama, Shōta &amp; GAME FREAKMorikazu Aoki, Go Ichinose &amp; GAME FREAKAoki, Morikazu, Ichinose, Go &amp; GAME FREAKGAME FREAK &amp; Go IchinoseGAME FREAK &amp; Ichinose, GoSatoshi Nohara, Hitomi Sato &amp; GAME FREAKNohara, Satoshi, Sato, Hitomi &amp; GAME FREAKHitomi Sato, Shota Kageyama &amp; GAME FREAKSato, Hitomi, Kageyama, Shōta &amp; GAME FREAKGAME FREAK &amp; Minako AdachiGAME FREAK &amp; Adachi, MinakoGo Ichinose, Hitomi Sato &amp; GAME FREAKIchinose, Go, Sato, Hitomi &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose, Hitomi Sato &amp; GAME FREAKMasuda, Jun&apos;ichi, Ichinose, Go, Sato, Hitomi &amp; GAME FREAKGo Ichinose, Shota Kageyama &amp; Game FreakIchinose, Go, Kageyama, Shōta &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose, Minako Adachi &amp; Game FreakMasuda, Jun&apos;ichi, Ichinose, Go, Adachi, Minako &amp; GAME FREAKJun&apos;ichi Masuda, Minako Adachi &amp; GAME FREAKMasuda, Jun&apos;ichi, Adachi, Minako &amp; GAME FREAKJun&apos;ichi Masuda, Hitomi Sato &amp; GAME FREAKMasuda, Jun&apos;ichi, Sato, Hitomi &amp; GAME FREAKJun&apos;ichi Masuda, Morikazu Aoki &amp; Game FreakMasuda, Jun&apos;ichi, Aoki, Morikazu &amp; GAME FREAKMorikazu Aoki, Hitomi Sato &amp; GAME FREAKAoki, Morikazu, Sato, Hitomi &amp; GAME FREAKGAME FREAK &amp; Morikazu AokiGAME FREAK &amp; Aoki, MorikazuGo Ichinose &amp; GAME FREAKIchinose, Go &amp; GAME FREAKMorikazu Aoki &amp; GAME FREAKAoki, Morikazu &amp; GAME FREAKGo Ichinose, Jun&apos;ichi Masuda, Hitomi Sato, GAME FREAK feat. Hironobu YoshidaIchinose, Go, Masuda, Jun&apos;ichi, Sato, Hitomi, GAME FREAK feat. 教えお兄さん(よしだひろのぶ)Go Ichinose, Hitomi Sato, GAME FREAK feat. Yumi FunasakaIchinose, Go, Sato, Hitomi, GAME FREAK feat. Funasaka, YumiJun&apos;ichi Masuda &amp; GAME FREAKMasuda, Jun&apos;ichi &amp; GAME FREAKGo Ichinose, Jun&apos;ichi Masuda, Morikazu Aoki &amp; GAME FREAKIchinose, Go, Masuda, Jun&apos;ichi, Aoki, Morikazu &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose, Shota Kageyama &amp; GAME FREAKMasuda, Jun&apos;ichi, Ichinose, Go, Kageyama, Shōta &amp; GAME FREAKJun&apos;ichi Masuda, Takuto Kitsuta &amp; GAME FREAKMasuda, Jun&apos;ichi, Kitsuta, Takuto &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose, Takuto Kitsuta &amp; GAME FREAKMasuda, Jun&apos;ichi, Ichinose, Go, Kitsuta, Takuto &amp; GAME FREAKSatoshi Nohara, Shota Kageyama &amp; GAME FREAKNohara, Satoshi, Kageyama, Shōta &amp; GAME FREAKShota Kageyama, Jun&apos;ichi Masuda &amp; GAME FREAKKageyama, Shōta, Masuda, Jun&apos;ichi &amp; GAME FREAKGo Ichinose, Jun&apos;ichi Masuda &amp; GAME FREAKIchinose, Go, Masuda, Jun&apos;ichi &amp; GAME FREAKGo Ichinose, Takuto Kitsuta &amp; GAME FREAKIchinose, Go, Kitsuta, Takuto &amp; GAME FREAKHitomi Sato, Takuto Kitsuta &amp; GAME FREAKSato, Hitomi, Kitsuta, Takuto &amp; GAME FREAKJun&apos;ichi Masuda, Go Ichinose, Morikazu Aoki &amp; GAME FREAKMasuda, Jun&apos;ichi, Ichinose, Go, Aoki, Morikazu &amp; GAME FREAKShota Kageyama, Takuto Kitsuta &amp; GAME FREAKKageyama, Shōta, Kitsuta, Takuto &amp; GAME FREAKKai Hansen, Dirk Schlächter, Dan ZimmermannHansen, Kai, Schlächter, Dirk, Zimmermann, DanKai HansenHansen, KaiHenjo RichterRichter, HenjoDirk SchlächterSchlächter, DirkDan ZimmermannZimmermann, DanKai Hansen, Piet SielckHansen, Kai, Sielck, PietGenius/GZAGZA/GeniusGenius/GZA feat. Ol’ Dirty Bastard, Masta Killa &amp; Inspectah DeckGZA/Genius feat. Ol’ Dirty Bastard, Masta Killa &amp; Inspectah DeckGenius/GZA feat. Inspectah DeckGZA/Genius feat. Inspectah DeckGenius/GZA feat. Ghostface Killah, Killah Priest &amp; RZAGZA/Genius feat. Ghostface Killah, Killah Priest &amp; RZAGenius/GZA feat. Method ManGZA/Genius feat. Method ManGenius/GZA feat. U‐God, Raekwon &amp; Ghostface KillahGZA/Genius feat. U‐God, Raekwon &amp; Ghostface KillahGhostface Killah feat. The Force M.D.s, Raekwon &amp; Method ManGhostface Killah feat. Force MD’s, Raekwon &amp; Method ManGhostface Killah feat. The Force M.D.s, Cappadonna &amp; RaekwonGhostface Killah feat. Force MD’s, Cappadonna &amp; RaekwonGhostface Killah feat. RZA, Raekwon &amp; The DelphonicsGhostface Killah feat. RZA, Raekwon &amp; Delfonics, TheGhostface Killah feat. Popa Wu &amp; Mary J. BligeGhostface Killah feat. Popa Wu &amp; Blige, Mary J.Glenn BrancaBranca, GlennGlenn Stafford, Derek Duke &amp; Jason HayesStafford, Glenn, Duke, Derek &amp; Hayes, JasonRussell Brower, Glenn Stafford, Derek Duke &amp; Neal AcreeBrower, Russell, Stafford, Glenn, Duke, Derek &amp; Acree, NealGlenn Stafford, Derek Duke, Russell Brower, Neal AcreeStafford, Glenn, Duke, Derek, Brower, Russell, Acree, NealDerek Duke, Cris Velasco &amp; Sascha DikiciyanDuke, Derek, Velasco, Cris &amp; Dikiciyan, SaschaGlenn Stafford, Derek Duke &amp; Neal AcreeStafford, Glenn, Duke, Derek &amp; Acree, NealGraeme NorgateNorgate, Graemecomposer:Graeme NorgateNorgate, GraemeDavid ClynickClynick, Davidcomposer:David ClynickClynick, DavidHans Zimmer &amp; Gore VerbinskiZimmer, Hans &amp; Verbinski, GoreHans Zimmer, Gore Verbinski, Geoff Zanelli, Tom Gire, John Sponsler &amp; Atli ÖrvarssonZimmer, Hans, Verbinski, Gore, Zanelli, Geoff, Gire, Tom, Sponsler, John &amp; Örvarsson, AtliHans Zimmer, Lorne Balfe, Geoff Zanelli, Henry Jackman &amp; Atli ÖrvarssonZimmer, Hans, Balfe, Lorne, Zanelli, Geoff, Jackman, Henry &amp; Örvarsson, AtliHans Zimmer &amp; Atli ÖrvarssonZimmer, Hans &amp; Örvarsson, AtliHans Zimmer &amp; Henry JackmanZimmer, Hans &amp; Jackman, HenryHans Zimmer, Lorne Balfe &amp; Atli ÖrvarssonZimmer, Hans, Balfe, Lorne &amp; Örvarsson, AtliHans Zimmer, Gore Verbinski, Lorne Balfe &amp; Atli ÖrvarssonZimmer, Hans, Verbinski, Gore, Balfe, Lorne &amp; Örvarsson, AtliHans Zimmer &amp; Geoff ZanelliZimmer, Hans &amp; Zanelli, GeoffHans Zimmer, Gore Verbinski &amp; Nick Glennie‐SmithZimmer, Hans, Verbinski, Gore &amp; Glennie‐Smith, NickHans Zimmer, Gore Verbinski, Henry Jackman, Atli Örvarsson, Tom Gire &amp; John SponslerZimmer, Hans, Verbinski, Gore, Jackman, Henry, Örvarsson, Atli, Gire, Tom &amp; Sponsler, JohnHans Zimmer, Henry Jackman, Tom Gire &amp; John SponslerZimmer, Hans, Jackman, Henry, Gire, Tom &amp; Sponsler, JohnHans Zimmer, Lorne Balfe, Geoff Zanelli &amp; Henry JackmanZimmer, Hans, Balfe, Lorne, Zanelli, Geoff &amp; Jackman, Henrycomposer:Hans ZimmerZimmer, HansHans Zimmer, Klaus Badelt &amp; Geoff ZanelliZimmer, Hans, Badelt, Klaus &amp; Zanelli, GeoffHans Zimmer &amp; Benjamin WallfischZimmer, Hans &amp; Wallfisch, BenjaminFrank SinatraSinatra, FrankElvis Presley &amp; The JordanairesPresley, Elvis &amp; Jordanaires, TheLauren DaigleDaigle, LaurenHans Zimmer &amp; James Newton HowardZimmer, Hans &amp; Howard, James NewtonJames Newton HowardHoward, James NewtonHans Zimmer &amp; Lorne BalfeZimmer, Hans &amp; Balfe, LorneHans Zimmer &amp; Matthew MargesonZimmer, Hans &amp; Margeson, MatthewHans Zimmer feat. Rodrigo y GabrielaZimmer, Hans feat. Rodrigo y GabrielaHans Zimmer, Eduardo Cruz featuring Rodrigo y GabrielaZimmer, Hans, Sánchez, Eduardo Cruz featuring Rodrigo y GabrielaHans Zimmer, Matthew Margeson, Tom Gire &amp; John SponslerZimmer, Hans, Margeson, Matthew, Gire, Tom &amp; Sponsler, JohnRodrigo y Gabriela &amp; Hans ZimmerRodrigo y Gabriela &amp; Zimmer, HansHans Zimmer, Geoff Zanelli &amp; Eric WhitacreZimmer, Hans, Zanelli, Geoff &amp; Whitacre, EricHans Zimmer, Geoff Zanelli featuring Rodrigo y GabrielaZimmer, Hans, Zanelli, Geoff featuring Rodrigo y GabrielaHiroki KikutaKikuta, HirokiHitoshi Sakimoto; Masaharu IwataSakimoto, HitoshiHorace Tapscott conducting the Pan-Afrikan Peoples ArkestraTapscott, Horace and Pan Afrikan Peoples ArkestraHoward ShoreShore, HowardThe Dwarf CastDwarf Cast, TheRichard Armitage &amp; The Dwarf CastArmitage, Richard &amp; Dwarf Cast, TheNeil FinnFinn, NeilBilly BoydBoyd, BillyEd SheeranSheeran, EdHoward Shore, Howard ShoreShore, Howard, Shore, Howardcomposer:Howard ShoreShore, HowardDonald SwannSwann, DonaldHoward Shore, J.R.R. TolkienShore, Howard, Tolkien, J.R.R.Howard Shore feat. EnyaShore, Howard feat. EnyaEnya, Enya, Howard ShoreEnya, Enya, Shore, HowardHoward Shore feat. Elizabeth FraserShore, Howard feat. Fraser, ElizabethHoward Shore, Philippa Boyens, Howard Shore, Philippa Boyens, Howard ShoreShore, Howard, Boyens, Philippa, Shore, Howard, Boyens, Philippa, Shore, HowardEnya, Nicky RyanEnya, Ryan, NickyHoward Shore feat. Edward RossShore, Howard feat. Ross, EdwardHoward Shore, Fran WalshShore, Howard, Walsh, FranPlan 9, Billy Boyd and Dominic MonaghanPlan 9, Boyd, Billy and Monaghan, DominicDavid Donaldson, David Long, Steve Roche, Janet RoddickDonaldson, David, Long, David, Roche, Steve, Roddick, JanetHoward Shore feat. Renée FlemingShore, Howard feat. Fleming, RenéeHoward Shore feat. Ben Del MaestroShore, Howard feat. Maestro, Ben DelHoward Shore feat. Billy BoydShore, Howard feat. Boyd, BillyHoward Shore feat. Liv TylerShore, Howard feat. Tyler, LivHoward Shore feat. SisselShore, Howard feat. SisselHoward Shore feat. Sir James GalwayShore, Howard feat. Galway, JamesHoward Shore feat. Sir James Galway, Viggo Mortensen &amp; Renée FlemingShore, Howard feat. Galway, James, Mortensen, Viggo &amp; Fleming, RenéeHoward Shore feat. Annie LennoxShore, Howard feat. Lennox, AnnieHoward Shore, Annie Lennox, Howard Shore, Fran WalshShore, Howard, Lennox, Annie, Shore, Howard, Walsh, FranHoward Shore feat. Miranda OttoShore, Howard feat. Otto, MirandaHoward Shore feat. Isabel BayrakdarianShore, Howard feat. Bayrakdarian, IsabelHoward Shore feat. Sheila ChandraShore, Howard feat. Chandra, SheilaHoward Shore feat. Emilíana TorriniShore, Howard feat. Torrini, EmilíanaHuey Lewis and the NewsLewis, Huey and the NewsIan TaylorTaylor, IanAdam BondBond, AdamIkuko MimoriMimori, IkukoIlan EshkeriEshkeri, IlanIlan Eshkeri &amp; 梅林茂Eshkeri, Ilan &amp; Umebayashi, ShigeruIlan Eshkeri feat. Clare UchimaEshkeri, Ilan feat. Uchima, Clare梅林茂Umebayashi, ShigeruInon Zur &amp; Idan RaichelZur, Inon &amp; Raichel, IdanInon Zur &amp; Aubrey AshburnZur, Inon &amp; Ashburn, AubreyInon Zur, Aubrey Ashburn &amp; Idan RaichelZur, Inon, Ashburn, Aubrey &amp; Raichel, IdanStephanie Dowling &amp; Justin BellDowling, Stephanie &amp; Bell, Justin E.J.E. Sawyer &amp; Nathaniel ChapmanSawyer, Joshua &amp; Chapman, NathanielJ.E. Sawyer &amp; James MelilliSawyer, Joshua &amp; Melilli, JamesJ-MUSIC Ensemble feat. Karlea Lynné, Ruby ChoiJ-MUSIC Ensemble feat. Lynné, Karlea, Choi, RubyJ-MUSIC Ensemble feat. Kento IwasakiJ-MUSIC Ensemble feat. Iwasaki, KentoJ-MUSIC Ensemble feat. Adam NeelyJ-MUSIC Ensemble feat. Neely, AdamJ-MUSIC Ensemble feat. Ruby ChoiJ-MUSIC Ensemble feat. Choi, RubyJ.J. Ipsen featuring Young MbazoIpsen, J.J. featuring Young MbazoJ.J. IpsenIpsen, J.J.Jack WallWall, JackJack Wall &amp; Jimmy HinsonWall, Jack &amp; Hinson, JimmyJack Wall, Jimmy Hinson &amp; Sam HulickWall, Jack, Hinson, Jimmy &amp; Hulick, SamJack Wall &amp; David KatesWall, Jack &amp; Kates, DavidJack Wall &amp; Sam HulickWall, Jack &amp; Hulick, SamJack Wall &amp; Richard JacquesWall, Jack &amp; Jacques, RichardRichard Jacques, Jack Wall &amp; Sam HulickJacques, Richard, Wall, Jack &amp; Hulick, SamDavid Kates, Jack Wall &amp; Sam HulickKates, David, Wall, Jack &amp; Hulick, SamJackson 5Jacksons, TheJeehun Hwang; VAAlper, Gregory &amp; Hwang, JeehunJeremy Soule &amp; Mark LampertSoule, Jeremy &amp; Lampert, Mark98° and Stevie Wonder98° and Wonder, StevieJerry Goldsmith &amp; Matthew WilderGoldsmith, Jerry &amp; Wilder, MatthewBeth Fowler, Marni Nixon, Lea Salonga, and ChorusFowler, Beth, Nixon, Marni, Salonga, Lea, and ChorusLea SalongaSalonga, LeaDonny Osmond and ChorusOsmond, Donny and ChorusHarvey Fierstein, James Hong, Lea Salonga, Jerry Tondo, Matthew Wilder, and ChorusFierstein, Harvey, Hong, James, Salonga, Lea, Tondo, Jerry, Wilder, Matthew, and ChorusJesper KydKyd, JesperJim GuthrieGuthrie, Jim木村弓Kimura, YoumiYumi MatsutoyaMatsutôya, Yumicomposer:Joe HisaishiHisaishi, JoeJoe Hisaishi &amp; Azumi InoueHisaishi, Joe &amp; Inoue, AzumiSasha LazardLazard, SashaYoumi KimuraKimura, YoumiJoe Hisaishi &amp; 新日本フィルワールドドリームオーケストラHisaishi, Joe &amp; New Japan Philharmonic World Dream OrchestraJoey Bada$$Joey BadassJoey Bada$$ feat. Chuck StrangersJoey Badass feat. Strangers, ChuckJoey Bada$$ feat. Capital STEEZJoey Badass feat. Capital STEEZJoey Bada$$ feat. CJ FlyJoey Badass feat. Fly, CJJoey Bada$$ feat. T’nah ApexJoey Badass feat. T’nah ApexJoey Bada$$ feat. Kirk KnightJoey Badass feat. Knight, KirkJoey Bada$$ feat. Pro EraJoey Badass feat. Pro EraJoey Bada$$ feat. ScHoolboy QJoey Badass feat. ScHoolboy QJoey Bada$$ feat. Nyck Caution, Kirk Knight &amp; Meechy DarkoJoey Badass feat. Caution, Nyck, Knight, Kirk &amp; Meechy DarkoJoey Bada$$ feat. Styles PJoey Badass feat. Styles PJoey Bada$$ feat. ChronixxJoey Badass feat. ChronixxJoey Bada$$ feat. J. ColeJoey Badass feat. Cole, J.Joey Bada$$ feat. Collie BuddzJoey Badass feat. Buddz, CollieJoey Bada$$ feat. Smoke DZAJoey Badass feat. Smoke DZAJoey Bada$$ feat. Dirty Sanchez &amp; Nyck CautionJoey Badass feat. Dirty Sanchez &amp; Caution, NyckJoey Bada$$ feat. Dessy Hinds &amp; T’nah ApexJoey Badass feat. Hinds, Dessy &amp; T’nah ApexJoey Bada$$ feat. Chuck Strangers, Kirk Knight &amp; Dessy HindsJoey Badass feat. Strangers, Chuck, Knight, Kirk &amp; Hinds, DessyJohn LennonLennon, Johncomposer:John LennonLennon, JohnMike StollerStoller, MikeJohn Lennon / Yoko OnoLennon, John / Ono, YokoJohn Lennon &amp; Yoko OnoLennon, John &amp; Ono, YokoFrankie ValliValli, FrankieJohn Travolta &amp; Olivia Newton‐JohnTravolta, John &amp; Newton‐John, OliviaOlivia Newton‐JohnNewton‐John, OliviaJohn TravoltaTravolta, JohnFrankie AvalonAvalon, FrankieStockard ChanningChanning, StockardJohn Travolta &amp; Jeff ConawayTravolta, John &amp; Conaway, JeffCindy BullensBullens, CidnyJames GetzoffGetzoff, JamesLouis St. Louis &amp; Cindy BullensSaint Louis, Louis &amp; Bullens, CidnyLouis St. LouisSaint Louis, LouisGary Brown &amp; Frankie ValliBrown, Gary &amp; Valli, FrankieJohn Travolta &amp; Olivia Newton‐John &amp; Frankie ValliTravolta, John &amp; Newton‐John, Olivia &amp; Valli, FrankieJohn Williams &amp; London Symphony OrchestraWilliams, John &amp; London Symphony OrchestraAlfred NewmanNewman, AlfredJohnny Cash feat. June CarterCash, Johnny feat. Carter Cash, JuneJohnny Cash feat. David Allan CoeCash, Johnny feat. Coe, David AllanJohnny Cash feat. George JonesCash, Johnny feat. Jones, GeorgeJohnny Cash with June Carter CashCash, Johnny with Carter Cash, JuneJohnny Cash with Marty RobbinsCash, Johnny with Robbins, MartyThe HighwaymenHighwaymen, TheJohnny Cash and The Tennessee ThreeCash, Johnny and Tennessee Three, TheJon EveristEverist, JonJosh MancellMancell, JoshJosh Mancell &amp; Larry HopkinsMancell, Josh &amp; Larry HopkinsJustin BellBell, Justin E.The Budapest Art OrchestraBudapest Art OrchestraJustin E. BellBell, Justin E.Nils Brown &amp; Carrie Henneman ShawBrown, Nils &amp; Shaw, Carrie HennemanKevin KinerKiner, KevinKevin Kiner &amp; Takashi FurukawaKiner, Kevin &amp; Furukawa, TakashiKevin Kiner &amp; Matthew St. LaurentKiner, Kevin &amp; St. Laurent, MatthewKevin Kiner &amp; David G. RussellKiner, Kevin &amp; Russell, David G.King Geedorah feat. Jet-Jaguar &amp; RodanKing Geedorah feat. Jet Jaguar &amp; RodanKing Geedorah feat. MF DOOM &amp; Mr FantastikKing Geedorah feat. MF DOOM &amp; Fantastik, Mr.Klaus BadeltBadelt, KlausKnut Avenstroup HaugenHaugen, Knut AvenstroupKnut A. Haugen; Knut Avenstroup HaugenHaugen, Knut AvenstroupHiroshi KitadaniKitadani, HiroshiKouhei Tanaka &amp; Shirō HamaguchiTanaka, Kouhei &amp; Hamaguchi, ShiroKouhei TanakaTanaka, KouheiShirō HamaguchiHamaguchi, ShiroRoronoa Zoro (Kazuya Nakai)Roronoa Zoro (Nakai, Kazuya)Monkey D. Luffy (Mayumi Tanaka)Monkey D. Luffy (Tanaka, Mayumi)Usopp (Kappei Yamaguchi)Usopp (Yamaguchi, Kappei)Django (Kazuki Yao)Django (Yao, Kazuki)Sanji Vinsmoke (Ikue Ōtani)Vinsmoke Sanji (Ohtani, Ikue)Sanji Vinsmoke (Hiroaki Hirata)Vinsmoke Sanji (Hirata, Hiroaki)Nami (Akemi Okamura)Nami (Okamura, Akemi)Monkey D. Luffy (Mayumi Tanaka), Roronoa Zoro (Kazuya Nakai), Nami (Akemi Okamura), Usopp (Kappei Yamaguchi), Sanji Vinsmoke (Hiroaki Hirata)Monkey D. Luffy (Tanaka, Mayumi), Roronoa Zoro (Nakai, Kazuya), Nami (Okamura, Akemi), Usopp (Yamaguchi, Kappei), Vinsmoke Sanji (Hirata, Hiroaki)Kow OtaniOtani, KowToby KeithKeith, TobyMark GriskeyGriskey, MarkDavid García DíazDíaz, David GarcíaDavid Garcia DiazDíaz, David GarcíaNormand CorbeilCorbeil, NormandChris Forsyth with Garcia PeoplesForsyth, Chris with Garcia PeoplesKeller WilliamsWilliams, KellerMedeski Martin + WoodMedeski Martin &amp; WoodMedeski, Martin &amp; WoodMedeski Martin &amp; WoodMerl Saunders - Jerry Garcia, Tom Fogerty, John Kahn, Bill VittSaunders, Merl - Garcia, Jerry, Fogerty, Tom, Kahn, John, Vitt, BillMerl Saunders and Friends - Jerry Garcia, Tom Fogerty, John Kahn, Bill VittSaunders, Merl - Garcia, Jerry, Fogerty, Tom, Kahn, John, Vitt, BillPeter GreenGreen, PeterThe String Cheese IncidentString Cheese Incident, TheTrey AnastasioAnastasio, TreyRichie KotzenKotzen, Richie和田薫Wada, Kaoru相川七瀬Aikawa, Nanase浜崎あゆみHamasaki, AyumiJoachim SpiethSpieth, JoachimLuigi TozziTozzi, LuigiSamuel L SessionSession, Samuel L.Joachim Spieth &amp; Reggy van OersSpieth, Joachim &amp; van Oers, ReggyMassa (7)MassaA Sacred GeometrySacred Geometry, AToki FukoFuko, TokiLawson RollinsRollins, LawsonStephanie SykesSykes, StephanieMarcin PrzybyłowiczPrzybyłowicz, MarcinMichał CieleckiCielecki, MichałKrzysztof Wierzynkiewicz &amp; Marcin PrzybyłowiczWierzynkiewicz, Krzysztof &amp; Przybyłowicz, MarcinMarcin Przybyłowicz/Mikolai StroinskiPrzybyłowicz, Marcin/Stroinski, MikolaiMikolai StroinskiStroinski, MikolaiPercival &amp; Marcin PrzybyłowiczPercival &amp; Przybyłowicz, MarcinMarcin Przybyłowicz &amp; PercivalPrzybyłowicz, Marcin &amp; PercivalMarcin Przybyłowicz, Mikolai Stroinski &amp; Piotr MusiałPrzybyłowicz, Marcin, Stroinski, Mikolai &amp; Musiał, PiotrPiotr MusiałMusiał, PiotrJoel NielsenNielsen, JoelPaweł Błaszczak &amp; Adam SkorupaBłaszczak, Paweł &amp; Skorupa, AdamPaweł BłaszczakBłaszczak, PawełDarren KorbKorb, DarrenPaul RuskayRuskay, PaulDaniel Lanois, Daryl Johnson, Joseph Maize, Darryl Hatcher and Rhiannon GiddensLanois, Daniel, Johnson, Daryl, Maize, Joseph, Hatcher, Darryl and Giddens, RhiannonDaniel LanoisLanois, DanielRocco DeLucaDeLuca, RoccoRhiannon GiddensGiddens, RhiannonJosh HommeHomme, JoshRussell ShawShaw, RussellKristopher CarterCarter, KristopherShirley Walker, Lolita Ritmanis, Michael McCuistion &amp; Kristopher CarterWalker, Shirley, Ritmanis, Lolita, McCuistion, Michael &amp; Carter, KristopherShirley WalkerWalker, ShirleyLolita RitmanisRitmanis, LolitaMichael McCuistionMcCuistion, Michaelcomposer:Shirley WalkerWalker, Shirley鈴木幸太 &amp; 成田暁彦Suzuki, Kōta &amp; Narita, Akihiko柴田徹也 &amp; 長谷川憲人Shibata, Tetsuya &amp; Hasegawa, Kento佐藤真一郎Sato, ShinichiroMick Gordon feat. Omega SparxGordon, Mick feat. Omega SparxMick Gordon feat. Erika Mariko OlsenGordon, Mick feat. Olsen, Erika MarikoMick Gordon feat. LittleVMillsGordon, Mick feat. LittleVMillsMick Gordon feat. Ali EdwardsGordon, Mick feat. Edwards, AliMick Gordon feat. Christopher de LeonGordon, Mick feat. De Leon, ChristopherRobin Beanland feat. Grant KirkhopeBeanland, Robin feat. Kirkhope, GrantRobin Beanland feat. Mark BetteridgeBeanland, Robin feat. Betteridge, MarkRobin Beanland feat. Kev Bayliss, Faye Newborough, Team RareBeanland, Robin feat. Bayliss, Kev, Newborough, Faye, RareRobin Beanland feat. Faye NewboroughBeanland, Robin feat. Newborough, FayeRobin Beanland feat. Team RareBeanland, Robin feat. RareHIYA! &amp; Captain BeroouHIYA! &amp; Bero-ouHIYA!, Captain Beroou, Q_JIROU &amp; maitaroHIYA!, Bero-ou, Q_JIROU &amp; maitaro田中敬一Tanaka, Toshikazu並木学Namiki, Manabu金田充弘Kaneda, Mitsuhiro蓑部雄崇Minobe, Yutaka熊谷文恵Kumatani, Fumie瀬津丸勝Setsumaru, Masaru前田龍之Maeda, Tatsuyuki中川輝彦Nakagawa, TeruhikoCash Cash vs. Jun SenoueCash Cash vs. Senoue, Jun遠山明孝Tohyama, Akitaka岡部啓一Okabe, Keiichi濱本理央Hamamoto, Rio井上拓Inoue, Taku荒川 美恵Arakawa, Yoshie神前暁Kōsaki, Satoru椎名豪Shiina, GoHidekuyi FukasawaFukasawa, HideyukiKen HaradaHarada, Ken中村隆之Nakamura, Takayuki中村隆之 &amp; 光吉猛修Nakamura, Takayuki &amp; Mitsuyoshi, Takenobu橋本明子Hashimoto, Akiko光吉猛修Mitsuyoshi, Takenobu中村隆之 &amp; 光吉猛修 &amp; 橋本明子Nakamura, Takayuki &amp; Mitsuyoshi, Takenobu &amp; Hashimoto, Akiko河内和彦Kouchi, KazuhikoDaniel TidwellTidwell, DanielNAMCO BANDAI GamesGames, NAMCO BANDAI中鶴潤一Nakatsuru, Junichi矢野義人Yano, Yoshihito境亜寿香Sakai, Asuka高田龍一Takada, Ryūichi高木潤一Takagi, Junichi小林啓樹Kobayashi, Keiki矢野義人 &amp; 戸部田英樹Yano, Yoshihito &amp; Tobeta, Hideki大塚隆功Otsuka, TakanoriPolyphia feat. Jason RichardsonPolyphia feat. Richardson, JasonPolyphia feat. IchikaPolyphia feat. Ichika, NitoPolyphia feat. Mateus AsatoPolyphia feat. Asato, MateusPolyphia feat. Mario Camarena &amp; Erick HanselPolyphia feat. Camarena, Mario &amp; Hansel, ErickPolyphia feat. Yvette YoungPolyphia feat. Young, YvetteMoray PringlePringle, MorayすぎやまこういちSugiyama, KoichiHunter S. ThompsonThompson, Hunter S.Bob WeirWeir, BobBob Weir and Wolf Bros. feat. Tyler ChildersBob Weir and Wolf Bros. feat. Childers, TylerBob Weir and Wolf Bros. feat. Brittney SpencerBob Weir and Wolf Bros. feat. Spencer, Brittney富永真央 &amp; 藤井志帆Tominaga, Manaka &amp; Fujii, Shiho岩田恭明, 高橋優海, Shinobu Nagata, Sayako Doi &amp; Masato OhashiIwata, Yasuaki, Takahashi, Yumi, Nagata, Shinobu, Doi, Sayako &amp; Ohashi, Masato片岡真央, 朝日温子 &amp; 戸高一生Kataoka, Manaka, Asahi, Atsuko &amp; Totaka, KazumiKazumi Totaka, Manaka Kataoka &amp; Atsuko AsahiKataoka, Manaka, Asahi, Atsuko &amp; Totaka, KazumiKota HoshinoHoshino, KotaKota Hoshino, Takashi OnoderaHoshino, Kota, Onodera, TakashiShoi Miyazawa, Kota HoshinoMiyazawa, Shoi, Hoshino, KotaTakashi Onodera, Kota HoshinoOnodera, Takashi, Hoshino, Kota坪倉唯子Tsubokura, Yuiko富沢美智恵Tomizawa, Michie榊原良子Sakakibara, YoshikoナイトセーバーズKnight Sabers平松晶子Hiramatsu, Akiko橋本舞子Hashimoto, MaikoKosuke YamashitaMitsuda, YasunoriMariam AbounnasrMitsuda, YasunoriDaisuke ShinodaMitsuda, YasunoriTomomichi TakeokaMitsuda, YasunoriMarcin Przybyłowicz, P.T. Adamczyk &amp; Paul Leonard‐MorganPrzybyłowicz, Marcin, Adamczyk, P.T. &amp; Leonard‐Morgan, PaulPaul Leonard‐MorganLeonard‐Morgan, PaulP.T. AdamczykAdamczyk, P.T.P.T. Adamczyk featuring Olga JankowskaAdamczyk, P.T. featuring Jankowska, OlgaThe Unfit &amp; Artificial KidsUnfit, The &amp; Artificial KidsKid Moxie, Ivan Iusco &amp; NablusKid Moxie, Iusco, Ivan &amp; NablusRaney Shockne &amp; American Medical AssociationShockne, Raney &amp; American Medical AssociationSebastian Robertson, Kill The Computer, Indijinouz &amp; Kill Trigger feat. Paul Senai &amp; KraKowRobertson, Sebastian, Kill The Computer, Indijinouz &amp; Kill Trigger feat. Paul Senai &amp; KraKowRhys Fulber &amp; Sao MaiFulber, Rhys &amp; Sao MaiSteven Richard Davis &amp; Ego AfflictionDavis, Steven Richard &amp; Ego AfflictionThe Cold Stares &amp; Brutus BacklashCold Stares, The &amp; Brutus BacklashSteven Richard Davis &amp; Den of DegeneratesDavis, Steven Richard &amp; Den of DegeneratesChris Cardena, Sebastian Robertson &amp; Pacific AvenueChris Cardena, Robertson, Sebastian &amp; Pacific AvenueKid Moxie, Ivan Iusco &amp; Ashes PottsKid Moxie, Iusco, Ivan &amp; Ashes PottsDaniel Davies, Sebastian Robertson &amp; The UnresolvedDavies, Daniel, Robertson, Sebastian &amp; The UnresolvedBryan Aspey &amp; Quantum LoversAspey, Bryan &amp; Quantum LoversDaniel Davies, Sebastian Robertson &amp; KeineDavies, Daniel, Robertson, Sebastian &amp; KeineRhys Fulber &amp; SpooneaterFulber, Rhys &amp; SpooneaterKonrad OldMoney &amp; DAPxFLEM feat. Cidro Onetoo &amp; Perry PorterKonrad OldMoney &amp; DAPxFLEM feat. Cidro Onetoo &amp; Porter, PerryKonrad OldMoney &amp; UMVN feat. Cidro Onetoo, Perry Porter &amp; Imp RaKonrad OldMoney &amp; UMVN feat. Cidro Onetoo, Porter, Perry &amp; Imp RaKonrad OldMoney &amp; NC3 feat. Cidro Onetoo &amp; Perry PorterKonrad OldMoney &amp; NC3 feat. Cidro Onetoo &amp; Porter, PerryKonrad OldMoney &amp; Laputan Machine feat. Cidro Onetoo &amp; Perry PorterKonrad OldMoney &amp; Laputan Machine feat. Cidro Onetoo &amp; Porter, PerryKonrad OldMoney &amp; Triple-B feat. DED STARK &amp; Gun-FuKonrad OldMoney &amp; Triple B Music feat. DED STARK &amp; Gun-FuKonrad OldMoney &amp; Young Kenny feat. Taelor YungKonrad OldMoney &amp; Kenny, Young feat. Taelor YungYugen Blakrok as Gorgon MadonnaBlakrok, Yugen as Gorgon MadonnaThe Armed as Homeschool DropoutsArmed, The as Homeschool DropoutsNamakopuri as Us Cracksナマコプリ as Us CracksGrimes as Lizzy WizzyGrimes as Wizzy, LizzyRosa Walton as Hallie CogginsWalton, Rosa Jewel as Coggins, HallieRaney Shockne feat. COS &amp; Conway as Point Break CandyShockne, Raney feat. COS &amp; Conway, Kassia as Point Break CandyRaney ShockneShockne, RaneyPołoz as TinnitusDeuce as TinnitusNina Kraviz as Bara NovaKraviz, Nina as Nova, BaraDavid Rolas as Papito GringoRolas, David as Papito GringoGeno Lenardo as Code 137 feat. ZealeLenardo, Geno as Code 137 feat. ZealeDamian Ukeje &amp; P.T. Adamczyk as Kerry EurodyneUkeje, Damian &amp; Adamczyk, P.T. as Kerry EurodyneDavid Sandström, Kristofer SteenSandström, David, Steen, KristoferSteven Richard Davis as Kings of CollapseDavis, Steven Richard as Kings of CollapseSebastian Robertson &amp; Daniel Davies as KeineRobertson, Sebastian &amp; Davies, Daniel as KeineRiyou Kinugasa, Takuya Kobayashi &amp; Hiromi MizutaniKinugasa, Riyou, Kobayashi, Takuya &amp; Mizutani, HiromiNina Kraviz&amp;Bara NovaKraviz, Nina&amp;Nova, BaraNina Kraviz&amp;Bara Nova; Nina Kraviz as Bara NovaKraviz, Nina&amp;Nova, BaraAllen ToussaintToussaint, AllenDavid GrismanGrisman, DavidBuddy MillerMiller, BuddyPeter FramptonFrampton, PeterJimmy Cliff, Mickey Hart and Bill KreutzmannCliff, Jimmy, Hart, Mickey and Kreutzmann, BillPhil Lesh &amp; CommunionLesh, Phil &amp; CommunionJorma KaukonenKaukonen, JormaJimmy Cliff, Bob Weir, Mickey Hart and Bill KreutzmannCliff, Jimmy, Weir, Bob, Hart, Mickey and Kreutzmann, BillBill Kreutzmann’s Billy &amp; The KidsKreutzmann’s, Bill, Billy &amp; The KidsThe Disco Biscuits and Bill Kreutzmann’s Billy &amp; The KidsDisco Biscuits, The and Kreutzmann’s, Bill, Billy &amp; The KidsLos Lobos and Bob WeirLobos, Los and Weir, BobBob Weir and Grace PotterWeir, Bob and Potter, GraceEric ChurchChurch, EricPhil Lesh &amp; Communion, Allen Toussaint, David Grisman, Peter Frampton, Buddy Miller, Jorma Kaukonen, Jimmy Cliff, Bob Weir, Mickey Hart, Bill Kreutzmann, The Disco Biscuits, moe., O.A.R., Los Lobos and Bob Weir, Trampled by Turtles, Yonder Mountain String Band, Grace Potter, Eric Church and Widespread PanicLesh, Phil &amp; Communion, Toussaint, Allen, Grisman, David, Frampton, Peter, Miller, Buddy, Kaukonen, Jorma, Cliff, Jimmy, Weir, Bob, Hart, Mickey, Kreutzmann, Bill, Disco Biscuits, The, moe., O.A.R., Lobos, Los and Weir, Bob, Trampled by Turtles, Yonder Mountain String Band, Potter, Grace, Church, Eric and Widespread PanicBob Weir, Mickey Hart and Bill KreutzmannWeir, Bob, Hart, Mickey and Kreutzmann, BillWeiFan ChangChang, Wei-FanSkye Lewin, Michael Salvatori feat. Kronos QuartetLewin, Skye, Salvatori, Michael feat. Kronos QuartetNobuo Uematsu &amp; Masashi HamazuUematsu, Nobuo &amp; Hamauzu, MasashiMasashi HamazuHamauzu, MasashiHitoshi SakimotoSakimoto, HitoshiMasayoshi SokenSoken, MasayoshiBrad DerrickDerrick, BradBrad Derrick feat. Jeremy SouleDerrick, Brad feat. Soule, JeremyRik SchafferSchaffer, RikBrad Derrick &amp; Jeremy SouleDerrick, Brad &amp; Soule, JeremyTim Commerford, Tom Morello, Zack de la Rocha, Brad WilkCommerford, Tim, Morello, Tom, Rocha, Zack de la, Wilk, BradPhish; Phish - AlbumsPhishDaisuke MinamizawaMinamizawa, Daisuke南澤大介Minamizawa, Daisukecomposer:浜渦正志Hamauzu, Masashi菅原紗由理Sugawara, Sayuri鈴木光人Suzuki, Mitsuto鈴木克崇 &amp; 水田直志Suzuki, Yoshitaka &amp; Mizuta, Naoshi鈴木光人 &amp; 水田直志Suzuki, Mitsuto &amp; Mizuta, NaoshiChris RemoRemo, Chris浜渦正志 &amp; 水田直志Hamauzu, Masashi &amp; Mizuta, NaoshiSidney StriplingStripling, SidneyOtha Turner and The Rising Star Fife and Drum BandTurner, Otha and Rising Star Fife and Drum Band, TheJimpson and GroupWallace, Henry Jimpson and Mississippi State Penitentiary, Prisoners atFinbar FureyFurey, FinbarJocelyn PookPook, JocelynMaura O’ConnellO’Connell, MauraVittorio Schiboni, Massimo Giuntini, Rodrigo D’Erasmo and Mariano De SimoneSchiboni, Vittorio, Giuntini, Massimo, D’Erasmo, Rodrigo and Mariano De SimoneLinda ThompsonThompson, LindaPeter GabrielGabriel, PeterDa-Can Chen and Anxi JiangChen, Dacan and Jiang, Anxi東野美紀Higashino, Miki深見慶子Fukami, Keiko田中公平Tanaka, KoheiThe HU feat. Jacoby ShaddixHU, The feat. Shaddix, JacobyThe HUHU, TheCurtis SchweitzerSchweitzer, CurtisGareth Coker, Joel Corelitz &amp; Curtis SchweitzerCoker, Gareth, Corelitz, Joel &amp; Schweitzer, CurtisJoel CorelitzCorelitz, JoelGordy HaabHaab, GordyGordy Haab, Brian Trifon and Brian Lee WhiteHaab, Gordy, Trifon, Brian and White, Brian LeeChristopher LarkinLarkin, Christopher大島ミチル &amp; pentagonOshima, Michiru &amp; Pentagon大島ミチルOshima, MichiruBen BabbittBabbitt, BenGustavo SantaolallaSantaolalla, GustavoGustavo Santaolalla, Mac QuayleSantaolalla, Gustavo, Quayle, Mac鈴木光人 &amp; 浜渦正志Suzuki, Mitsuto &amp; Hamauzu, Masashi水田直志 &amp; 浜渦正志Mizuta, Naoshi &amp; Hamauzu, MasashiAndreas WollnyWollny, AndreasGabe McNairMizuta, NaoshiJames Hetfield, Lars UlrichHetfield, James, Ulrich, Lars浜渦正志 &amp; 水田直志 &amp; 鈴木光人Hamauzu, Masashi &amp; Mizuta, Naoshi &amp; Suzuki, MitsutoKirk Hammett, James Hetfield, Lars UlrichHammett, Kirk, Hetfield, James, Ulrich, LarsKirk Hammett, James Hetfield, Cliff Burton, Lars UlrichHammett, Kirk, Hetfield, James, Burton, Cliff, Ulrich, LarsKärtsy Hatakka &amp; Kimmo KajastoHatakka, Kärtsy &amp; Kajasto, KimmoJames Hetfield, Cliff Burton, Lars UlrichHetfield, James, Burton, Cliff, Ulrich, LarsJamie Christopherson; Jamie Alan ChristophersonChristopherson, JamieJamie Christopherson feat. Ferry CorstenChristopherson, Jamie feat. Corsten, FerryReo UrataniUratani, ReoMana OguraOgura, ManaSatoshi HoriHori, SatoshiIzumi KatoUratani, ReoFroebel Boys&apos; ChoirUratani, ReoKana AsumiChinone, MiwakoMasahiro OhkiOhki, MasahiroKanae MiyazakiUratani, ReoNao SatoSato, Nao小倉真奈Ogura, Mana堀諭史Hori, Satoshi鈴木まり香Suzuki, Marika堀諭史 &amp; Sarah ÀlainnHori, Satoshi &amp; Àlainn, SarahShiro HamaguchiKouda, Masato, Shibata, Tetsuya &amp; Takano, Mitsuhiko浜口史郎Hamaguchi, ShiroZac ZingerZinger, Zac康貞蘭Kang, Zhenlan牧野忠義Makino, Tadayoshi小見山優子Komiyama, Yuko酒井省吾Sakai, ShogoBrad Derrick &amp; Rik SchafferDerrick, Brad &amp; Schaffer, RikAlec HolowkaHolowka, Alecグローベス明里Kaida, Akari山口裕史 / 上田雅美Yamaguchi, Hiroshi &amp; Ueda, Masami平原綾香Hirahara, AyakaGareth Coker feat. Aeralie BrightonCoker, Gareth feat. Brighton, AeralieGareth Coker feat. Rachel MellisCoker, Gareth feat. Mellis, RachelGareth Coker feat. Tom BoydCoker, Gareth feat. Boyd, Tom川村ゆみKawamura, YumiAsuka Hayazaki, Atsuko Asahi, Hajime Wakai; Asuka Hayazaki, Atsuko Asahi &amp; Hajime WakaiHayazaki, Asuka, Asahi, Atsuko &amp; Wakai, HajimeShota Kageyama &amp; GAME FREAKKageyama, Shōta &amp; GAME FREAK西浦智仁 &amp; 斉藤恒芳Nishiura, Tomohito &amp; Saito, TsuneyoshiTsukasa TawadaTawada, TsukasaJames PrimatePrimate, JamesJames Primate &amp; Lydia PrimatePrimate, James &amp; Primate, LydiaJeff van Dyckvan Dyck, JeffVincent DiamanteDiamante, VincentDaniel LichtLicht, DanielDaniel Licht &amp; Jonathan Davis; Daniel LichtLicht, Danielcomposer:Jon LichtLicht, JonSEGASEGA Sound TeamFumie KumataniKumatani, FumieJun Senoue &amp; Naofumi HatayaSenoue, Jun &amp; Hataya, NaofumiMasato Nakamura, SEGA, Jun Senoue, Tomoya Ohtani &amp; Kenichi TokoiNakamura, Masato, SEGA Sound Team, Senoue, Jun, Ohtani, Tomoya &amp; Tokoi, Ken&apos;ichiHeigo Tani &amp; Fumie KumataniTani, Heigo &amp; Kumatani, FumieNaofumi HatayaHataya, NaofumiMasato Nakamura, SEGA, Jun Senoue, Hideki Naganuma &amp; Tomoya OhtaniNakamura, Masato, SEGA Sound Team, Senoue, Jun, Naganuma, Hideki &amp; Ohtani, TomoyaSpencer NilsenNilsen, SpencerJun Senoue &amp; Kenichi TokoiSenoue, Jun &amp; Tokoi, Ken&apos;ichiYutaka MinobeMinobe, YutakaJun Senoue, Masato Nakamura, SEGA, Tomoya Ohtani, Kenichi Tokoi, Naofumi Hataya &amp; Mariko NanbaSenoue, Jun, Nakamura, Masato, SEGA Sound Team, Ohtani, Tomoya, Tokoi, Ken&apos;ichi, Hataya, Naofumi &amp; Nanba, MarikoMax LLLL, MaxStewart CopelandCopeland, StewartYoshihiro SakaguchiSakaguchi, YoshihiroTakayuki IwaiIwai, TakayukiYuki IwaiIwai, YukiHideki OkugawaOkugawa, HidekiHideyuki FukasawaFukasawa, HideyukiJulian OzukaZucareli, JulianoJason SturgillSturgill, JasonRay CasarezCasarez, RayJeriah HumphreyHumphrey, JeriahErnest &quot;?aradox&quot; RobinsonRobinson, ErnestGaz West (RawR)West, Gazlara6683Wit, Lara deWaldemar GetmannGetmann, WaldemarADIA D IAlan GeeAlanGee15Hector Abraham aka StopBeingCHEEPAbraham, HectorGregory &quot;DJ Will Vega&quot; ClementsDJ Will VegaBrian CurryCurry, BrianPhyzeMiah, FaisalZak&apos; (Zaki Andiga)Andiga, ZakiZack AndrewAndrew, ZackDustin &quot;Dusk&quot; BranscumBranscum, DustinMike &quot;MrBulbamike&quot; StoneyMrBulbamikeRedrapper &amp; Dillon HulseRed Rapper &amp; Hulse, DillonAaron Ralph (AudioPlay inc.)Ralph, AaronCharles MartinetMartinet, CharlesNamco Sound TeamArakawa, Yoshie &amp; Takayanagi, Yoshie三宅優Miyake, Yu大久保博Okubo, Hiroshi中西哲一Nakanishi, Tetsukazu高橋弘太Takahashi, Kohta中村和宏Nakamura, Kazuhiro佐野信義Sano, Nobuyoshi田島勝朗Tajima, Katsuro内田哲也Uchida, Tetsuya帆足圭吾, 高田龍一, 中村和宏, 石濱翔, 濱本理央, 岡部啓一, 小林啓樹, 帆足圭吾 &amp; 崎元仁Hoashi, Keigo, Takada, Ryūichi, Nakamura, Kazuhiro, Ishihama, Kakeru, Hamamoto, Rio, Okabe, Keiichi, Kobayashi, Keiki, Hoashi, Keigo &amp; Sakimoto, HitoshiRio Hamamoto, Ryuichi TakadaHamamoto, RioKazuhiro NakamuraNakamura, KazuhiroShinji HosoeHosoe, ShinjiRyuichi TakadaTakada, RyūichiNoriyuki KamikuraKamikura, NoriyukiAzusa ChibaChiba, AzusaKimihiro AbeAbe, KimihiroMitsuhiro KanedaKaneda, MitsuhiroMasaharu IwataIwata, MasaharuKeigo HoashiHoashi, KeigoAkitaka Tohyama, Rio HamamotoHamamoto, RioKakeru IshihamaIshihama, KakeruNami NakagawaAJURIKADarnell AbrahamInoue, TakuYuu MiyakeMiyake, Yu細江慎治, 井上拓, 渡辺量, 椎名豪, 濱本理央, 三宅優, 矢野義人, 岡部啓一, 佐宗綾子 &amp; sanodgHosoe, Shinji, Inoue, Taku, Watanabe, Ryō, Shiina, Go, Hamamoto, Rio, Miyake, Yu, Yano, Yoshihito, Okabe, Keiichi, Saso, Ayako &amp; sanodgKeiichi Okabe; Keigo HoashiOkabe, Keiichi細江慎治Hosoe, Shinji渡辺量Watanabe, RyōLifeformed × Janice KwanLifeformed × Kwan, Janice小室哲哉Komuro, TetsuyaFrida Johansson &amp; Henrik OjaJohansson, Frida &amp; Oja, HenrikHiroyuki NambaFalcom Sound Team jdkFalcom Sound TeamFalcom Sound Team jdkJunichi KanezakiFalcom Sound Team jdk瑞葵mizuki浜渦正志, 鈴木光人Hamauzu, Masashi, Suzuki, Mitsuto片岡真悟Kataoka, Shingo本多高士, 片岡真悟Honda, Takashi, Kataoka, Shingo竹田隼大Takeda, Hayata竹田隼大, 片岡真悟Takeda, Hayata, Kataoka, Shingoタマ (CV: 竹達彩奈)Tama (CV: Taketatsu, Ayana)エナ・クロ (CV: 花澤香菜), タマ (CV: 竹達彩奈), セラフィ (CV: 喜多村英梨)Enna Kros (CV: Hanazawa, Kana), Tama (CV: Taketatsu, Ayana), Serafie (CV: Kitamura, Eri)Yasunori Mitsuda / ACE (TOMOri Kudo, CHiCO) / Kenji Hiramatsu / Manami Kiyota / Mariam Abounnasr / Yutaka KunigoMitsuda, Yasunori / ACE (Kudo, Tomori, CHiCO) / Hiramatsu, Kenji / Kiyota, Manami / Abounnasr, Mariam / Kunigo, YutakaYasunori Mitsuda / ACE (TOMOri KUDO &amp; CHiCO) / Kenji Hiramatsu / Manami KiyotaMitsuda, Yasunori / ACE (Kudo, Tomori &amp; CHiCO) / Hiramatsu, Kenji / Kiyota, ManamiMarkus MasuhrMasuhr, MarkusLars HemmerlingHemmerling, LarsEvan CallCall, EvanAndreas Waldetoft feat. Mia StegmarWaldetoft, Andreas feat. Stegmar, MiaDeon van HeerdenHeerden, Deon vanDoyle W. DonehooDonehoo, Doyle W.Edwin MontgomeryMontgomery, EdwinGergely ButtingerButtinger, GergelyPaul SchuegrafSchuegraf, PaulJohn StarlightStarlight, JohnChristian MorgensternMorgenstern, ChristianHeiko LauxLaux, HeikoMichael MayerMayer, MichaelDr. ShingoShingo, Dr.Clè &amp; Mike VampClè &amp; Vamp, MikeJohannes HeilHeil, JohannesKim CasconeCascone, KimJimi TenorTenor, JimiThe ModernistModernist, TheMike InkInk, MikeThomas BrinkmannBrinkmann, ThomasDoyle W. Donehoo &amp; Jonathan CacheratDonehoo, Doyle W. &amp; Cacherat, JonathanJonathan CacheratCacherat, JonathanMaxime HervéHervé, MaximeGav Thorpe read by Jonathan KeebleThorpe, Gavin read by Keeble, JonathanVarious Authors read by Jonathan Keeble &amp; Matthew HuntVarious Artists read by Keeble, Jonathan &amp; Hunt, MatthewNick Kyme read by Matthew HuntKyme, Nick read by Hunt, MatthewJohn French read by Jonathan KeebleFrench, John read by Keeble, JonathanChris Wraight read by Jonathan KeebleWraight, Chris read by Keeble, JonathanGuy Haley read by Jonathan KeebleGuy Haley read by Keeble, JonathanJames Swallow read by Jonathan KeebleSwallow, James read by Keeble, JonathanAnthony Reynolds read by Jonathan KeebleReynolds, Anthony read by Keeble, JonathanRob Sanders read by Jonathan KeebleSanders, Rob read by Keeble, JonathanMitchel Scanlon read by Gareth ArmstrongScanlon, Mitchel read by Armstrong, GarethJames Clavell read by Ralph ListerClavell, James read by Lister, RalphGuy Haley directed by Christian Dunn performed by Gareth Armstrong, Angus King &amp; Toby LongworthGuy Haley directed by Dunn, Christian performed by Armstrong, Gareth, King, Angus &amp; Longworth, TobyGraham McNeill read by Toby LongworthMcNeill, Graham read by Longworth, TobyGraham McNeill read by Martyn EllisMcNeill, Graham read by Ellis, MartynGraham McNeill read by David TimsonMcNeill, Graham read by Timson, DavidDan Abnett read by Toby LongworthAbnett, Dan read by Longworth, TobyBen Counter read by Toby LongworthCounter, Ben read by Longworth, TobyEminem &amp; CeeLo GreenEminem &amp; Green, CeeLoSwae Lee &amp; DiploLee, Swae &amp; DiploElvis Presley &amp; Stuart PricePresley, Elvis &amp; Price, StuartElvis Presley &amp; PNAUPresley, Elvis &amp; PNAUKacey MusgravesMusgraves, KaceyElvis Presley &amp; Nardo WickPresley, Elvis &amp; Nardo WickStevie Nicks &amp; Chris IsaakNicks, Stevie &amp; Isaak, ChrisAustin ButlerButler, AustinShonka DukurehDukureh, ShonkaLes GreeneGreene, LesDenzel Curry feat. PlayThatBoiZayCurry, Denzel feat. PlayThatBoiZayLenesha RandolphRandolph, LeneshaElvis Presley &amp; Tame ImpalaPresley, Elvis &amp; Tame ImpalaJazmine SullivanSullivan, JazmineElvis Presley &amp; Jack WhitePresley, Elvis &amp; White, JackAustin Butler &amp; Elvis PresleyButler, Austin &amp; Presley, ElvisElvis Presley feat. Nardo WickPresley, Elvis feat. Nardo WickDoc ScottScott, DocSt. GermainSt GermainLudovic NavarreNavarre, LudovicPizza Hotline FT. DJ TOTAL 90Pizza Hotline FT. TOTAL 90, DJThe SentinelSentinel, TheThe Truper &amp; The SentinelTruper, The &amp; Sentinel, TheAlan JacksonJackson, AlanBilly CurringtonCurrington, BillyBilly StringsStrings, BillyBrad PaisleyPaisley, BradBruce SpringsteenSpringsteen, Brucecomposer:Bruce SpringsteenSpringsteen, BruceCole SwindellSwindell, ColeCole Swindell &amp; Lainey WilsonSwindell, Cole &amp; Wilson, LaineyCole Swindell feat. HARDYSwindell, Cole feat. HARDYCole Swindell &amp; Jo Dee MessinaSwindell, Cole &amp; Messina, Jo DeeLuke CombsCombs, LukeLuke Combs feat. Brooks &amp; DunnCombs, Luke feat. Brooks &amp; DunnLuke Combs feat. Eric ChurchCombs, Luke feat. Church, EricLuke Combs feat. Amanda ShiresCombs, Luke feat. Shires, AmandaMorgan Wallen feat. Florida Georgia LineWallen, Morgan feat. Florida Georgia LineMorgan WallenWallen, MorganMorgan Wallen feat. Eric ChurchWallen, Morgan feat. Church, EricMorgan Wallen feat. HARDYWallen, Morgan feat. HARDYMorgan Wallen feat. ERNESTWallen, Morgan feat. ERNESTPost Malone w. Swae LeePost Malone w. Lee, SwaePost Malone w. Ty Dolla $ignPost Malone w. Ty Dolla SignPost Malone w. Nicki MinajPost Malone w. Minaj, NickiPost Malone feat. Tim McGrawPost Malone feat. McGraw, TimPost Malone feat. Hank Williams, Jr.Post Malone feat. Williams, Hank, Jr.Post Malone feat. Morgan WallenPost Malone feat. Wallen, MorganPost Malone feat. Blake SheltonPost Malone feat. Shelton, BlakePost Malone feat. Dolly PartonPost Malone feat. Parton, DollyPost Malone feat. Brad PaisleyPost Malone feat. Paisley, BradPost Malone feat. Luke CombsPost Malone feat. Combs, LukePost Malone feat. Lainey WilsonPost Malone feat. Wilson, LaineyPost Malone feat. Sierra FerrellPost Malone feat. Ferrell, SierraPost Malone feat. Chris StapletonPost Malone feat. Stapleton, ChrisPost Malone feat. Billy StringsPost Malone feat. Strings, BillyTaylor SwiftSwift, TaylorToby Keith feat. Willie NelsonKeith, Toby feat. Nelson, WillieTravis TrittTritt, TravisSheryl CrowCrow, SherylChuck BerryBerry, ChuckJames TaylorTaylor, JamesThe ChordsChords, TheJohn MayerMayer, JohnHank WilliamsWilliams, HankやなぎなぎYanagi, NagiPawel PerepelicaPerepelica, PawełDmitry V. SilantyevSilantyev, Dmitry V.Nikolay FilipovichFilipovich, NikolayVsevolod BorisovBorisov, VsevolodPavel LipskiLipski, PawełSergey GorelovGorelov, SergeyPawel Perepelica &amp; Nikolay DomochevskyPerepelica, Paweł &amp; Козлов, НиколайNikola Nikita JeremicJeremic, Nikola NikitaGeorge Andreas &amp; Chris SutherlandAndreas, George &amp; Sutherland, ChrisMusashi Project &amp; Toshio MasudaMusashi Project &amp; Masuda, ToshioToshio MasudaMasuda, ToshioNima FakhraraFakhrara, NimaNima Fakhrara &amp; Steve MolitzFakhrara, Nima &amp; Molitz, SteveSteve MolitzMolitz, Steve山本裕直, 坂東章平 &amp; 澤口和彦Yamamoto, Hironao, Bando, Shohei &amp; Sawaguchi, Kazuhiko永田権太, 若井淑, 峰岸透 &amp; 近藤浩治Nagata, Kenta, Wakai, Hajime, Minegishi, Tōru &amp; Kondo, Koji若井淑Wakai, Hajime増田俊郎Musashi Project &amp; Masuda, Toshio青木麻由子Aoki, Mayuko森田成一Morita, Masakazu青木麻由子 &amp; 森田成一Aoki, Mayuko &amp; Morita, Masakazu植松伸夫, 植松伸夫Uematsu, Nobuo, Uematsu, Nobuo白鳥英美子Shiratori, Emikocomposer:植松伸夫Uematsu, Nobuo王菲Wong, Faye菊田裕樹Kikuta, Hiroki伊藤賢治Itō, Kenji岩井由紀Iwai, Yuki岩井由紀 &amp; 竹原裕子Iwai, Yuki &amp; Takehara, Yuko竹原裕子Takehara, Yuko植松伸夫 &amp; 浜渦正志Uematsu, Nobuo &amp; Hamauzu, MasashiFaye WongWong, FayeBrian Trifon, Lennie Moore, Paul Lipson &amp; Tom SaltaTrifon, Brian, Moore, Lennie, Lipson, Paul &amp; Salta, TomPaul Lipson, Lennie Moore, Tom Salta, Brian Trifon, Brian Lee WhiteLipson, Paul, Moore, Lennie, Salta, Tom, Trifon, Brian, White, Brian LeePaul Lipson, Lennie Moore, Tom Salta, Brian Trifon, Brian Lee White feat. Steve VaiLipson, Paul, Moore, Lennie, Salta, Tom, Trifon, Brian, White, Brian Lee feat. Vai, Steve</ArtistSortMapping>
+<AlbumSortMapping>Crusader Kings 3Crusader Kings 03The Legacy Collection: Robin HoodＷａｌｔ　Ｄｉｓｎｅｙ　Ｒｅｃｏｒｄｓ　Ｔｈｅ　Ｌｅｇａｃｙ　Ｃｏｌｌｅｃｔｉｏｎ：　Ｒｏｂｉｎ　Ｈｏｏｄ　－　Ｏｒｉｇｉｎａｌ　ＳｏｕｎｄｔｒａｃｋKINGDOM HEARTS -HD 1.5 ReMIX- Original SoundtrackＫｉｎｇｄｏｍ　Ｈｅａｒｔｓ　ＨＤ　１．５　ＲｅＭＩＸ　Ｏｒｉｇｉｎａｌ　Ｓｏｕｎｄｔｒａｃｋ　ＢＯＸStar FoxStar Fox 01.5Star Fox 64 Original SoundtrackStar Fox 02World of Warcraft: Warlords of Draenor SoundtrackWorld of Warcraft 08World of Warcraft: CataclysmWorld of Warcraft 06World of Warcraft: Mists of PandariaWorld of Warcraft 07World of Warcraft: The Burning Crusade SoundtrackWorld of Warcraft 02LUPIN III BOXLupin III BOX 01BERSERKberserk tv 04Jak &amp; Daxter: The Precursor Legacy (official soundtrack)Jak and Daxter 01World of Warcraft SoundtrackWorld of Warcraft 01Final Fantasy Tactics Original SoundtrackFINAL FANTASY TACTICS 01RuneScape: Original Soundtrack ClassicsRuneScape 01Chrono Orchestral Arrangement BoxChrono Arrange 03ENDER LILIES: Quietus of the Knights Original SoundtrackENDER LILIES 02Monster Hunter Rise Extra TracksMonster Hunter 10.5Monster Hunter Rise Original SoundtrackMonster Hunter 10Monster Hunter Soundtrack BookMonster Hunter 01Ōkami Original SoundtrackOkami Original SoundtrackTekken 6 SoundtrackTekken 07Tekken 7 SoundtrackTekken 10Tekken Revolution SoundtrackTekken 09Tekken Tag Tournament: Direct AudioTekken 04Wanderers from Ys: Super Arrange VersionYs Arrange 03-01Heralds of the SeigeHeralds of the Siege (Anthology)</AlbumSortMapping>
+<TagIgnoreArtistPrefixes>true</TagIgnoreArtistPrefixes>
+<TagSortingIgnoreArtistPrefixList>
+ <string>The </string>
+</TagSortingIgnoreArtistPrefixList>
+<DisableSortAsTags>true</DisableSortAsTags>
+<HR_MaxDisplayCount>1</HR_MaxDisplayCount>
+<LC_HeaderBar>1,0,0|2,0,0|3,0,0</LC_HeaderBar>
+<LC_TopPanel />
+<LC_BottomPanel>20,0,0|22,0,0|23,0,0</LC_BottomPanel>
+<LC_Floating />
+<LC_Compact>16,0,0|17,0,0|10,1,0|18,1,0|20,0,0</LC_Compact>
+<LC_NPMainPanel>13,0,0</LC_NPMainPanel>
+<LC_NPSidebar>18,0,0|10,0,0|19,1,0</LC_NPSidebar>
+<NavigatorPanelLayout>0</NavigatorPanelLayout>
+<NavigatorPanelAudioBooksLayout>0</NavigatorPanelAudioBooksLayout>
+<NavigatorPanelVideoLayout>0</NavigatorPanelVideoLayout>
+<NavigatorPanelInboxLayout>1</NavigatorPanelInboxLayout>
+<NavigatorPanelPlaylistsLayout>1</NavigatorPanelPlaylistsLayout>
+<NavigatorPanelFoldersLayout>0</NavigatorPanelFoldersLayout>
+<NavigatorPanelSearchResultsLayout>0</NavigatorPanelSearchResultsLayout>
+<NavigatorMusicLibraryFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>268</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>64</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>202</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>181</Width>
+ </MediaField>
+ <MediaField>
+  <Code>10</Code>
+  <Width>58</Width>
+ </MediaField>
+ <MediaField>
+  <Code>46</Code>
+  <Width>67</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+</NavigatorMusicLibraryFields>
+<NavigatorMusicLibrarySortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Descending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorMusicLibrarySortColumns>
+<NavigatorMusicLibrarySortOverride>0</NavigatorMusicLibrarySortOverride>
+<NavigatorMusicLibraryGrouping>0</NavigatorMusicLibraryGrouping>
+<NavigatorMusicLibraryConsolidateAlbums>false</NavigatorMusicLibraryConsolidateAlbums>
+<NavigatorMusicLibraryByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorMusicLibraryByAlbumFields>
+<NavigatorMusicLibraryByAlbumSortOverride>0</NavigatorMusicLibraryByAlbumSortOverride>
+<NavigatorBookmarkFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>110</Width>
+ </MediaField>
+ <MediaField>
+  <Code>44</Code>
+  <Width>150</Width>
+ </MediaField>
+ <MediaField>
+  <Code>70</Code>
+  <Width>50</Width>
+ </MediaField>
+ <MediaField>
+  <Code>71</Code>
+  <Width>50</Width>
+ </MediaField>
+</NavigatorBookmarkFields>
+<NavigatorBookmarkSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+ <ColumnSortOrder>
+  <ColumnIndex>2</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+ <ColumnSortOrder>
+  <ColumnIndex>3</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorBookmarkSortColumns>
+<NavigatorSubscriptionsFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>18</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>356</Width>
+ </MediaField>
+ <MediaField>
+  <Code>56</Code>
+  <Width>52</Width>
+ </MediaField>
+ <MediaField>
+  <Code>57</Code>
+  <Width>175</Width>
+ </MediaField>
+ <MediaField>
+  <Code>192</Code>
+  <Width>84</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>63</Width>
+ </MediaField>
+</NavigatorSubscriptionsFields>
+<NavigatorAudioBooksFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>110</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>130</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>192</Code>
+  <Width>60</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorAudioBooksFields>
+<NavigatorAudioBooksSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorAudioBooksSortColumns>
+<NavigatorAudioBooksSortOverride>0</NavigatorAudioBooksSortOverride>
+<NavigatorAudioBooksGrouping>0</NavigatorAudioBooksGrouping>
+<NavigatorAudioBooksConsolidateAlbums>false</NavigatorAudioBooksConsolidateAlbums>
+<NavigatorAudioBooksByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>192</Code>
+  <Width>60</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorAudioBooksByAlbumFields>
+<NavigatorAudioBooksByAlbumSortOverride>0</NavigatorAudioBooksByAlbumSortOverride>
+<NavigatorRadioFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>67</Code>
+  <Width>19</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>186</Width>
+ </MediaField>
+ <MediaField>
+  <Code>44</Code>
+  <Width>174</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>151</Width>
+ </MediaField>
+ <MediaField>
+  <Code>5</Code>
+  <Width>52</Width>
+ </MediaField>
+ <MediaField>
+  <Code>10</Code>
+  <Width>76</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+</NavigatorRadioFields>
+<NavigatorRadioSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>2</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorRadioSortColumns>
+<NavigatorVideoFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>110</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>130</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorVideoFields>
+<NavigatorVideoSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorVideoSortColumns>
+<NavigatorVideoSortOverride>0</NavigatorVideoSortOverride>
+<NavigatorVideoGrouping>0</NavigatorVideoGrouping>
+<NavigatorVideoConsolidateAlbums>false</NavigatorVideoConsolidateAlbums>
+<NavigatorVideoByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>130</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorVideoByAlbumFields>
+<NavigatorVideoByAlbumSortOverride>0</NavigatorVideoByAlbumSortOverride>
+<NavigatorInboxFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>3</Code>
+  <Width>219</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>175</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>234</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>161</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>190</Width>
+ </MediaField>
+ <MediaField>
+  <Code>12</Code>
+  <Width>109</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>65</Width>
+ </MediaField>
+</NavigatorInboxFields>
+<NavigatorInboxSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>7</ColumnIndex>
+  <SortOrder>Descending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorInboxSortColumns>
+<NavigatorInboxSortOverride>0</NavigatorInboxSortOverride>
+<NavigatorInboxGrouping>0</NavigatorInboxGrouping>
+<NavigatorInboxConsolidateAlbums>false</NavigatorInboxConsolidateAlbums>
+<NavigatorInboxByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>12</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorInboxByAlbumFields>
+<NavigatorInboxByAlbumSortOverride>0</NavigatorInboxByAlbumSortOverride>
+<NavigatorHistoryFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>13</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>14</Code>
+  <Width>45</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>67</Code>
+  <Width>16</Width>
+ </MediaField>
+</NavigatorHistoryFields>
+<NavigatorHistorySortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Descending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorHistorySortColumns>
+<NavigatorHistorySortOverride>0</NavigatorHistorySortOverride>
+<NavigatorHistoryGrouping>0</NavigatorHistoryGrouping>
+<NavigatorHistoryConsolidateAlbums>false</NavigatorHistoryConsolidateAlbums>
+<NavigatorHistoryByAlbumSortOverride>0</NavigatorHistoryByAlbumSortOverride>
+<NavigatorSearchRFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>110</Width>
+ </MediaField>
+ <MediaField>
+  <Code>88</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>130</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorSearchRFields>
+<NavigatorSearchRSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorSearchRSortColumns>
+<NavigatorSearchRSortOverride>0</NavigatorSearchRSortOverride>
+<NavigatorSearchRGrouping>0</NavigatorSearchRGrouping>
+<NavigatorSearchRConsolidateAlbums>false</NavigatorSearchRConsolidateAlbums>
+<NavigatorSearchRByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorSearchRByAlbumFields>
+<NavigatorSearchRByAlbumSortOverride>0</NavigatorSearchRByAlbumSortOverride>
+<NavigatorPlaylistFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>15</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>32</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>112</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>142</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>101</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>115</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>56</Width>
+ </MediaField>
+</NavigatorPlaylistFields>
+<NavigatorPlaylistSortOverride>10</NavigatorPlaylistSortOverride>
+<NavigatorPlaylistGrouping>0</NavigatorPlaylistGrouping>
+<NavigatorPlaylistConsolidateAlbums>false</NavigatorPlaylistConsolidateAlbums>
+<NavigatorPlaylistByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>25</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorPlaylistByAlbumFields>
+<NavigatorPlaylistByAlbumSortOverride>0</NavigatorPlaylistByAlbumSortOverride>
+<NavigatorFolderFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>3</Code>
+  <Width>219</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>175</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>234</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>190</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>63</Width>
+ </MediaField>
+</NavigatorFolderFields>
+<NavigatorFolderSortColumns>
+ <ColumnSortOrder>
+  <ColumnIndex>1</ColumnIndex>
+  <SortOrder>Ascending</SortOrder>
+ </ColumnSortOrder>
+</NavigatorFolderSortColumns>
+<NavigatorFolderSortOverride>0</NavigatorFolderSortOverride>
+<NavigatorFolderGrouping>0</NavigatorFolderGrouping>
+<NavigatorFolderConsolidateAlbums>false</NavigatorFolderConsolidateAlbums>
+<NavigatorFolderByAlbumFields>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>3</Code>
+  <Width>150</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</NavigatorFolderByAlbumFields>
+<NavigatorFolderByAlbumSortOverride>0</NavigatorFolderByAlbumSortOverride>
+<TrackDetailHeaderContrast>0</TrackDetailHeaderContrast>
+<AlbumLayoutGroupingD>true</AlbumLayoutGroupingD>
+<AlbumLayoutGroupingP>false</AlbumLayoutGroupingP>
+<NavigatorAlbumHeader>0</NavigatorAlbumHeader>
+<AlbumLayoutHeaderContrast>0</AlbumLayoutHeaderContrast>
+<NavigatorAlbumHeader1>52</NavigatorAlbumHeader1>
+<AlbumLayoutHeaderContrast1>0</AlbumLayoutHeaderContrast1>
+<NavigatorAlbumListField0>31</NavigatorAlbumListField0>
+<NavigatorAlbumListField1>30</NavigatorAlbumListField1>
+<NavigatorAlbumListField2>88</NavigatorAlbumListField2>
+<NavigatorAlbumListField3>59</NavigatorAlbumListField3>
+<NavigatorAlbumListField4>0</NavigatorAlbumListField4>
+<NavigatorAlbumListField5>0</NavigatorAlbumListField5>
+<NavigatorAlbumListField6>0</NavigatorAlbumListField6>
+<AlbumTextOnRight>true</AlbumTextOnRight>
+<AlbumCompressTracks>false</AlbumCompressTracks>
+<AlbumCompressTracksP>false</AlbumCompressTracksP>
+<AlbumLayoutMinTracks>0</AlbumLayoutMinTracks>
+<AlbumLayoutDontSeparateDiscs>false</AlbumLayoutDontSeparateDiscs>
+<AlbumLayoutPadSubHeader>false</AlbumLayoutPadSubHeader>
+<AlbumTrackLayout>1</AlbumTrackLayout>
+<AlbumHDefault>true</AlbumHDefault>
+<AlbumHPlaylist>false</AlbumHPlaylist>
+<AlbumH1>true</AlbumH1>
+<AlbumH1Field>30</AlbumH1Field>
+<AlbumH1Contrast>0</AlbumH1Contrast>
+<AlbumH2>true</AlbumH2>
+<AlbumH2Contrast>0</AlbumH2Contrast>
+<AlbumH2F0>35</AlbumH2F0>
+<AlbumH2F1>59</AlbumH2F1>
+<AlbumH2F2>0</AlbumH2F2>
+<AlbumH2F3>0</AlbumH2F3>
+<AlbumSingleColumn>false</AlbumSingleColumn>
+<AlbumFLove>true</AlbumFLove>
+<AlbumFRating>false</AlbumFRating>
+<AlbumFHighlight>true</AlbumFHighlight>
+<JukeboxField0>65</JukeboxField0>
+<JukeboxContrast0>0</JukeboxContrast0>
+<JukeboxField1>32</JukeboxField1>
+<JukeboxContrast1>50</JukeboxContrast1>
+<JukeboxField2>35</JukeboxField2>
+<JukeboxContrast2>50</JukeboxContrast2>
+<JukeboxGroupBy>0</JukeboxGroupBy>
+<NavigatorArtworkGroupBy>0</NavigatorArtworkGroupBy>
+<NavigatorArtworkVideoGroupBy>0</NavigatorArtworkVideoGroupBy>
+<CoversGroupBy>30</CoversGroupBy>
+<CoversGroupFirstChar>true</CoversGroupFirstChar>
+<CoversGroupByCompressed>false</CoversGroupByCompressed>
+<CoversSubGroupBy>0</CoversSubGroupBy>
+<AP_DefaultArtistGrp>1</AP_DefaultArtistGrp>
+<ArtistGroupFirstChar>false</ArtistGroupFirstChar>
+<NavigatorArtworkLayoutSorting>5</NavigatorArtworkLayoutSorting>
+<NavigatorArtworkLayoutVideoSorting>13</NavigatorArtworkLayoutVideoSorting>
+<NavigatorArtworkLayoutField1>0</NavigatorArtworkLayoutField1>
+<NavigatorArtworkLayoutField2>0</NavigatorArtworkLayoutField2>
+<NavigatorArtworkLayoutContrast2>40</NavigatorArtworkLayoutContrast2>
+<NavigatorArtworkLayoutField3>0</NavigatorArtworkLayoutField3>
+<NavigatorArtworkLayoutField4>0</NavigatorArtworkLayoutField4>
+<NavigatorArtworkLayoutField5>0</NavigatorArtworkLayoutField5>
+<CoversHighlighting>false</CoversHighlighting>
+<NavigatorArtworkMergeFields>false</NavigatorArtworkMergeFields>
+<CoversAlwaysShowAlbums>false</CoversAlwaysShowAlbums>
+<CoversHideAlbumCount>false</CoversHideAlbumCount>
+<CoversFitPicturesToPanel>true</CoversFitPicturesToPanel>
+<AP_TextAlign>32</AP_TextAlign>
+<CoversTextTransparentBg>true</CoversTextTransparentBg>
+<CoversOverlayTextOnPicture>false</CoversOverlayTextOnPicture>
+<CoversDoubleClickPlayAlbum>true</CoversDoubleClickPlayAlbum>
+<AP_ShowTracksLocation>1</AP_ShowTracksLocation>
+<AP_DisableArtwork>false</AP_DisableArtwork>
+<AP_ShowAllArtwork>false</AP_ShowAllArtwork>
+<AP_AlbumCoverOnRight>false</AP_AlbumCoverOnRight>
+<NavigatorArtworkArtistAlbumSort>0</NavigatorArtworkArtistAlbumSort>
+<NavigatorArtworkAutoColour>true</NavigatorArtworkAutoColour>
+<AP_Header1>0</AP_Header1>
+<AP_Header2>0</AP_Header2>
+<AP_ExpandedTitle>65</AP_ExpandedTitle>
+<NavigatorArtworkGroupSubHeader>0</NavigatorArtworkGroupSubHeader>
+<NavigatorArtworkShowTracksLove>false</NavigatorArtworkShowTracksLove>
+<NavigatorArtworkShowTracksRating>false</NavigatorArtworkShowTracksRating>
+<AP_MaxColumns>2147483647</AP_MaxColumns>
+<AP_ArtSideFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>15</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>38</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>151</Width>
+ </MediaField>
+</AP_ArtSideFields>
+<AP_ArtSideBarSortOverride>0</AP_ArtSideBarSortOverride>
+<NavigatorArtworkShowTrackDetail>true</NavigatorArtworkShowTrackDetail>
+<AP_SideBarLayout>0</AP_SideBarLayout>
+<AP_SideBarArtistsLayout>1</AP_SideBarArtistsLayout>
+<AP_ArtSideBarGrouping>0</AP_ArtSideBarGrouping>
+<AP_ArtSideBarArtistsGrouping>0</AP_ArtSideBarArtistsGrouping>
+<FormPlayerControlDock>2</FormPlayerControlDock>
+<LC_MainPlayerBelowSB>true</LC_MainPlayerBelowSB>
+<LC_StatusBar>true</LC_StatusBar>
+<LayoutMenuDock>2</LayoutMenuDock>
+<TabsInCaption>true</TabsInCaption>
+<MF_TabsCentred>true</MF_TabsCentred>
+<MF_TabFontDefault>
+ <FontFamily>Atkinson Hyperlegible</FontFamily>
+ <Size>8.999999</Size>
+ <Style>Regular</Style>
+</MF_TabFontDefault>
+<MF_TabFontHighlight>
+ <FontFamily>Atkinson Hyperlegible</FontFamily>
+ <Size>8.999999</Size>
+ <Style>Bold</Style>
+</MF_TabFontHighlight>
+<MF_ButtonsDock>0</MF_ButtonsDock>
+<HotkeyColourIcons>false</HotkeyColourIcons>
+<MF_CaptionSearchTextWidth>100</MF_CaptionSearchTextWidth>
+<NavigatorSearchTextWidth>110</NavigatorSearchTextWidth>
+<MF_HideHeaderBar>false</MF_HideHeaderBar>
+<FormWindowState>Normal</FormWindowState>
+<FormLocation>
+ <X>1306</X>
+ <Y>240</Y>
+</FormLocation>
+<FormSize>
+ <Width>1157</Width>
+ <Height>827</Height>
+</FormSize>
+<FormTagEditorDock>1</FormTagEditorDock>
+<NavigatorInitialTabs>
+ <NavigationLocation>
+  <FolderCategory>1</FolderCategory>
+  <Url />
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <HideLeftPanel>1</HideLeftPanel>
+  <HideRightMain>2</HideRightMain>
+  <Layout>0</Layout>
+  <CustLayoutName>hank_main_layout</CustLayoutName>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>15</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>24</FolderCategory>
+  <Url />
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <PmUrl>D:\MusicBee\Core\Playlists\Cottage BGM.mbp</PmUrl>
+  <HideLeftPanel>1</HideLeftPanel>
+  <Layout>1</Layout>
+  <CustLayoutName>hank_playlist_layout</CustLayoutName>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>11</FolderCategory>
+  <Url>Send to iCloud</Url>
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <HideLeftPanel>1</HideLeftPanel>
+  <Layout>0</Layout>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>1</FolderCategory>
+  <Url />
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <TextOverride>Album View</TextOverride>
+  <HideLeftPanel>1</HideLeftPanel>
+  <HideDefaultRightPanel>2</HideDefaultRightPanel>
+  <Layout>2</Layout>
+  <CustLayoutName>hank_album_view_layout</CustLayoutName>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>5</FolderCategory>
+  <Url>Send to iCloud</Url>
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <HideLeftPanel>1</HideLeftPanel>
+  <Layout>0</Layout>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>4</FolderCategory>
+  <Url />
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <HideLeftPanel>1</HideLeftPanel>
+  <HideRightMain>2</HideRightMain>
+  <Layout>0</Layout>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+ <NavigationLocation>
+  <FolderCategory>7</FolderCategory>
+  <Url />
+  <ThumbBrowserField>31</ThumbBrowserField>
+  <HideLeftPanel>1</HideLeftPanel>
+  <HideRightMain>2</HideRightMain>
+  <Layout>1</Layout>
+  <CustView>false</CustView>
+  <GroupBy>0</GroupBy>
+  <TopIndex>0</TopIndex>
+  <SelectedIndex>-1</SelectedIndex>
+ </NavigationLocation>
+</NavigatorInitialTabs>
+<NavigatorInitialTabIndex>0</NavigatorInitialTabIndex>
+<NavigatorWidth>150</NavigatorWidth>
+<NavigatorThumbBrowserWidth>215</NavigatorThumbBrowserWidth>
+<NavigatorRightPanel>189</NavigatorRightPanel>
+<FormNowPlayingSidebarWidth>209</FormNowPlayingSidebarWidth>
+<NavigatorQuickBrowseVisible>true</NavigatorQuickBrowseVisible>
+<NavigatorShowJumpList>2</NavigatorShowJumpList>
+<LC_LeftSidebar>5,0,0</LC_LeftSidebar>
+<LC_LeftMainPanel />
+<LC_MainPanel>11,0,0|12,0,0|13,0,0</LC_MainPanel>
+<LC_RightMainPanel>17,0,0</LC_RightMainPanel>
+<LC_RightSidebar>39,0,0|18,0,0|35,0,0</LC_RightSidebar>
+<Nav_PanelHeight>300</Nav_PanelHeight>
+<NavigatorShowLibraryFilters>false</NavigatorShowLibraryFilters>
+<NavigatorShowBookmarks>false</NavigatorShowBookmarks>
+<NavigatorShowPodcasts>true</NavigatorShowPodcasts>
+<NavigatorShowAudioBooks>true</NavigatorShowAudioBooks>
+<NavigatorShowRadioStations>true</NavigatorShowRadioStations>
+<NavigatorShowVideo>false</NavigatorShowVideo>
+<NavigatorShowInbox>true</NavigatorShowInbox>
+<NavigatorShowHistory>true</NavigatorShowHistory>
+<NavigatorShowNowPlaying>true</NavigatorShowNowPlaying>
+<NavigatorShowMusicExplorer>true</NavigatorShowMusicExplorer>
+<NavigatorShowPlaylistsTab>true</NavigatorShowPlaylistsTab>
+<Nav_ShowAutoDj>true</Nav_ShowAutoDj>
+<Nav_ShowPlaylistManager>true</Nav_ShowPlaylistManager>
+<NavigatorShowWebTab>true</NavigatorShowWebTab>
+<NavigatorShowComputerTab>true</NavigatorShowComputerTab>
+<NavigatorShowSubFolderFiles>false</NavigatorShowSubFolderFiles>
+<NavigatorShowFilteredFolders>false</NavigatorShowFilteredFolders>
+<NavigatorGroupPlaylistsByName>false</NavigatorGroupPlaylistsByName>
+<PM_ManualPlaylistOrder>false</PM_ManualPlaylistOrder>
+<NavigatorAllowFolderTreeMove>false</NavigatorAllowFolderTreeMove>
+<NavigatorPlaylistExpanded>true</NavigatorPlaylistExpanded>
+<NavigatorWebExpanded>false</NavigatorWebExpanded>
+<NavigatorFolderExpanded>true</NavigatorFolderExpanded>
+<NavigatorInitialExpandedFolders>
+ <string>D:\</string>
+ <string>D:\MusicBee\</string>
+ <string>D:\MusicBee\Core\</string>
+</NavigatorInitialExpandedFolders>
+<ThumbPanelHeight>300</ThumbPanelHeight>
+<ThumbPanelWidth>220</ThumbPanelWidth>
+<ThumbPictureSize>2</ThumbPictureSize>
+<ThumbHideAlbumStats>false</ThumbHideAlbumStats>
+<ThumbHideInPlaylists>false</ThumbHideInPlaylists>
+<ThumbAlwaysShowAlbumCover>true</ThumbAlwaysShowAlbumCover>
+<LE_PanelHeight>325</LE_PanelHeight>
+<FormLibraryExplorerCategory>31</FormLibraryExplorerCategory>
+<FormLibraryExplorerCategories>
+ <int>31</int>
+ <int>59</int>
+ <int>64</int>
+ <int>66</int>
+</FormLibraryExplorerCategories>
+<FormLibraryExplorerSorting>1</FormLibraryExplorerSorting>
+<FormLibraryExplorerSortOverrides>
+ <int>1</int>
+ <int>1</int>
+ <int>1</int>
+ <int>1</int>
+</FormLibraryExplorerSortOverrides>
+<FormLibraryExplorerCountType>0</FormLibraryExplorerCountType>
+<FormLibraryExplorerSTF>false</FormLibraryExplorerSTF>
+<THE_PanelHeight>0</THE_PanelHeight>
+<THE_TemplateName>Genres</THE_TemplateName>
+<THE_ShowCount>false</THE_ShowCount>
+<THE_ExpandedNodes>
+</THE_ExpandedNodes>
+<THE_ShowFinder>false</THE_ShowFinder>
+<FM_PanelHeight>611</FM_PanelHeight>
+<FormNowPlayingFollow>false</FormNowPlayingFollow>
+<MainPanelHighlightColour>0</MainPanelHighlightColour>
+<MP_PictureSize>2</MP_PictureSize>
+<ACP_Source>0</ACP_Source>
+<FormNowPlayingSidebarArtwork2Height>0</FormNowPlayingSidebarArtwork2Height>
+<AP_Height>0</AP_Height>
+<AP_MainPanelHeight>285</AP_MainPanelHeight>
+<ABP_PersonType>32</ABP_PersonType>
+<ABP_Source>0</ABP_Source>
+<ABP_Height>0</ABP_Height>
+<LYP_Source>0</LYP_Source>
+<LYP_Height>0</LYP_Height>
+<LYP_AlwaysCentered>false</LYP_AlwaysCentered>
+<SoundGraphHeight>34</SoundGraphHeight>
+<SoundGraphCount>1</SoundGraphCount>
+<FormNowPlayingSidebarArtworkHeight>395</FormNowPlayingSidebarArtworkHeight>
+<TIP_FloatHeight>0</TIP_FloatHeight>
+<TIP_NowPlayHeight>0</TIP_NowPlayHeight>
+<TIP_Source>0</TIP_Source>
+<FormNowPlayingArtwork>ImageAboveText</FormNowPlayingArtwork>
+<FormNowPlayingArtworkSize>0</FormNowPlayingArtworkSize>
+<FormNowPlayingTrackInfoMax0>1</FormNowPlayingTrackInfoMax0>
+<FormNowPlayingTrackInfoMax1>1</FormNowPlayingTrackInfoMax1>
+<FormNowPlayingTrackInfoMax2>1</FormNowPlayingTrackInfoMax2>
+<FormNowPlayingTrackInfoMax3>1</FormNowPlayingTrackInfoMax3>
+<FormNowPlayingTrackInfoMax4>1</FormNowPlayingTrackInfoMax4>
+<FormNowPlayingTrackInfoMax5>1</FormNowPlayingTrackInfoMax5>
+<FormNowPlayingTrackInfoMax6>1</FormNowPlayingTrackInfoMax6>
+<FormNowPlayingTrackRating>false</FormNowPlayingTrackRating>
+<FormNowPlayingTrackLove>false</FormNowPlayingTrackLove>
+<FormNowPlayingPDF>false</FormNowPlayingPDF>
+<FormNowPlayingTrackUrl>true</FormNowPlayingTrackUrl>
+<FormNowPlayingTrackInfoExtended>true</FormNowPlayingTrackInfoExtended>
+<LinkToFilter>false</LinkToFilter>
+<FormNowPlayingSidebarArtworkHeight2>132</FormNowPlayingSidebarArtworkHeight2>
+<TIP_FloatHeight2>0</TIP_FloatHeight2>
+<TIP_NowPlayHeight2>0</TIP_NowPlayHeight2>
+<TIP_Source2>0</TIP_Source2>
+<FormNowPlayingArtwork2>Overlay</FormNowPlayingArtwork2>
+<FormNowPlayingArtworkSize2>0</FormNowPlayingArtworkSize2>
+<FormNowPlaying2TrackInfoMax0>1</FormNowPlaying2TrackInfoMax0>
+<FormNowPlaying2TrackInfoMax1>1</FormNowPlaying2TrackInfoMax1>
+<FormNowPlaying2TrackInfoMax2>1</FormNowPlaying2TrackInfoMax2>
+<FormNowPlaying2TrackInfoMax3>1</FormNowPlaying2TrackInfoMax3>
+<FormNowPlaying2TrackInfoMax4>1</FormNowPlaying2TrackInfoMax4>
+<FormNowPlaying2TrackInfoMax5>1</FormNowPlaying2TrackInfoMax5>
+<FormNowPlaying2TrackInfoMax6>1</FormNowPlaying2TrackInfoMax6>
+<FormNowPlaying2TrackRating>false</FormNowPlaying2TrackRating>
+<FormNowPlaying2TrackLove>false</FormNowPlaying2TrackLove>
+<FormNowPlaying2PDF>false</FormNowPlaying2PDF>
+<FormNowPlaying2TrackUrl>false</FormNowPlaying2TrackUrl>
+<FormNowPlaying2TrackInfoExtended>false</FormNowPlaying2TrackInfoExtended>
+<LinkToFilter2>false</LinkToFilter2>
+<NavigatorArtworkTracksHeight>0</NavigatorArtworkTracksHeight>
+<NavigatorArtworkTracksWidth>221</NavigatorArtworkTracksWidth>
+<AP_DrillDown>1</AP_DrillDown>
+<AP_ArtDrillDown>1</AP_ArtDrillDown>
+<AP_ArtDrillDownGrouping>0</AP_ArtDrillDownGrouping>
+<FormNowPlayingShowTrackFinder>false</FormNowPlayingShowTrackFinder>
+<FormNowPlayingPanelLayout>3</FormNowPlayingPanelLayout>
+<PT_ShowUpcoming>false</PT_ShowUpcoming>
+<FormNowPlayingHighlight>false</FormNowPlayingHighlight>
+<HighlightColour>0</HighlightColour>
+<FormNowPlayingSidebarFileListHeight>395</FormNowPlayingSidebarFileListHeight>
+<PT_ThumbSize>2</PT_ThumbSize>
+<NowPlayingThumbFields0>65</NowPlayingThumbFields0>
+<NowPlayingThumbContrast0>100</NowPlayingThumbContrast0>
+<PT_ThumbFieldsR0>16</PT_ThumbFieldsR0>
+<PT_ThumbContrastR0>100</PT_ThumbContrastR0>
+<NowPlayingThumbFields1>32</NowPlayingThumbFields1>
+<NowPlayingThumbContrast1>40</NowPlayingThumbContrast1>
+<PT_ThumbFieldsR1>0</PT_ThumbFieldsR1>
+<PT_ThumbContrastR1>0</PT_ThumbContrastR1>
+<NowPlayingThumbFields2>0</NowPlayingThumbFields2>
+<NowPlayingThumbContrast2>0</NowPlayingThumbContrast2>
+<PT_ThumbFieldsR2>0</PT_ThumbFieldsR2>
+<PT_ThumbContrastR2>0</PT_ThumbContrastR2>
+<FormNowPlayingSidebarFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>25</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+</FormNowPlayingSidebarFields>
+<FormNowPlayingSidebarFieldsAlbTr>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>25</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+</FormNowPlayingSidebarFieldsAlbTr>
+<FormNowPlayingBottomPanelHeight>150</FormNowPlayingBottomPanelHeight>
+<FormNowPlayingBottomPanelFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>25</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>30</Code>
+  <Width>110</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>59</Code>
+  <Width>130</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</FormNowPlayingBottomPanelFields>
+<FormNowPlayingBottomPanelAlbTr>
+ <MediaField>
+  <Code>40</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>53</Code>
+  <Width>40</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>160</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>120</Width>
+ </MediaField>
+ <MediaField>
+  <Code>75</Code>
+  <Width>75</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>45</Width>
+ </MediaField>
+</FormNowPlayingBottomPanelAlbTr>
+<FormNowPlayingWindowFields>
+ <MediaField>
+  <Code>20</Code>
+  <Width>16</Width>
+ </MediaField>
+ <MediaField>
+  <Code>78</Code>
+  <Width>29</Width>
+ </MediaField>
+ <MediaField>
+  <Code>65</Code>
+  <Width>221</Width>
+ </MediaField>
+ <MediaField>
+  <Code>32</Code>
+  <Width>165</Width>
+ </MediaField>
+ <MediaField>
+  <Code>16</Code>
+  <Width>60</Width>
+ </MediaField>
+</FormNowPlayingWindowFields>
+<PlayerSidebarPlayerHidePB>false</PlayerSidebarPlayerHidePB>
+<SBP_HideText>false</SBP_HideText>
+<SBP_ShowPlayDur>false</SBP_ShowPlayDur>
+<PlayerSidebarPlayerShowAll2>false</PlayerSidebarPlayerShowAll2>
+<NPB_Height>175</NPB_Height>
+<NPB_DefaultTab>0</NPB_DefaultTab>
+<NPB_AutoColor>true</NPB_AutoColor>
+<TrackAndArtistShowLyricsBottom>true</TrackAndArtistShowLyricsBottom>
+<NPB_ShowArtist>false</NPB_ShowArtist>
+<NavigatorQuickBrowseOrientation>0</NavigatorQuickBrowseOrientation>
+<NavigatorQuickBrowseHeight>225</NavigatorQuickBrowseHeight>
+<NavigatorQuickBrowseWidth>193</NavigatorQuickBrowseWidth>
+<CB_PanelWidthSbS>570</CB_PanelWidthSbS>
+<NavigatorQuickBrowseShowCount>false</NavigatorQuickBrowseShowCount>
+<NavigatorQuickBrowseVisibleNotPlaylists>false</NavigatorQuickBrowseVisibleNotPlaylists>
+<NavigatorTrackBrowserPrimaryFilter>105</NavigatorTrackBrowserPrimaryFilter>
+<NavigatorTrackBrowserPrimary2Filter>59</NavigatorTrackBrowserPrimary2Filter>
+<NavigatorTrackBrowserSecondaryFilter>32</NavigatorTrackBrowserSecondaryFilter>
+<NavigatorTrackBrowserTertiaryFilter>30</NavigatorTrackBrowserTertiaryFilter>
+<NavigatorTrackBrowserSort0>2</NavigatorTrackBrowserSort0>
+<CB_SizeAdj0>-44</CB_SizeAdj0>
+<CB_SizeAdj1>-25</CB_SizeAdj1>
+<CB_SizeAdj2>-10</CB_SizeAdj2>
+<NavigatorTrackBrowserSort3>2</NavigatorTrackBrowserSort3>
+<CB_SizeAdj3>109</CB_SizeAdj3>
+<NavigatorTrackBrowser4Filter>46</NavigatorTrackBrowser4Filter>
+<NavigatorTrackBrowserSort4>1</NavigatorTrackBrowserSort4>
+<CB_SizeAdj4>-28</CB_SizeAdj4>
+<NavigatorTrackBrowser5Filter>0</NavigatorTrackBrowser5Filter>
+<NavigatorTrackBrowserSort5>1</NavigatorTrackBrowserSort5>
+<NavigatorTrackBrowser6Filter>0</NavigatorTrackBrowser6Filter>
+<NavigatorTrackBrowserSort6>1</NavigatorTrackBrowserSort6>
+<NavigatorTrackBrowser7Filter>0</NavigatorTrackBrowser7Filter>
+<NavigatorTrackBrowserSort7>1</NavigatorTrackBrowserSort7>
+<NavigatorAzOrientation>0</NavigatorAzOrientation>
+<NavigatorAzMultiLetter>false</NavigatorAzMultiLetter>
+<SpectrumHeight>34</SpectrumHeight>
+<SpectrumType>1</SpectrumType>
+<VIS_Height>175</VIS_Height>
+<NavigatorVisualiserId>C:\Program Files (x86)\MusicBee\BBPlugin\Interference.dll</NavigatorVisualiserId>
+<LayoutVisualiserStartup>0</LayoutVisualiserStartup>
+<LayoutVisualiserFullScreenDock>4</LayoutVisualiserFullScreenDock>
+<VV_Type>0</VV_Type>
+<SP_Height0>100</SP_Height0>
+<TAG_PanelCollapsed>false</TAG_PanelCollapsed>
+<TAG_Source>1</TAG_Source>
+<TAG_Fields>
+ <int>75</int>
+ <int>32</int>
+ <int>65</int>
+ <int>30</int>
+ <int>31</int>
+ <int>46</int>
+ <int>47</int>
+</TAG_Fields>
+<TAG_LastPanel>5</TAG_LastPanel>
+<TAG_LastIndex>0</TAG_LastIndex>
+<RadioFoldersPanelWidth>199</RadioFoldersPanelWidth>
+<RadioFolders />
+<RadioManualSort>false</RadioManualSort>
+<RadioThumbsLayout>false</RadioThumbsLayout>
+<StationDirectoryHeight>280</StationDirectoryHeight>
+<HideRadioDirectory>false</HideRadioDirectory>
+<PresetsFilePath />
+<PP_FoldersHeight>0</PP_FoldersHeight>
+<PP_Folders>Comedy
